@@ -1,0 +1,156 @@
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js" type="text/javascript"></script>
+<script src="/js/funciones.js" type="text/javascript"></script>
+<script src="/assets/datepicker/build/jquery.datetimepicker.full.js" type="text/javascript"></script>
+<script src="/js/SectorAdd.js" type="text/javascript" type="text/javascript"></script>
+
+<?php
+require '../../conexion.php';
+require '../../funciones.php';
+$ip = $_SERVER['REMOTE_ADDR']; //IP del coordinador. Esto lo usaremos para incluirlo en el registro de cambios.
+$staff = $_COOKIE['vid']; //VID del coordinador
+$fechaHoy = date('YmdHis'); //Esta fecha la utilizaremos para versionar las cartas antiguas
+
+/*
+Este script permite al coordinador cargar una carta.
+*/
+
+if(isset($_GET['enviar'])) //Si el usuario ha presionado el botón Cargar...
+{	
+	$_POST['tipo'] = 1;
+	$tipo = $_POST['tipo'] == 1 ? 'cartas' : 'ruteros'; //1: Aerodromo, 2: En Ruta
+	
+	$urlA = explode('.', $_FILES['archivo']['name']); //Separamos el nombre del archivo de la extension para cambiar el nombre por el ID
+	if(file_exists("/var/www/vhosts/ar.ivao.aero/files.ar.ivao.aero/FO/$tipo/".$_FILES['archivo']['name'])) copy("/var/www/vhosts/ar.ivao.aero/files.ar.ivao.aero/FO/$tipo/".$_FILES['archivo']['name'], "/var/www/vhosts/ar.ivao.aero/files.ar.ivao.aero/FO/$tipo/OLD/".$fechaHoy.$_FILES['archivo']['name']); //Si la carta ya existe, la copiamos a OLD
+	
+	move_uploaded_file($_FILES['archivo']['tmp_name'], "/var/www/vhosts/ar.ivao.aero/files.ar.ivao.aero/FO/$tipo/".$_FILES['archivo']['name']); //Movemos el archivo
+	
+	$id = $urlA[0]; // ICAO/Area
+	
+	if($_POST['tipo'] == 1){
+		$sql = mysqli_query($con, "SELECT * FROM airports WHERE icao = '$id'");
+		$countICAO = mysqli_num_rows($sql);
+		if($countICAO >= 1){
+			$resICAO = mysqli_fetch_array($sql);
+			$nombre = $resICAO['name'];
+		}else{
+			$nombre = $_POST['name']; //Nombre de la carta
+		}
+	}else{
+		$nombre = $_POST['name']; //Nombre de la carta
+	}
+	
+	$efectividad = $_POST['efectividad']; //Fecha efectividad
+	$airac = $_POST['airac'];
+	 
+	$queryA = mysqli_query($con, "SELECT * FROM aip_charts WHERE icao = '$id'");
+	$countA = mysqli_num_rows($queryA);
+	if($countA == 0 || $_POST['tipo'] == 2){ $continue = 1;}
+	
+	if(isset($continue))
+	{
+		$sql1 = $_POST['tipo'] == 1 ? "INSERT INTO aip_charts(icao, name, effective, airac) VALUES('$id', '$nombre', '$efectividad', '$airac')" : "INSERT INTO aip_enroute(area, name, effective, airac) VALUES('$id', '$nombre', '$efectividad', '$airac')"; //SQL correspondiente segun la tabla
+		$sql2 = "INSERT INTO staff_actions(vid, action, ip) VALUES($staff, 'Se ha cargado la carta $nombre', '$ip')"; //Registramos este cambio
+		mysqli_multi_query($con, $sql1.'; '.$sql2.';') or die('<p class="alert-danger">Ha habido un error al insertar en la base de datos.</p>'.mysqli_error($con));
+		mysqli_next_result($con); //Movemos el puntero al siguiente resultado (solo hay 2) del multiquery ya que, si no lo hacemos, no podremos ejecutar la siguiente consulta. 
+
+		echo '<div class="alert alert-success" role="alert" style="text-align: center;"><i class="fa fa-info-circle fa-fw fa-2"></i> Carta cargada correctamente.</div>';
+	}
+	else
+	{
+		$sql1 = "UPDATE aip_charts SET effective = '$efectividad', airac = '$airac' WHERE icao = '$id'";
+		$sql2 = "INSERT INTO staff_actions(vid, action, ip) VALUES($staff, 'Se ha cargado la carta $nombre', '$ip')";
+		mysqli_multi_query($con, $sql1.'; '.$sql2.';') or die('<p class="alert-danger">Ha habido un error al insertar en la base de datos.</p>'.mysqli_error($con));
+		mysqli_next_result($con); //Movemos el puntero al siguiente resultado (solo hay 2) del multiquery ya que, si no lo hacemos, no podremos ejecutar la siguiente consulta.
+		echo '<div class="alert alert-success" role="alert" style="text-align: center;"><i class="fa fa-info-circle fa-fw fa-2"></i> Carta actualizada correctamente.</div>';
+	}
+	
+	$ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, "https://api.cloudflare.com/client/v4/zones/62a3b9f0537a858a703e5d9a678fa113/purge_cache");
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_VERBOSE, 1);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "DELETE");
+
+   	$headers = [ 
+    'X-Auth-Email: web@ar.ivao.aero',
+    'X-Auth-Key: 55b8219bd688b867cf9d1bde930e26c577ba4',
+    'Content-Type: application/json'
+	];
+
+	curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+	
+	$url = "https://files.ar.ivao.aero/FO/".$tipo."/".$id.".pdf";
+
+    $dnsData = array();
+	$dnsData["files"] = [
+		$url
+		];
+
+    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($dnsData));
+    $result = curl_exec($ch);
+    $response = json_decode($result);
+	$success = utf8_decode($response->success);
+	if($success == 1){
+		echo '<div class="alert alert-success" role="alert" style="text-align: center;"><i class="fa fa-info-circle fa-fw fa-2"></i> Se ha limpiado la memoria cache exitosamente.</div>';
+	}
+	
+}else{
+?>                        
+                        <h2>Operaciones de Vuelo <small> Nueva Carta</small></h2>
+                        
+                        <div class="alert alert-warning" role="alert" style="text-align: center;"><i class="fa fa-info-circle fa-fw fa-2"></i> ATENCIÓN: El nombre del archivo de las cartas de aerodromo debe ser el código ICAO.</div>
+                        
+                        
+<form class="form-horizontal" action="#" method="post" role="form">
+<fieldset>
+
+<div class="form-group">
+	<label class="col-md-3 control-label" for="nombre">Nombre</label>
+    <div class="col-md-3">
+        <input class="form-control input-md" id="nombre" placeholder="i.e. Aeroparque Jorge Newbery" name="nombre" type="text" required />
+    </div>
+</div>
+
+<!-- <div class="form-group">
+	<label class="col-xs-3 control-label" for="tipo">Tipo</label>
+	<div id="tipo" class="form-group">
+			<input value="1" name="tipo" type="radio" required /> Aer&oacute;dromo
+			<input value="2" name="tipo" type="radio" required /> Rutero
+	</div>
+</div> -->
+
+
+<!-- Text input-->
+<div class="form-group">
+    <label class="col-md-3 control-label" for="fecha">Efectividad</label>  
+    <div class="col-md-3">
+          <input class="form-control input-md" id="fecha" name="efectividad" type="text" required />
+    </div>
+</div>
+
+<div class="form-group">
+	<label class="col-md-3 control-label" for="airac">AIRAC</label>
+    <div class="col-md-3">
+          <input class="form-control input-md" id="airac" name="airac" type="text" required />
+    </div>
+</div>
+
+<div class="form-group">
+	<label class="col-md-3 control-label" for="url">Carta</label>
+    <div class="col-md-3">
+ 		 <input type="hidden" name="MAX_FILE_SIZE" value="20000000" />
+        <input class="form-control input-md" id="url" name="archivo" type="file" />
+    </div>
+</div>
+
+<div class="form-group">
+  <div class="col-md-4">
+	<input onclick="enviarForm('OpsVuelo/ChartAdd.php?enviar=enviar', '.tooltip-demo')" type="button" class="btn btn-success btn-xs" name="enviar" value="Cargar">
+    <input type="reset" class="btn btn-warning btn-xs" value="Restablecer" />
+  </div>
+</div>
+</fieldset>
+</form>
+<?php
+}
+?>

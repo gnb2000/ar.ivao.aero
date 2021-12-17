@@ -1,0 +1,172 @@
+<script type="text/javascript">
+$.datetimepicker.setLocale('es');
+$('.form-control').datetimepicker({ step: 30, datepicker: false, format: 'H:i' });
+</script>
+
+                        <h2 style="margin-bottom: 15px !important;">Entrenamiento <small> Programaci&oacute;n Horaria</small></h2>
+                        <div class="alert alert-danger" role="alert"><strong>Atenci&oacute;n!</strong> Si ya ha insertado un horario, &eacute;ste se borrar&aacute; y se insertar&aacute; uno nuevo. Recuerde introducir su horario en el sistema UTC.</div>
+<form id="formsched">                      
+                        <fieldset id="lunes" class="row">
+                        	<legend>Lunes</legend>
+                             
+                            
+                          <div id="lunesinicio" class="col-md-4">
+                                                    
+                          Hora Inicio
+
+                        <input class="form-control input-md" name="lunes[0][0]" type="text"  />
+                          
+                          </div>
+                          
+                          <div id="lunesfin" class="col-md-4"> 
+                          
+                          Hora Fin
+                          
+                         <input class="form-control input-md" name="lunes[0][1]" type="text" />  
+                                                   
+                          </div><br />
+                            <input onclick="agregarCampos('lunes')" type="button" value="+" />
+                            <input onclick="eliminarUltimosCampos('lunes')" type="button" value="-" />
+                        </fieldset><br />
+                        
+                        <fieldset id="martes" class="row">
+                        	<legend>Martes</legend>
+                            
+                            
+                          <div id="martesinicio" class="col-md-4">
+                                                    
+                          Hora Inicio
+
+                        <input class="form-control input-md" name="martes[0][0]" type="text"  />
+                          
+                          </div>
+                          
+                          <div id="martesfin" class="col-md-4">
+                          
+                          Hora Fin
+                          
+                         <input class="form-control input-md" name="martes[0][1]" type="text" />  
+                                                   
+                          </div><br />
+                            <input onclick="agregarCampos('martes')" type="button" value="+" />
+                            <input onclick="eliminarUltimosCampos('martes')" type="button" value="-" />
+                        </fieldset><br />
+                        
+                        <fieldset id="miercoles" class="row">
+                        	<legend>Mi&eacute;rcoles</legend>
+                            
+                            
+                          <div id="miercolesinicio" class="col-md-4">
+                                                    
+                          Hora Inicio
+
+                        <input class="form-control input-md" name="miercoles[0][0]" type="text"  />
+                          
+                          </div>
+                          
+                          <div id="miercolesfin" class="col-md-4">
+                          
+                          Hora Fin
+                          
+                         <input class="form-control input-md" name="miercoles[0][1]" type="text" />  
+                                                   
+                          </div><br />
+                            <input onclick="agregarCampos('miercoles')" type="button" value="+" />
+                            <input onclick="eliminarUltimosCampos('miercoles')" type="button" value="-" />
+                        </fieldset><br />
+                        
+                        <fieldset id="jueves" class="row">
+                        	<legend>Jueves</legend>
+                            
+                            
+                          <div id="juevesinicio" class="col-md-4">
+                                                    
+                          Hora Inicio
+
+                        <input class="form-control input-md" name="jueves[0][0]" type="text"  />
+                          
+                          </div>
+                          
+                          <div id="juevesfin" class="col-md-4">
+                          
+                          Hora Fin
+                          
+                         <input class="form-control input-md" name="jueves[0][1]" type="text" />  
+                                                   
+                          </div><br />
+                            <input onclick="agregarCampos('jueves')" type="button" value="+" />
+                            <input onclick="eliminarUltimosCampos('jueves')" type="button" value="-" />
+                        </fieldset><br />
+                        
+                        <fieldset id="viernes" class="row">
+                        	<legend>Viernes</legend>
+                            
+                            
+                          <div id="viernesinicio" class="col-md-4">
+                                                    
+                          Hora Inicio
+
+                        <input class="form-control input-md" name="viernes[0][0]" type="text"  />
+                          
+                          </div>
+                          
+                          <div id="viernesfin" class="col-md-4">
+                          
+                          Hora Fin
+                          
+                         <input class="form-control input-md" name="viernes[0][1]" type="text" />  
+                                                   
+                          </div><br />
+                            <input onclick="agregarCampos('viernes')" type="button" value="+" />
+                            <input onclick="eliminarUltimosCampos('viernes')" type="button" value="-" />
+                        </fieldset><br />
+                        
+                        <fieldset id="sabado" class="row">
+                        	<legend>S&aacute;bado</legend>
+                            
+                            
+                          <div id="sabadoinicio" class="col-md-4">
+                                                    
+                          Hora Inicio
+
+                        <input class="form-control input-md" name="sabado[0][0]" type="text"  />
+                          
+                          </div>
+                          
+                          <div id="sabadofin" class="col-md-4">
+                          
+                          Hora Fin
+                          
+                         <input class="form-control input-md" name="sabado[0][1]" type="text" />  
+                                                   
+                          </div><br />
+                            <input onclick="agregarCampos('sabado')" type="button" value="+" />
+                            <input onclick="eliminarUltimosCampos('sabado')" type="button" value="-" />
+                        </fieldset><br />
+                        
+                        <fieldset id="domingo" class="row">
+                        	<legend>Domingo</legend>
+                            
+                            
+                          <div id="domingoinicio" class="col-md-4">
+                                                    
+                          Hora Inicio
+
+                        <input class="form-control input-md" name="domingo[0][0]" type="text"  />
+                          
+                          </div>
+                          
+                          <div id="domingofin" class="col-md-4">
+                          
+                          Hora Fin
+                          
+                         <input class="form-control input-md" name="domingo[0][1]" type="text" />  
+                                                   
+                          </div><br />
+                            <input onclick="agregarCampos('domingo')" type="button" value="+" />
+                            <input onclick="eliminarUltimosCampos('domingo')" type="button" value="-" />
+                        </fieldset><br />
+                        
+                        <input onclick="enviarForm('Entrenamiento/SchedulingAdd.php', '.tooltip-demo')" class="btn btn-success" type="submit" name="enviar" value="A&ntilde;adir" />
+                        
+</form>

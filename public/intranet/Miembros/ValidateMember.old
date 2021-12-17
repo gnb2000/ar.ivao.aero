@@ -1,0 +1,108 @@
+<?php
+require '../../conexion.php';
+$staff = $_COOKIE['vid'];
+$ip = $_SERVER['REMOTE_ADDR'];
+
+if($_GET['enviar'] == 1){
+	?>
+	<h2>Validar <small> Lista de miembros</small></h2>
+ 
+                        <div class="separacion-tablas"></div>						
+                        
+               
+                        <div style="margin-top: 15px;"></div>
+	<form class="form-horizontal" id="formulario" action="/" method="post" role="form">
+
+            <div id="prueba" class="form-group">
+             <div class="col-md-4">
+              <label class="control-label">Email <span class="txt-red cursor" data-toggle="tooltip" data-placement="right" title="Requerido"> *</span></label>
+              <input id="email" class="form-control" name="email" autocomplete="off">
+              </div>
+            </div>
+			<div id="prueba" class="form-group">
+             <div class="col-md-4">
+              <label class="control-label">Fecha de Nacimiento (AAAA-MM-DD) <span class="txt-red cursor" data-toggle="tooltip" data-placement="right" title="Requerido"> *</span></label>
+              <input id="fecha" class="form-control" name="fecha" autocomplete="off">
+              </div>
+            </div>
+            
+            <hr style="margin-bottom:20px;">
+			<div class="form-group">
+  			<div class="col-md-4">
+            <input onclick="enviarForm('Miembros/ValidateMember.php?enviar=2&vid=<?php echo $_GET['vid'];?>', '.tooltip-demo', '#formulario')" type="button" class="btn btn-default" name="enviar" value="Guardar">
+				</div>
+         </div>
+          </form>
+		  
+	
+<?php
+}elseif($_GET['enviar'] == 2){
+	$vid = $_GET['vid'];
+	$res = mysqli_query($con, "SELECT email, birthday FROM users WHERE vid = $vid");
+	$filaUser = mysqli_fetch_array($res);
+	
+	if($filaUser['email'] == $_POST['email']){
+		$action = 'Se ha validado a '.$vid;
+		$sql2 = "INSERT INTO staff_actions(vid, action, ip) VALUES($staff, '$action', '$ip')";
+		$sql1 = "UPDATE users SET active = 1 WHERE vid = $vid";
+		$sql = $sql1.' ; '.$sql2 ;
+		mysqli_multi_query($con, $sql) or die($errorA = '<p class=\"alert-danger\">Ha habido un error al insertar en la base de datos.</p>'.mysqli_error($con));
+	}elseif($filaUser['birthday'] == $_POST['fecha']){
+		$action = 'Se ha validado a '.$vid;
+		$sql2 = "INSERT INTO staff_actions(vid, action, ip) VALUES($staff, '$action', '$ip')";
+		$sql1 = "UPDATE users SET active = 1 WHERE vid = $vid";
+		$sql = $sql1.' ; '.$sql2 ;
+		mysqli_multi_query($con, $sql) or die($errorA = '<p class=\"alert-danger\">Ha habido un error al insertar en la base de datos.</p>'.mysqli_error($con));
+	}else{
+		echo'<p class=\"alert-danger\">Los datos ingresados no coinciden con los de registro. Contactar con el departamento web.</p>';
+	}
+	echo $errorA;
+	echo '<div class="alert alert-success" role="alert" style="text-align: center;"><i class="fa fa-info-circle fa-fw fa-2"></i> Datos actualizados correctamente<br><a onClick="mostrarAJAX(\'Miembros/ValidateMembers.php\', \'.tooltip-demo\')" href="#"><strong>Volver</strong></a></div>';
+	
+}else{
+$resStaff = mysqli_query($con, "SELECT * FROM users WHERE active = 0 ORDER BY name ASC, surname ASC");
+$filasStaff = mysqli_num_rows($resStaff);
+
+?>
+
+                    	<!-- INICIO CONTENIDO -->
+                        
+<h2>Validar <small> Lista de miembros</small></h2>
+					 
+                        <div class="separacion-tablas"></div>						
+                        
+               
+                        <div style="margin-top: 15px;"></div>
+                         <table class="table table-hover">
+        					<thead class="thead-dark">
+                                <tr class="bg-primary2">
+                                  <td>VID</td>
+                                  <td>Nombre</td>
+                                  <td>Registro</td>
+                                  <td></td>
+								  <td></td> 
+                                </tr>
+                             </thead>
+
+                             <tbody>
+                             	<?php 
+while($filaStaff = mysqli_fetch_array($resStaff))
+{
+	echo'<tr>
+			  <td>'.$filaStaff['vid'].'</td>
+			  <td><strong>'.$filaStaff['name'].' '.$filaStaff['surname'].'</strong></td>
+			  <td>'.$filaStaff['login_first'].'</td>
+			  <td align="center">';?>
+			  <a onClick="mostrarAJAX('Miembros/ValidateMember.php?enviar=1&vid=<?php echo $filaStaff['vid']; ?>', '.tooltip-demo')" data-original-title="Validar" role="button" class="btn btn-info btn-xs" >
+			  Validar
+			  </a>
+			  <?php echo '
+			  </td>
+			  <td>'.$filaStaff['permisos'].'</td>
+             </tr>';  
+}
+                                  ?>
+                             </tbody>
+                         </table>
+                        <?php } ?>
+                        <!-- FINAL CONTENIDO -->

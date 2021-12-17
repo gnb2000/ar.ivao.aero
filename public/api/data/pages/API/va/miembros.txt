@@ -1,0 +1,114 @@
+====== VA Members Managment API ======
+
+==== Introducción ====
+
+En esta página podrá encontrar toda la información referente a la API (Application Program Interface) para VA (Virtual Airlines) registradas en Argentina.
+
+
+==== Funciones ====
+  * Agregar miembros a la VA.
+  * Eliminar miembros de la VA.
+  * Cambiar callsign de miembros de la VA.
+  * Listar los miembros de la VA.
+  * Chequear si mail corresponde a VID
+
+==== API Miembros ====
+
+^ Variable ^ Formato    ^ Descripción                    ^
+|   op     |   - add    | Add new member.                |
+|  :::     |   - del    | Delete member.                 |
+|  :::     |   - chng   | Change callsign.               |
+|  :::     |   - list   | List all VA members.           |
+|  :::     |   - chck   | Check if mail is OK.           |
+|  key     |   string   | VA unique secret key.          |
+|  vid     |   integer  | Member IVAO VID.               |
+|  va      |   integer  | VA AR system ID.               |
+|  cs      |   integer  | Callsign to add or delete.     |
+|  ocs     |   integer  | Current callsign to be changed.|
+|  ncs     |   integer  | New callsign to be assigned.   |
+|  em      |   string   | Member email to be checked.    |
+|  out (optional)  |   xml      | Output results in XML. |
+|  :::     |   plain    | Output results in plain text.  |
+|  :::     |   json    | Output results in JSON.  |
+|  :::     |   html  | Output results in HTML. (default) |
+
+*XML and JSON output options for List operation are under development.
+*JSON output is only available for List function.
+
+==== Requisitos para operaciones ====
+
+^ Operación ^  key  ^  vid  ^  va  ^  cs  ^  ocs  ^  ncs  ^  em  ^
+^ Add       |  X  |  X  |  X  |  X  |     |     |     |
+^ Delete    |  X  |  X  |  X  |  X  |     |     |     |
+^ Change    |  X  |  X  |  X  |     |  X  |  X  |     |
+^ List      |  X  |     |  X  |     |     |     |     |
+^ Check     |  X  |  X  |  X  |     |     |     |  X  |
+
+==== Respuestas ====
+
+^ Operación ^  Éxito  ^  Error  ^
+^ Add       |  OK     |  Detalle de error  |
+^ Delete    |  OK     |  Detalle de error  |
+^ Change    |  OK     |  Detalle de error  |
+^ List      |  Array  |  Detalle de error  |
+^ Check     |  TRUE/FALSE  |  Detalle de error  |
+
+=== Array de List ===
+
+
+Array 
+
+( 
+
+[VaMemberId] => Id de referencia entro de la base de datos de IVAO Argentina.
+
+[Vid] => VID de IVAO del miembro.
+
+[VaIntId] => Id de la VA en IVAO Argentina.
+
+[CallNumber] => Número de callsign. 
+
+)
+
+
+==== URL ====
+
+^ Protocolo    ^ URL                                     ^
+| HTTP         | http://api.ivao.com.arva/member.php     |
+| HTTPS        | https://ivao.com.ar/api/va/member.php   |
+
+==== Como Usar ====
+
+
+La manera de acceder a la API es utilizando las variables en un HTTP GET.
+
+=== Ejemplo: ===
+== Agregar miembro: ==
+
+
+  * https://ivao.com.ar/api/va/member.php?op=add&key=<Key>&vid=<VID>&va=<VA Id>&cs=<Callsign>
+  * https://ivao.com.ar/api/va/member.php?op=add&key=XXXXXX&vid=100000&va=0&cs=1001
+
+== Eliminar miembro: ==
+
+  * https://ivao.com.ar/api/va/member.php?op=del&key=<Key>&vid=<VID>&va=<VA Id>&cs=<Callsign>
+  * https://ivao.com.ar/api/va/member.php?op=del&key=XXXXXX&vid=100000&va=0&cs=1001
+
+== Cambiar VID: ==
+
+  * https://ivao.com.ar/api/va/member.php?op=chng&key=<Key>&vid=<VID>&va=<VA Id>&ocs=<Old Callsign>&ocs=<New Callsign>
+  * https://ivao.com.ar/api/va/member.php?op=chng&key=XXXXXX&vid=100000&va=0&ocs=1001&ncs=1002
+
+== Listar mimebros: ==
+
+  * https://ivao.com.ar/api/va/member.php?op=list&key=<Key>&va=<VA Id>
+  * https://ivao.com.ar/api/va/member.php?op=list&key=XXXXXX&va=0
+
+== Chequear mail de mimebros: ==
+
+  * https://ivao.com.ar/api/va/member.php?op=chck&key=<Key>&va=<VA Id>&vid=<VID>&em=<Email>
+  * https://ivao.com.ar/api/va/member.php?op=chck&key=XXXXXX&va=0&vid=100000&em=someone@something.tld
+
+==== Ejemplos en PHP ====
+
+Proximamente.

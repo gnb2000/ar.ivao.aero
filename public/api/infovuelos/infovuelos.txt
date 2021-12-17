@@ -1,0 +1,731 @@
+
+|4XSCX|4XS|32.0874|34.7623|788|94|C172|LLSD|Sde Dov|Tel-aviv|Israel|19:25|-33 min|Despegado|LLSD|Sde Dov|Tel-aviv|Israel|07:55|717 min||
+|5BCLD|5BC|48.1175|16.5496|606|0|AC50|LOWW|Schwechat|Vienna|Austria|19:58|0 min|Despegado|LOWW|Schwechat|Vienna|Austria|19:58|0 min|Aterrizado|
+|7TMWN|7TM|31.205|6.19726|6636|259|B736|DAAT|Tamanrasset|Tamanrasset|Algeria|18:34|-84 min|Despegado|DAUH|Oued Irara|Hassi Messaoud|Algeria|19:09|-49 min|Demorado|
+|A98|A98|43.4493|39.9545|102|0|B773|UUEE|Sheremetyevo|Moscow|Russia|18:07|-111 min|Despegado|URSS|Sochi|Sochi|Russia|20:07|9 min|Aterrizado|
+|AA011|AA0|34.8227|135.645|4567|170|C336|RJCK|Kushiro Airport|Kushiro|Japan|15:30|-268 min|Despegado|RJFO|Oita|Oita|Japan|22:00|122 min|Aterrizado|
+|AA1085|AA1|46.1214|-121.798|23053|433|B738|KLAS|Mc Carran Intl|Las Vegas|United States|18:30|-88 min|Despegado|KSEA|Seattle Tacoma Intl|Seattle|United States|20:45|47 min|Aterrizado|
+|AAC905|AAC|53.43|-2.94965|10071|153|BN2T|EGAA|Belfast Intl|Belfast|United Kingdom|19:02|-56 min|Despegado|EGQS|Lossiemouth|Lossiemouth|United Kingdom|22:52|174 min|Aterrizado|
+|AAF03T|AAF|21.0097|-4.03387|35923|462|A320|DAAG|Houari Boumediene|Algier|Algeria|17:30|-148 min|Despegado|GABS|Senou|Bamako|Mali|21:21|83 min|Aterrizado|
+|AAL135|AAL|60.7637|-75.8237|35935|419|B77W|EGLL|Heathrow|London|United Kingdom|14:25|-333 min|Despegado|KLAX|Los Angeles Intl|Los Angeles|United States|00:55|297 min|Aterrizado|
+|AAL1821|AAL|18.0432|-63.113|8|2|B738|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|20:20|22 min|Despegado|KMIA|Miami Intl|Miami|United States|23:18|200 min|Aterrizado|
+|AAL291|AAL|27.3303|47.5412|36699|514|B773|SVMI|Simon Bolivar Intl|Caracas|Venezuela|18:10|-108 min|Despegado|OMDB|Dubai Intl|Dubai|United Arab Emirates|12:30|992 min|Aterrizado|
+|AAL594|AAL|-4.3792|-64.484|32919|552|B77W|SAEZ|Ezeiza Intl Ministro Pistarini|Buenos Aires|Argentina|16:07|-231 min|Despegado|KJFK|John F Kennedy Intl|New York|United States|02:37|399 min|Aterrizado|
+|AAR358|AAR|23.3914|113.307|65|33|A321|ZGGG|Baiyun Intl|Guangzhou|China|20:40|42 min|Embarcando|RKSI|Incheon Intl|Seoul|South Korea|23:46|228 min|Aterrizado|
+|ABB179|ABB|42.2786|-2.04191|38058|442|B738|LELN|Leon Airport|Leon|Spain|19:30|-28 min|Despegado|LEBL|Barcelona-El Prat|Barcelona|Spain|20:30|32 min|Aterrizado|
+|ABW5039|ABW|21.3193|-157.915|25|2|B748|PHNL|Honolulu Intl|Honolulu|United States|20:30|32 min|Embarcando|VHHH|Hong Kong Intl|Hong Kong|Hong Kong|06:27|629 min|Aterrizado|
+|ACA18|ACA|19.0899|-66.3297|17365|287|A319|CYUL|Pierre Elliott Trudeau Intl|Montreal|Canada|16:17|-221 min|Despegado|TJSJ|Luis Munoz Marin Intl|San Juan|Puerto Rico|16:17|-221 min|Demorado|
+|ADB3610|ADB|51.4089|12.2074|484|0|A225|EDDP|Leipzig Halle|Leipzig|Germany|22:10|132 min|Embarcando|UDYZ|Zvartnots|Yerevan|Armenia|22:00|-1318 min|Aterrizado|
+|ADR106L|ADR|44.8177|20.2944|343|0|DH8D|LYBE|Beograd|Belgrade|Serbia|20:10|12 min|Embarcando|LJLJ|Ljubljana|Ljubljana|Slovenia|21:25|87 min|Aterrizado|
+|AEA110T|AEA|28.6423|-15.825|14412|349|B738|GCRR|Lanzarote|Las Palmas|Spain|19:30|-28 min|Despegado|GCXO|Tenerife Norte|Tenerife|Spain|20:02|4 min|Aterrizado|
+|AEA1240|AEA|42.1052|-0.723733|32214|510|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Demorado|
+|AEA2741|AEA|39.548|2.71259|71|137|B738|LOWW|Schwechat|Vienna|Austria|18:00|-118 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|20:00|2 min|Demorado|
+|AEA4010|AEA|42.6365|-5.83714|17353|284|AT75|LEAS|Asturias|Aviles|Spain|19:40|-18 min|Despegado|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|20:40|42 min|Demorado|
+|AEA6027|AEA|39.061|1.36904|19907|344|E190|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|21:10|72 min|Embarcando|LEIB|Ibiza|Ibiza|Spain|22:10|-1308 min|Demorado|
+|AEA9007|AEA|40.9317|2.24134|29969|441|B738|EGPF|Glasgow|Glasgow|United Kingdom|17:55|-123 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|20:15|17 min|Demorado|
+|AEA9130|AEA|43.5597|-6.03105|424|0|B738|LEAS|Asturias|Aviles|Spain|20:10|12 min|Despegado|GCXO|Tenerife Norte|Tenerife|Spain|23:10|192 min|Demorado|
+|AEE1031|AEE|39.6076|19.9135|21|0|A320|LGKR|Ioannis Kapodistrias Intl|Kerkyra/corfu|Greece|20:10|12 min|Despegado|ESSA|Arlanda|Stockholm|Sweden|22:10|132 min|Demorado|
+|AEE4KC|AEE|38.9447|18.9728|33888|412|A320|LGAV|Eleftherios Venizelos Intl|Athens|Greece|12:54|-424 min|Despegado|LFBO|Blagnac|Toulouse|France|15:49|-249 min|Demorado|
+|AEV105|AEV|13.5539|3.54185|38007|495|B763|HAAB|Bole Intl|Addis Ababa|Ethiopia|16:10|-228 min|Despegado|GOOY|Leopold Sedar Senghor Intl|Dakar|Senegal|23:40|222 min|Demorado|
+|AEY051|AEY|39.7518|11.9942|31006|421|B733|LIMJ|Genova Sestri|Genoa|Italy|20:15|17 min|Despegado|LICJ|Palermo|Palermo|Italy|23:30|212 min|Demorado|
+|AFL1020|AFL|54.6033|37.3039|15014|351|B77W|LGAV|Eleftherios Venizelos Intl|Athens|Greece|17:20|-158 min|Despegado|UUEE|Sheremetyevo|Moscow|Russia|20:40|42 min|Demorado|
+|AFL1223|AFL|55.3627|37.9213|3492|207|B738|UUDD|Domododevo|Moscow|Russia|20:05|7 min|Despegado|ULLI|Pulkovo|St. Petersburg|Russia|20:40|42 min|Demorado|
+|AFL181|AFL|47.4336|19.2597|503|12|B738|UMMS|Minsk 2|Minsk 2|Belarus|18:20|-98 min|Despegado|LHBP|Ferihegy|Budapest|Hungary|20:00|2 min|Aterrizado|
+|AFL2823|AFL|19.0058|72.9591|32736|504|B77W|VCBI|Bandaranaike Intl Colombo|Colombo|Sri Lanka|18:30|-88 min|Despegado|UUDD|Domododevo|Moscow|Russia|02:27|389 min|Aterrizado|
+|AFL2849|AFL|41.1905|-6.05039|38187|382|A332|LPPT|Lisboa|Lisbon|Portugal|19:20|-38 min|Despegado|UUEE|Sheremetyevo|Moscow|Russia|23:52|234 min|Aterrizado|
+|AFL315|AFL|44.4447|143.573|35694|480|A332|UHPP|Yelizovo|Petropavlovsk|Russia|17:50|-128 min|Despegado|RJBB|Kansai|Osaka|Japan|21:10|72 min|Aterrizado|
+|AFL335|AFL|50.8188|9.92344|21491|350|B738|EPGD|Lech Walesa|Gdansk|Poland|19:05|-53 min|Despegado|EDDF|Frankfurt Main|Frankfurt|Germany|20:19|21 min|Aterrizado|
+|AFL346|AFL|53.4851|-132.235|34383|474|B744|KLAX|Los Angeles Intl|Los Angeles|United States|17:05|-173 min|Despegado|OMAA|Abu Dhabi Intl|Abu Dhabi|United Arab Emirates|03:05|427 min|Aterrizado|
+|AFR077|AFR|55.4344|-26.6306|37000|493|B772|KLAX|Los Angeles Intl|Los Angeles|United States|10:50|-548 min|Despegado|LFPG|Charles De Gaulle|Paris|France|22:10|132 min|Aterrizado|
+|AFR10B|AFR|43.0865|-57.2287|36259|463|B772|LFPG|Charles De Gaulle|Paris|France|14:26|-332 min|Despegado|KJFK|John F Kennedy Intl|New York|United States|22:08|130 min|Aterrizado|
+|AFR1442|AFR|42.1919|-2.94175|36342|507|A320|LEMG|Malaga|Malaga|Spain|19:00|-58 min|Despegado|LFQQ|Lesquin|Lille|France|21:15|77 min|Aterrizado|
+|AFR160A|AFR|48.0593|-3.66422|33262|500|B738|EICK|Cork|Cork|Ireland|19:20|-38 min|Despegado|LFML|Provence|Marseille|France|21:40|102 min|Aterrizado|
+|AFR2331|AFR|-15.1909|-38.4024|35229|459|B77W|LFPG|Charles De Gaulle|Paris|France|10:10|-588 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|20:56|58 min|Aterrizado|
+|AFR2334|AFR|48.1103|2.50315|16681|395|A320|LFPO|Orly|Paris|France|19:00|-58 min|Despegado|LFML|Provence|Marseille|France|19:35|-23 min|Demorado|
+|AFR250|AFR|48.2222|3.17919|10122|274|A320|LFKJ|Campo Dell Oro|Ajaccio|France|17:40|-138 min|Despegado|LFPO|Orly|Paris|France|17:40|-138 min|Demorado|
+|AFR2544|AFR|45.5211|0.714687|35284|493|A320|LFPO|Orly|Paris|France|19:22|-36 min|Despegado|LFBZ|Anglet|Biarritz-bayonne|France|20:12|14 min|Demorado|
+|AFR2908|AFR|48.0706|-1.72202|139|0|A319|LFRN|St Jacques|Rennes|France|20:05|7 min|Despegado|LFBO|Blagnac|Toulouse|France|21:05|67 min|Demorado|
+|AFR3115|AFR|43.8036|2.71791|29112|447|A320|LFBO|Blagnac|Toulouse|France|19:40|-18 min|Despegado|LFKJ|Campo Dell Oro|Ajaccio|France|20:40|42 min|Demorado|
+|AFR3556|AFR|46.3048|5.73487|37103|468|A319|LFQQ|Lesquin|Lille|France|19:10|-48 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:38|40 min|Demorado|
+|AFR499|AFR|41.838|-45.1499|38919|493|A343|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|16:20|-218 min|Despegado|LFPG|Charles De Gaulle|Paris|France|00:15|257 min|Demorado|
+|AFR58FR|AFR|48.0687|-1.72723|138|0|B772|LFMT|Mediterranee|Montpellier|France|20:08|10 min|Despegado|LFBO|Blagnac|Toulouse|France|21:18|80 min|Demorado|
+|AFR62RF|AFR|48.7283|2.3568|306|0|A318|LFPO|Orly|Paris|France|19:55|-3 min|Demorado|LFMN|Cote D\\'Azur|Nice|France|19:55|-3 min|Aterrizado|
+|AFR63RJ|AFR|47.637|-1.95941|20608|451|B738|LFRN|St Jacques|Rennes|France|19:25|-33 min|Despegado|LFBO|Blagnac|Toulouse|France|20:30|32 min|Aterrizado|
+|AFR6719|AFR|11.5512|43.1489|63|0|B77L|LFPG|Charles De Gaulle|Paris|France|11:51|-487 min|Despegado|HDAM|Ambouli International Airport|Djibouti|Djibouti|18:11|-107 min|Aterrizado|
+|AFR77L|AFR|16.2684|-61.527|36|0|B738|TFFR|Le Raizet|Pointe-a-pitre|Guadeloupe|18:33|-85 min|Despegado|LFVP|St Pierre|St.-pierre|Saint Pierre and Miquelon|19:08|-50 min|Aterrizado|
+|AFR856|AFR|34.6477|139.959|24119|525|A320|RJAW|Iwo Jima|Iwojima|Japan|18:55|-63 min|Despegado|RJSN|Niigata|Niigata|Japan|20:35|37 min|Aterrizado|
+|AFR90|AFR|43.854|-21.3326|32211|525|B77W|LFPG|Charles De Gaulle|Paris|France|16:56|-182 min|Despegado|KMIA|Miami Intl|Miami|United States|01:48|350 min|Aterrizado|
+|AIZ133|AIZ|40.9039|9.51965|50|0|MD11|LLBG|Ben Gurion|Tel-aviv|Israel|15:36|-262 min|Despegado|LIEO|Olbia Costa Smeralda|Olbia|Italy|18:06|-112 min|Aterrizado|
+|ALV1803|ALV|10.1532|-67.939|1428|4|MD82|SVVA|Arturo Michelena Intl|Valencia|Venezuela|19:42|-16 min|Demorado|SVVA|Arturo Michelena Intl|Valencia|Venezuela|20:12|14 min|Aterrizado|
+|ALZ172|ALZ|43.3035|-8.37994|336|0|E170|LSZR|St Gallen Altenrhein|Altenrhein|Switzerland|17:28|-150 min|Despegado|LECO|A Coruna|La Coruna|Spain|19:33|-25 min|Aterrizado|
+|ALZ282|ALZ|22.8109|5.44987|4622|183|A346|DAAT|Tamanrasset|Tamanrasset|Algeria|20:00|2 min|Despegado|GMMX|Menara|Marrakech|Morocco|22:50|172 min|Aterrizado|
+|ALZ361|ALZ|43.5664|-6.04671|430|0|B763|LEAS|Asturias|Aviles|Spain|19:58|0 min|Despegado|LEDA|Lleida-Alguaire Airport|Lleida|Spain|20:58|60 min|Aterrizado|
+|ALZ365|ALZ|33.4777|-90.8034|32173|336|B737|KATL|Hartsfield Jackson Atlanta Intl|Atlanta|United States|18:50|-68 min|Despegado|KDFW|Dallas Fort Worth Intl|Dallas-Fort Worth|United States|20:20|22 min|Aterrizado|
+|AME11|AME|39.5512|2.73024|42|0|B789|LFMN|Cote D\\'Azur|Nice|France|18:49|-69 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|20:04|6 min|Aterrizado|
+|ANE8476|ANE|39.5517|2.72789|29|0|CRJ7|LEPA|Son Sant Joan|Palma de Mallorca|Spain|20:10|12 min|Despegado|LELN|Leon Airport|Leon|Spain|21:25|87 min|Aterrizado|
+|ANZ517|ANZ|50.0132|8.20513|11130|367|B744|EDDF|Frankfurt Main|Frankfurt|Germany|19:35|-23 min|Despegado|RJTT|Tokyo Intl|Tokyo|Japan|07:10|672 min|Aterrizado|
+|ARA077|ARA|48.7277|2.37169|304|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|ARC451|ARC|13.451|144.724|1572|193|CONC|RJBB|Kansai|Osaka|Japan|18:00|-118 min|Despegado|PGUM|Guam Intl|Agana|Guam|19:50|-8 min|Demorado|
+|ARC610|ARC|41.9208|8.79639|30|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|ARE3063|ARE|4.69744|-74.1467|8375|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|ARE3065|ARE|5.31569|-74.9114|34161|438|A320|SKCG|Rafael Nunez|Cartagena|Colombia|19:25|-33 min|Despegado|SKBO|Eldorado Intl|Bogota|Colombia|20:35|37 min|Aterrizado|
+|ARE3145|ARE|10.6964|-76.7428|36908|471|A320|SKSP|Gustavo Rojas Pinilla|San Andres Island|Colombia|19:25|-33 min|Despegado|SKBG|Palonegro|Bucaramanga|Colombia|21:05|67 min|Aterrizado|
+|ARG1064|ARG|35.5686|-114.942|4541|125|H53/|KIFP||||19:48|-10 min|Despegado|KLAS|Mc Carran Intl|Las Vegas|United States|21:28|90 min|Aterrizado|
+|ARG1179|ARG|-30.0858|-70.6302|12958|157|C195|SANU|San Juan|San Julian|Argentina|18:55|-63 min|Despegado|SCSE|La Florida|La Serena|Chile|20:15|17 min|Aterrizado|
+|ARG1196|ARG|-17.7763|140.991|1016|111|AT75|YBCS|Cairns Intl|Cairns|Australia|18:20|-98 min|Despegado|YNTN|Normanton Airport|Normanton|Australia|19:32|-26 min|Demorado|
+|ARG2708|ARG|-0.724173|14.7428|36014|456|B736|FCBB|Maya Maya|Brazzaville|Congo (Brazzaville)|19:25|-33 min|Despegado|DNMA|Maiduguri|Maiduguri|Nigeria|00:25|267 min|Demorado|
+|ARU11|ARU|12.4835|-69.9069|3403|245|B190|TNCC|Hato|Willemstad|Netherlands Antilles|16:57|-181 min|Despegado|TNCA|Reina Beatrix Intl|Oranjestad|Aruba|18:22|-96 min|Demorado|
+|ARW777|ARW|8.304|-62.7329|477|0|B733|SVPR|General Manuel Carlos Piar|Guayana|Venezuela|20:10|12 min|Despegado|SVMG|Del Caribe Intl Gen Santiago Marino|Porlamar|Venezuela|20:55|57 min|Demorado|
+|ASL5100|ASL|42.9586|19.5871|37051|447|B737|LYBE|Beograd|Belgrade|Serbia|20:00|2 min|Despegado|LGKR|Ioannis Kapodistrias Intl|Kerkyra/corfu|Greece|20:55|57 min|Demorado|
+|ASN012|ASN|39.9857|-2.15088|35179|476|A320|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|19:32|-26 min|Despegado|LIRF|Fiumicino|Rome|Italy|21:52|114 min|Demorado|
+|ATEAM|privado|17.9038|-62.8446|76|0|DHC6|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|20:05|7 min|Despegado|TFFJ|Saint Barthelemy|Gustavia|France|20:56|58 min|Demorado|
+|ATR1929|ATR|31.8875|49.4852|34620|502|A320|OITR|Uromiyeh Airport|Uromiyeh|Iran|18:54|-64 min|Despegado|OIBB|Bushehr|Bushehr|Iran|20:49|51 min|Demorado|
+|AUA1468|AUA|43.1391|32.8961|38059|454|B77L|OMDB|Dubai Intl|Dubai|United Arab Emirates|16:35|-203 min|Despegado|LZIB|M R Stefanik|Bratislava|Slovakia|21:50|112 min|Demorado|
+|AUA205|AUA|51.3439|6.87525|1696|166|DH8D|LOWL|Linz|Linz|Austria|19:06|-52 min|Despegado|EDDL|Dusseldorf|Duesseldorf|Germany|20:38|40 min|Demorado|
+|AUA211|AUA|51.3415|6.88217|1731|172|DH8D|LOWL|Linz|Linz|Austria|18:35|-83 min|Despegado|EDDL|Dusseldorf|Duesseldorf|Germany|19:50|-8 min|Demorado|
+|AUA306E|AUA|48.6542|16.6639|15754|341|A320|EKCH|Kastrup|Copenhagen|Denmark|18:50|-68 min|Despegado|LOWW|Schwechat|Vienna|Austria|20:16|18 min|Demorado|
+|AUA447|AUA|50.9646|7.00042|2631|172|B738|EDDM|Franz Josef Strauss|Munich|Germany|19:25|-33 min|Despegado|EDDK|Koln Bonn|Cologne|Germany|20:10|12 min|Demorado|
+|AUA512|AUA|49.4112|1.58712|37201|457|B738|LOWW|Schwechat|Vienna|Austria|18:50|-68 min|Despegado|EGJJ|Jersey|Jersey|Jersey|20:50|52 min|Demorado|
+|AUA69|AUA|49.4754|2.46166|38199|453|A321|LOWW|Schwechat|Vienna|Austria|18:50|-68 min|Despegado|EGJJ|Jersey|Jersey|Jersey|20:47|49 min|Demorado|
+|AUI534|AUI|42.8888|33.956|35640|447|B738|UACC|Astana Intl|Tselinograd|Kazakhstan|17:40|-138 min|Despegado|UKBB|Boryspil Intl|Kiev|Ukraine|22:40|162 min|Demorado|
+|AVA111|AVA|-32.3832|-53.7456|38108|629|CONC|SUMU|Carrasco Intl|Montevideo|Uruguay|18:51|-67 min|Despegado|SBSP|Congonhas|Sao Paulo|Brazil|18:51|-67 min|Demorado|
+|AVA195|AVA|3.53671|-76.3859|3174|0|A320|SKCL|Alfonso Bonilla Aragon Intl|Cali|Colombia|20:10|12 min|Despegado|SKPE|Matecana|Pereira|Colombia|20:45|47 min|Demorado|
+|AVA220|AVA|-23.2111|-44.6857|30213|470|A320|SBSP|Congonhas|Sao Paulo|Brazil|19:22|-36 min|Despegado|SBRJ|Santos Dumont|Rio De Janeiro|Brazil|21:57|119 min|Demorado|
+|AVA243|AVA|-13.0249|-75.8797|26977|489|A320|SPIM|Jorge Chavez Intl|Lima|Peru|19:24|-34 min|Despegado|SLLP|El Alto Intl|La Paz|Bolivia|20:54|56 min|Demorado|
+|AVA2518|AVA|-19.7004|-43.5547|37383|480|A320|SBSP|Congonhas|Sao Paulo|Brazil|19:16|-42 min|Despegado|SBSV|Deputado Luis Eduardo Magalhaes|Salvador|Brazil|21:16|78 min|Demorado|
+|AVA271|AVA|-24.8202|138.491|33993|537|A332|YSTW|Tamworth|Tamworth|Australia|18:05|-113 min|Despegado|YBAS|Alice Springs|Alice Springs|Australia|21:15|77 min|Demorado|
+|AVA586|AVA|-4.19697|-69.9432|325|0|A320|SKLT|Alfredo Vasquez Cobo|Leticia|Colombia|20:05|7 min|Despegado|SKSP|Gustavo Rojas Pinilla|San Andres Island|Colombia|22:55|177 min|Demorado|
+|AVA8828|AVA|6.16879|-75.4279|7039|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|AVA9487|AVA|0.787124|-71.6755|34041|466|A320|SKLT|Alfredo Vasquez Cobo|Leticia|Colombia|19:20|-38 min|Despegado|SKBO|Eldorado Intl|Bogota|Colombia|20:56|58 min|Aterrizado|
+|AVA969|AVA|25.802|-80.5586|13077|284|A332|MMAA|General Juan N Alvarez Intl|Acapulco|Mexico|17:15|-163 min|Despegado|KMIA|Miami Intl|Miami|United States|19:55|-3 min|Demorado|
+|AVA9779|AVA|11.0328|-80.0355|34959|441|A320|SKSP|Gustavo Rojas Pinilla|San Andres Island|Colombia|19:40|-18 min|Despegado|SKBO|Eldorado Intl|Bogota|Colombia|21:20|82 min|Demorado|
+|AVI45CP|AVI|41.9228|8.80034|22|0|DR40|LFKJ|Campo Dell Oro|Ajaccio|France|19:58|0 min|Despegado|LFKF|Sud Corse|Figari|France|20:28|30 min|Demorado|
+|AWE103|AWE|36.1322|-115.156|4588|208|A320|KLAS|Mc Carran Intl|Las Vegas|United States|16:30|-208 min|Despegado|KLAX|Los Angeles Intl|Los Angeles|United States|17:11|-167 min|Demorado|
+|AXN751|AXN|36.3375|110.285|30796|490|B744|VCBI|Bandaranaike Intl Colombo|Colombo|Sri Lanka|14:20|-338 min|Despegado|PANC|Ted Stevens Anchorage Intl|Anchorage|United States|04:15|497 min|Demorado|
+|AZA1015|AZA|43.7634|11.8211|33941|482|B722|LICA|Lamezia Terme|Lamezia|Italy|19:05|-53 min|Despegado|LIPX|Villafranca|Villafranca|Italy|20:20|22 min|Demorado|
+|AZA108|AZA|38.9091|16.2468|54|0|A320|LICA|Lamezia Terme|Lamezia|Italy|20:06|8 min|Despegado|LIRA|Ciampino|Rome|Italy|21:04|66 min|Demorado|
+|AZA113|AZA|42.55|8.48464|29900|482|A320|LEIB|Ibiza|Ibiza|Spain|19:00|-58 min|Despegado|LIPZ|Venezia Tessera|Venice|Italy|20:33|35 min|Demorado|
+|AZA1218|AZA|50.1099|14.2699|1182|0|B733|LKPR|Ruzyne|Prague|Czech Republic|21:10|72 min|Embarcando|LIRQ|Firenze|Florence|Italy|22:35|-1283 min|Aterrizado|
+|AZA1528|AZA|38.8327|1.27633|1448|158|A320|LIRF|Fiumicino|Rome|Italy|18:25|-93 min|Despegado|LEIB|Ibiza|Ibiza|Spain|19:55|-3 min|Demorado|
+|AZA178|AZA|36.9121|10.6497|11935|377|MD82|DTTA|Carthage|Tunis|Tunisia|19:55|-3 min|Despegado|LICR|Reggio Calabria|Reggio Calabria|Italy|20:55|57 min|Demorado|
+|AZA1791|AZA|38.1833|13.1133|58|117|A319|LIRF|Fiumicino|Rome|Italy|19:10|-48 min|Despegado|LICJ|Palermo|Palermo|Italy|19:52|-6 min|Demorado|
+|AZA321|AZA|43.6568|7.20325|8|1|A320|LFMN|Cote D\\'Azur|Nice|France|20:00|2 min|Despegado|LIRQ|Firenze|Florence|Italy|21:00|62 min|Demorado|
+|AZA329|AZA|41.7956|12.5924|442|9|A319|LIML|Linate|Milan|Italy|19:15|-43 min|Despegado|LIRA|Ciampino|Rome|Italy|20:10|12 min|Aterrizado|
+|AZA375|AZA|49.7267|-10.9164|39082|479|B772|TBPB|Grantley Adams Intl|Bridgetown|Barbados|13:25|-393 min|Despegado|EGCC|Manchester|Manchester|United Kingdom|21:10|72 min|Aterrizado|
+|AZA7016|AZA|-15.565|-66.4113|39063|401|A320|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|17:10|-168 min|Despegado|SLLP|El Alto Intl|La Paz|Bolivia|19:40|-18 min|Demorado|
+|AZA774|AZA|39.6094|19.9115|21|10|A319|LGKR|Ioannis Kapodistrias Intl|Kerkyra/corfu|Greece|19:10|-48 min|Despegado|LICC|Catania Fontanarossa|Catania|Italy|20:00|2 min|Aterrizado|
+|AZA96E|AZA|38.0823|-121.472|32013|479|MD11|KLAS|Mc Carran Intl|Las Vegas|United States|19:25|-33 min|Despegado|RKSI|Incheon Intl|Seoul|South Korea|07:59|721 min|Aterrizado|
+|AZU4061|AZU|-28.1365|-50.5874|26999|495|E190|SBKP|Viracopos|Campinas|Brazil|19:14|-44 min|Despegado|SBPA|Salgado Filho|Porto Alegre|Brazil|21:09|71 min|Aterrizado|
+|AZU4187|AZU|-19.6281|-43.9682|2726|0|E190|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|20:25|27 min|Despegado|SBKP|Viracopos|Campinas|Brazil|21:26|88 min|Aterrizado|
+|AZU4235|AZU|-11.6251|-37.4888|33474|473|E190|SBRF|Guararapes Gilberto Freyre Intl|Recife|Brazil|19:22|-36 min|Despegado|SBSV|Deputado Luis Eduardo Magalhaes|Salvador|Brazil|20:28|30 min|Aterrizado|
+|AZU5134|AZU|-19.6333|-43.9639|2726|0|E190|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|19:25|-33 min|Despegado|SBKP|Viracopos|Campinas|Brazil|20:26|28 min|Aterrizado|
+|AZU5786|AZU|-23.01|-47.1407|2181|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|AZU8750|AZU|-12.9882|-40.9817|41226|489|A332|SBKP|Viracopos|Campinas|Brazil|18:25|-93 min|Despegado|LPPT|Lisboa|Lisbon|Portugal|03:37|459 min|Aterrizado|
+|BAW022|BAW|53.2297|-2.52696|6798|350|CONC|EGCC|Manchester|Manchester|United Kingdom|19:59|1 min|Despegado|GMMN|Mohammed V Intl|Casablanca|Morocco|21:29|91 min|Aterrizado|
+|BAW2239|BAW|-11.3657|-77.0058|14036|318|B77W|EGKK|Gatwick|London|United Kingdom|08:40|-678 min|Despegado|SPJC|Jorge Chávez Intl|Lima-Callao|Peru|20:10|12 min|Aterrizado|
+|BAW49|BAW|68.8617|-58.099|36001|505|B772|EGLL|Heathrow|London|United Kingdom|15:41|-257 min|Despegado|KSEA|Seattle Tacoma Intl|Seattle|United States|00:33|275 min|Aterrizado|
+|BAW667|BAW|49.9062|9.12284|4981|233|B734|EDDM|Franz Josef Strauss|Munich|Germany|18:40|-78 min|Despegado|EDDF|Frankfurt Main|Frankfurt|Germany|20:00|2 min|Aterrizado|
+|BAW703|BAW|50.5376|6.61291|34138|444|A320|LOWW|Schwechat|Vienna|Austria|18:40|-78 min|Despegado|EGLL|Heathrow|London|United Kingdom|20:30|32 min|Aterrizado|
+|BAW711|BAW|51.1524|-0.166545|211|0|A318|EGKK|Gatwick|London|United Kingdom|19:52|-6 min|Demorado|LFMN|Cote D\\'Azur|Nice|France|21:02|64 min|Aterrizado|
+|BAW737P|BAW|30.3046|-34.9399|36425|474|B77W|EGKK|Gatwick|London|United Kingdom|15:55|-243 min|Despegado|TBPB|Grantley Adams Intl|Bridgetown|Barbados|00:13|255 min|Aterrizado|
+|BAW916|BAW|51.494|-0.148804|3009|171|B744|KJFK|John F Kennedy Intl|New York|United States|14:00|-358 min|Despegado|EGLL|Heathrow|London|United Kingdom|21:15|77 min|Aterrizado|
+|BAW9340|BAW|46.0028|-82.9859|34974|473|A319|CYWG|Winnipeg Intl|Winnipeg|Canada|19:10|-48 min|Despegado|CYYZ|Lester B Pearson Intl|Toronto|Canada|20:59|61 min|Aterrizado|
+|BAW99|BAW|54.9282|23.2273|28980|493|A318|EPMO|Warsaw Modlin|Warsaw|Poland|21:40|102 min|Embarcando|EETN|Tallinn|Tallinn-ulemiste International|Estonia|22:05|-1313 min|Demorado|
+|BEL21J|BEL|-37.6677|144.852|446|0|B738|YMML|Melbourne Intl|Melbourne|Australia|20:05|7 min|Embarcando|YSSY|Sydney Intl|Sydney|Australia|21:54|116 min|Demorado|
+|BER208|BER|48.7266|2.36357|299|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|BER2506|BER|53.6293|10.0027|68|0|A320|EDDH|Hamburg|Hamburg|Germany|20:40|42 min|Embarcando|BIKF|Keflavik International Airport|Keflavik|Iceland|23:28|210 min|Aterrizado|
+|BER337K|BER|52.576|13.5893|3207|218|B738|EDDF|Frankfurt Main|Frankfurt|Germany|19:26|-32 min|Despegado|EDDT|Tegel|Berlin|Germany|20:32|34 min|Aterrizado|
+|BER468K|BER|50.0491|8.59191|372|0|B738|LEPA|Son Sant Joan|Palma de Mallorca|Spain|17:13|-165 min|Despegado|EDDF|Frankfurt Main|Frankfurt|Germany|19:13|-45 min|Aterrizado|
+|BER505|BER|38.8751|1.36801|35|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|BER6885|BER|54.9191|8.33312|66|14|A320|EDXW|Westerland Sylt|Westerland|Germany|19:55|-3 min|Demorado|EDDL|Dusseldorf|Duesseldorf|Germany|20:54|56 min|Aterrizado|
+|BER737K|BER|48.7378|2.51402|321|0|B738|EDDT|Tegel|Berlin|Germany|17:30|-148 min|Despegado|LFPO|Orly|Paris|France|18:46|-72 min|Aterrizado|
+|BER804|BER|50.8781|13.4045|12993|356|B738|LFSB|Bale Mulhouse|Mulhouse|France|19:25|-33 min|Despegado|EDDC|Dresden|Dresden|Germany|20:26|28 min|Aterrizado|
+|BER861|BER|68.1584|17.2307|30744|456|A320|LICJ|Palermo|Palermo|Italy|16:04|-234 min|Despegado|ENTC|Langnes|Tromso|Norway|21:04|66 min|Aterrizado|
+|BER963|BER|23.5366|56.9459|33589|479|B738|OIKK|Kerman|Kerman|Iran|19:05|-53 min|Despegado|OYSQ|Socotra Intl|Socotra|Yemen|21:35|97 min|Aterrizado|
+|BET9642|BET|-25.5273|-49.1771|3000|145|B703|SBCT|Afonso Pena|Curitiba|Brazil|19:30|-28 min|Despegado|SBPA|Salgado Filho|Porto Alegre|Brazil|20:22|24 min|Aterrizado|
+|BFP021|BFP|33.2844|36.512|5004|235|IL96|OMAA|Abu Dhabi Intl|Abu Dhabi|United Arab Emirates|17:30|-148 min|Despegado|OSDI|Damascus Intl|Damascus|Syria|20:55|57 min|Aterrizado|
+|BFY168|BFY|43.0034|-82.9444|35029|493|B738|KSEA|Seattle Tacoma Intl|Seattle|United States|16:40|-198 min|Despegado|CYYZ|Lester B Pearson Intl|Toronto|Canada|20:34|36 min|Aterrizado|
+|BGN002|BGN|41.4916|27.2038|24392|424|B77W|KORD|Chicago Ohare Intl|Chicago|United States|11:20|-518 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|21:18|80 min|Aterrizado|
+|BGN003|BGN|40.7818|28.9623|8240|268|B773|OLBA|Rafic Hariri Intl|Beirut|Lebanon|19:00|-58 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|20:30|32 min|Aterrizado|
+|BGN030|BGN|41.1864|39.4215|21827|444|B77W|LTCG|Trabzon|Trabzon|Turkey|19:05|-53 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|20:24|26 min|Aterrizado|
+|BOE02|BOE|-8.19874|-55.4119|34999|485|MD11|KMIA|Miami Intl|Miami|United States|14:26|-332 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|23:16|198 min|Aterrizado|
+|BOE07|BOE|20.3958|-82.1379|31000|509|B772|KRNO|Reno Tahoe Intl|Reno|United States|15:30|-268 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|02:58|420 min|Aterrizado|
+|BOE232|BOE|-14.1512|-58.3638|39089|506|B77L|SLLP|El Alto Intl|La Paz|Bolivia|19:05|-53 min|Despegado|SBFZ|Pinto Martins Intl|Fortaleza|Brazil|23:14|196 min|Aterrizado|
+|BOX001|BOX|51.2676|12.9694|11048|291|B772|EDDM|Franz Josef Strauss|Munich|Germany|19:30|-28 min|Despegado|EDDP|Leipzig Halle|Leipzig|Germany|20:13|15 min|Aterrizado|
+|BOX155|BOX|39.4566|-120.799|29930|514|B77L|KLAS|Mc Carran Intl|Las Vegas|United States|18:52|-66 min|Despegado|RKSI|Incheon Intl|Seoul|South Korea|07:27|689 min|Aterrizado|
+|BOX4061|BOX|51.1613|12.5858|10268|348|B77L|EDDM|Franz Josef Strauss|Munich|Germany|19:20|-38 min|Despegado|EDDP|Leipzig Halle|Leipzig|Germany|20:03|5 min|Aterrizado|
+|BOX910|BOX|51.4159|12.2713|4348|161|B77L|LOWW|Schwechat|Vienna|Austria|18:45|-73 min|Despegado|EDDP|Leipzig Halle|Leipzig|Germany|19:35|-23 min|Demorado|
+|BOX93D|BOX|41.2986|2.06839|26|6|B77L|LEBL|Barcelona-El Prat|Barcelona|Spain|20:15|17 min|Despegado|EHAM|Schiphol|Amsterdam|Netherlands|22:10|132 min|Demorado|
+|BRA1722|BRA|-34.4846|-55.8475|5718|278|B738|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|18:00|-118 min|Despegado|SUMU|Carrasco Intl|Montevideo|Uruguay|20:00|2 min|Demorado|
+|BSO048|BSO|-15.8937|34.3089|4499|209|BE58|FWCL|Chileka Intl|Blantyre|Malawi|19:45|-13 min|Despegado|FLLS|Lusaka Intl|Lusaka|Zambia|23:00|182 min|Demorado|
+|BTI624|BTI|52.5531|13.2905|130|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|BUH007|BUH|58.8141|16.8423|26891|449|B738|ESSA|Arlanda|Stockholm|Sweden|19:40|-18 min|Despegado|ESMS|Sturup|Malmoe|Sweden|20:35|37 min|Aterrizado|
+|BWF1304|BWF|39.6201|2.76005|1962|221|B738|EHAM|Schiphol|Amsterdam|Netherlands|19:30|-28 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|21:45|107 min|Aterrizado|
+|BZL2550|BZL|-23.6302|-46.6585|2639|0|B737|SBSP|Congonhas|Sao Paulo|Brazil|18:59|-59 min|Despegado|SBRJ|Santos Dumont|Rio De Janeiro|Brazil|19:59|1 min|Aterrizado|
+|CAB003|CAB|13.3727|-61.1288|16379|171|DC3/|TTPP|Piarco|Port-of-spain|Trinidad and Tobago|18:50|-68 min|Despegado|TFFR|Le Raizet|Pointe-a-pitre|Guadeloupe|19:55|-3 min|Demorado|
+|CAG1118|CAG|-30.7885|144.132|38142|329|A320|YSTW|Tamworth|Tamworth|Australia|18:35|-83 min|Despegado|YBAS|Alice Springs|Alice Springs|Australia|22:19|141 min|Demorado|
+|CAG9EC|CAG|43.4789|7.24636|38884|503|A332|LXGB|Gibraltar|Gibraltar|Gibraltar|18:30|-88 min|Despegado|EDDM|Franz Josef Strauss|Munich|Germany|21:19|81 min|Demorado|
+|CAV9318|CAV|5.42665|-73.2395|14011|184|P32R|SKMD|Olaya Herrera|Medellin|Colombia|17:01|-177 min|Despegado|SKYP|El Alcaraván Airport|Yopal|Colombia|18:11|-107 min|Demorado|
+|CAY007|CAY|53.7702|8.67986|95|33|TAGO|EDXJ||||19:10|-48 min|Despegado|ETMN|Nordholz|Nordholz|Germany|21:35|97 min|Demorado|
+|CCGRS|privado|-33.6666|-75.9427|30153|465|B737|SCEL|Arturo Merino Benitez Intl|Santiago|Chile|13:35|-383 min|Despegado|SCIP|Mataveri Intl|Easter Island|Chile|14:10|-348 min|Demorado|
+|CCM777|CCM|47.4108|3.44108|33633|461|A320|LFPO|Orly|Paris|France|19:30|-28 min|Despegado|LFKJ|Campo Dell Oro|Ajaccio|France|20:46|48 min|Demorado|
+|CFE3272|CFE|51.5042|0.0637008|30|10|E170|EGLC|City|London|United Kingdom|19:49|-9 min|Demorado|EGNS|Isle Of Man|Isle Of Man|Isle of Man|21:19|81 min|Demorado|
+|CFG1508|CFG|43.6944|5.06028|40059|504|B744|EDDM|Franz Josef Strauss|Munich|Germany|18:30|-88 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|20:07|9 min|Demorado|
+|CFG2054|CFG|51.9257|8.03316|6022|137|C208|EDDW|Neuenland|Bremen|Germany|19:10|-48 min|Despegado|EDDK|Koln Bonn|Cologne|Germany|19:10|-48 min|Demorado|
+|CFG524|CFG|39.4135|2.53093|1993|161|A321|EDDS|Stuttgart|Stuttgart|Germany|18:02|-116 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|21:02|64 min|Demorado|
+|CKY009|CKY|30.5669|-43.1326|36003|472|A346|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|15:45|-253 min|Despegado|SVMI|Simon Bolivar Intl|Caracas|Venezuela|00:20|262 min|Demorado|
+|CMP134|CMP|9.06417|-79.3856|144|3|B738|MPTO|Tocumen Intl|Panama City|Panama|20:05|7 min|Despegado|EGKK|Gatwick|London|United Kingdom|22:47|169 min|Demorado|
+|CMP176|CMP|-18.7414|-45.5405|38909|516|B737|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|19:22|-36 min|Despegado|MPTO|Tocumen Intl|Panama City|Panama|02:22|384 min|Demorado|
+|CMP211|CMP|9.06799|-79.3859|146|0|B738|MPTO|Tocumen Intl|Panama City|Panama|20:41|43 min|Embarcando|SEQM|Mariscal Sucre Intl|Quito|Ecuador|22:41|163 min|Demorado|
+|CNX1474|CNX|-27.6658|-48.5448|27|2|B738|SBPA|Salgado Filho|Porto Alegre|Brazil|19:00|-58 min|Despegado|SBFL|Hercilio Luz|Florianopolis|Brazil|19:51|-7 min|Aterrizado|
+|COJ118|COJ|4.99494|-75.0093|16039|271|BE20|SKIB|Perales|Ibague|Colombia|19:45|-13 min|Despegado|SKMZ|La Nubia|Manizales|Colombia|20:25|27 min|Aterrizado|
+|COL13|COL|49.7619|11.5688|1796|0|C172|EDOA||||19:11|-47 min|Despegado|EDQZ||||20:41|43 min|Aterrizado|
+|COL512|COL|-5.01537|-33.026|35034|487|B77W|EDDF|Frankfurt Main|Frankfurt|Germany|11:50|-488 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|23:10|192 min|Aterrizado|
+|CP1538|CP1|38.8802|1.37715|24|0|C182|LEIB|Ibiza|Ibiza|Spain|20:30|32 min|Embarcando|LEIB|Ibiza|Ibiza|Spain|21:30|92 min|Aterrizado|
+|CPA2405|CPA|28.872|-58.1556|29169|495|B77W|KIAH|George Bush Intercontinental|Houston|United States|15:40|-258 min|Despegado|DNMM|Murtala Muhammed|Lagos|Nigeria|03:29|451 min|Aterrizado|
+|CPA5010|CPA|23.8937|106.642|34889|486|B77W|HECA|Cairo Intl|Cairo|Egypt|11:35|-503 min|Despegado|ZGGG|Baiyun Intl|Guangzhou|China|21:03|65 min|Aterrizado|
+|CPA729|CPA|22.3176|113.933|42|0|B77W|VHHH|Hong Kong Intl|Hong Kong|Hong Kong|20:10|12 min|Despegado|WMKK|Kuala Lumpur Intl|Kuala Lumpur|Malaysia|23:13|195 min|Aterrizado|
+|CPA80|CPA|45.6614|-95.1544|38134|553|B744|PANC|Ted Stevens Anchorage Intl|Anchorage|United States|16:08|-230 min|Despegado|KORD|Chicago Ohare Intl|Chicago|United States|21:19|81 min|Aterrizado|
+|CPA831|CPA|57.0134|-65.5828|31023|513|B77W|KJFK|John F Kennedy Intl|New York|United States|17:19|-159 min|Despegado|VHHH|Hong Kong Intl|Hong Kong|Hong Kong|09:19|801 min|Aterrizado|
+|CPA890|CPA|51.1983|-74.551|38053|475|B773|VHHH|Hong Kong Intl|Hong Kong|Hong Kong|06:16|-822 min|Despegado|KJFK|John F Kennedy Intl|New York|United States|21:46|108 min|Aterrizado|
+|CPA9710|CPA|39.2034|-4.74123|39881|390|B748|LEJR|Jerez|Jerez|Spain|19:35|-23 min|Despegado|LFRN|St Jacques|Rennes|France|21:22|84 min|Aterrizado|
+|CRA020|CRA|30.6954|-116.345|8506|146|C208|MMES|Ensenada|Ensenada|Mexico|17:25|-153 min|Despegado|MM0A||||19:05|-53 min|Demorado|
+|CRL910|CRL|48.7283|2.37435|304|0|B773|LFPO|Orly|Paris|France|19:56|-2 min|Demorado|FMEE|St Denis Gillot|St.-denis|Reunion|20:31|33 min|Demorado|
+|CRL924|CRL|46.9459|3.51617|34218|519|A332|LFPO|Orly|Paris|France|19:30|-28 min|Despegado|LFKJ|Campo Dell Oro|Ajaccio|France|20:05|7 min|Demorado|
+|CRL974|CRL|-24.8879|37.5378|39296|508|A332|FACT|Cape Town Intl|Cape Town|South Africa|17:35|-143 min|Despegado|FMEE|St Denis Gillot|St.-denis|Reunion|22:06|128 min|Demorado|
+|CS290|CS2|45.4151|13.057|32940|466|A330|LFPO|Orly|Paris|France|20:30|32 min|Embarcando|LCLK|Larnaca|Larnaca|Cyprus|23:30|212 min|Demorado|
+|CSDOP|privado|37.824|-12.0519|32904|445|A320|LPPD|Ponta Delgada|Ponta Delgada|Portugal|18:14|-104 min|Despegado|LPFR|Faro|Faro|Portugal|18:49|-69 min|Demorado|
+|CSN329|CSN|34.647|136.572|33207|507|B77W|ZGGG|Baiyun Intl|Guangzhou|China|16:55|-183 min|Despegado|CYVR|Vancouver Intl|Vancouver|Canada|04:55|537 min|Demorado|
+|CSN74|CSN|38.996|17.0779|525|0|C172|LIBC|Crotone|Crotone|Italy|19:48|-10 min|Demorado|LIBC|Crotone|Crotone|Italy|21:18|80 min|Demorado|
+|CTO305C|CTO|36.3517|-63.0986|31024|498|B77L|KMIA|Miami Intl|Miami|United States|17:30|-148 min|Despegado|LEBL|Barcelona-El Prat|Barcelona|Spain|01:50|352 min|Demorado|
+|CUB0001|CUB|7.2133|-73.9809|37800|491|B744|SKBO|Eldorado Intl|Bogota|Colombia|22:10|132 min|Embarcando|MUHA|Jose Marti Intl|Havana|Cuba|01:30|-1108 min|Demorado|
+|CUB0034|CUB|23.2373|-81.3925|5941|139|C336|MUHG|Frank Pais Intl|Holguin|Cuba|17:35|-143 min|Despegado|KEYW|Key West Intl|Key West|United States|18:10|-108 min|Demorado|
+|CUB034|CUB|6.83413|-73.8572|37860|468|A318|SKBO|Eldorado Intl|Bogota|Colombia|18:49|-69 min|Despegado|MUHA|Jose Marti Intl|Havana|Cuba|22:19|141 min|Demorado|
+|CUE894|CUE|45.872|23.5745|19642|325|A320|LRSB|Sibiu|Sibiu|Romania|20:00|2 min|Despegado|LOWK|Woerthersee International Airport|Klagenfurt|Austria|21:20|82 min|Demorado|
+|CXA807|CXA|37.1463|122.539|26833|508|B732|ZBAA|Capital Intl|Beijing|China|19:09|-49 min|Despegado|RJSN|Niigata|Niigata|Japan|21:54|116 min|Demorado|
+|DAALA|privado|51.436|12.3234|1760|186|B77W|EDDP|Leipzig Halle|Leipzig|Germany|19:47|-11 min|Despegado|EDDP|Leipzig Halle|Leipzig|Germany|20:22|24 min|Demorado|
+|DAL17|DAL|41.2911|2.08269|22|0|B752|LEBL|Barcelona-El Prat|Barcelona|Spain|19:48|-10 min|Demorado|LFPG|Charles De Gaulle|Paris|France|22:43|165 min|Demorado|
+|DAL28|DAL|-21.7153|-46.1051|35997|412|B738|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|19:20|-38 min|Despegado|SBSP|Congonhas|Sao Paulo|Brazil|20:41|43 min|Demorado|
+|DAL3|DAL|51.7907|-4.74267|34072|428|B763|EGLL|Heathrow|London|United Kingdom|18:45|-73 min|Despegado|KJFK|John F Kennedy Intl|New York|United States|02:02|364 min|Demorado|
+|DAL316A|DAL|-23.6878|-130.827|33941|479|B733|SCIP|Mataveri Intl|Easter Island|Chile|16:50|-188 min|Despegado|NTGJ|Totegegie|Totegegie|French Polynesia|20:20|22 min|Demorado|
+|DAL356|DAL|20.2202|-102.967|13346|305|B744|MMAA|General Juan N Alvarez Intl|Acapulco|Mexico|18:57|-61 min|Despegado|MMGL|Don Miguel Hidalgo Y Costilla Intl|Guadalajara|Mexico|20:02|4 min|Demorado|
+|DAL41|DAL|-31.337|156.771|33971|539|B772|KLAX|Los Angeles Intl|Los Angeles|United States|03:05|-1013 min|Despegado|YSSY|Sydney Intl|Sydney|Australia|03:40|-978 min|Demorado|
+|DAL507|DAL|50.0499|8.58435|378|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|DAL982|DAL|7.92654|-72.5104|1107|0|B739|SKBG|Palonegro|Bucaramanga|Colombia|18:35|-83 min|Despegado|SKCC|Camilo Daza|Cucuta|Colombia|18:55|-63 min|Aterrizado|
+|DAVID|privado|-8.08147|-79.1069|83|0|RJ1H|SPRU|Capitan Carlos Martinez De Pinillos|Trujillo|Peru|20:30|32 min|Embarcando|SECU|Mariscal Lamar|Cuenca|Ecuador|23:20|202 min|Aterrizado|
+|DE155|DE1|50.8769|7.12358|317|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|DEAKI|privado|49.4968|11.099|1186|70|C172|EDDN|Nurnberg|Nuernberg|Germany|19:55|-3 min|Despegado|EDDN|Nurnberg|Nuernberg|Germany|20:25|27 min|Aterrizado|
+|DHDGF|privado|47.2607|11.3489|1929|15|B412|LOWZ|Zell am See|Zell am See|Austria|13:25|-393 min|Despegado|LOIJ|Flugplatz St. Johann in Tirol|St. Johann in Tirol|Austria|14:25|-333 min|Demorado|
+|DIBIW|privado|45.7859|2.44128|9362|193|PAY3|LFOB|Tille|Beauvais|France|19:44|-14 min|Despegado|LFPN|Toussus Le Noble|Toussous-le-noble|France|21:44|106 min|Demorado|
+|DILHE|privado|69.4026|18.6574|4979|252|C25A|ENVA|Vaernes|Trondheim|Norway|18:50|-68 min|Despegado|ENSH|Svolvær Helle Airport|SvolvÃ¦r|Norway|21:50|112 min|Demorado|
+|DLH033|DLH|50.6766|9.83511|12835|304|A321|EDDH|Hamburg|Hamburg|Germany|19:25|-33 min|Despegado|EDDF|Frankfurt Main|Frankfurt|Germany|20:25|27 min|Demorado|
+|DLH147D|DLH|51.2804|6.76368|162|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|DLH170|DLH|27.7162|77.7962|30597|497|B744|EDDF|Frankfurt Main|Frankfurt|Germany|13:03|-415 min|Despegado|WIII|Soekarno Hatta Intl|Jakarta|Indonesia|03:48|470 min|Aterrizado|
+|DLH17N|DLH|43.3055|-2.90755|153|0|A320|LEBB|Bilbao|Bilbao|Spain|17:50|-128 min|Despegado|EDDF|Frankfurt Main|Frankfurt|Germany|19:40|-18 min|Aterrizado|
+|DLH2135|DLH|48.502|-123.011|1607|53|A321|EDDF|Frankfurt Main|Frankfurt|Germany|20:02|4 min|Despegado|LEIB|Ibiza|Ibiza|Spain|20:37|39 min|Aterrizado|
+|DLH2331|DLH|49.8044|3.30336|26925|445|B738|LFQQ|Lesquin|Lille|France|19:28|-30 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:58|60 min|Aterrizado|
+|DLH25F|DLH|50.0454|8.56752|379|0|A321|EDDF|Frankfurt Main|Frankfurt|Germany|20:25|27 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|22:19|141 min|Aterrizado|
+|DLH25W|DLH|46.9735|11.6955|30106|458|A321|EDDM|Franz Josef Strauss|Munich|Germany|19:45|-13 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|21:30|92 min|Aterrizado|
+|DLH408|DLH|40.6821|-74.1758|30|0|B744|EDDL|Dusseldorf|Duesseldorf|Germany|10:30|-568 min|Despegado|KEWR|Newark Liberty Intl|Newark|United States|18:01|-117 min|Aterrizado|
+|DLH418|DLH|39.5401|-77.3265|8655|271|B744|EDDF|Frankfurt Main|Frankfurt|Germany|11:47|-491 min|Despegado|KIAD|Washington Dulles Intl|Washington|United States|20:22|24 min|Aterrizado|
+|DLH454|DLH|40.5604|2.70537|15074|250|A320|LFPG|Charles De Gaulle|Paris|France|18:40|-78 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|20:10|12 min|Aterrizado|
+|DLH456|DLH|37.9053|4.90817|33141|467|A321|LIRN|Capodichino|Naples|Italy|19:10|-48 min|Despegado|GCFV|Fuerteventura|Fuerteventura|Spain|00:30|272 min|Aterrizado|
+|DLH4LA|DLH|50.003|7.65713|21821|465|A320|EDDH|Hamburg|Hamburg|Germany|19:05|-53 min|Despegado|EDDR|Saarbrucken|Saarbruecken|Germany|20:05|7 min|Aterrizado|
+|DLH625|DLH|64.7088|17.5223|32111|480|B752|ESSA|Arlanda|Stockholm|Sweden|20:10|12 min|Despegado|ENTC|Langnes|Tromso|Norway|21:40|102 min|Aterrizado|
+|DLH626|DLH|50.0464|8.5666|372|0|A320|EDDF|Frankfurt Main|Frankfurt|Germany|20:30|32 min|Embarcando|OEDF|King Fahd Intl|Dammam|Saudi Arabia|03:00|422 min|Aterrizado|
+|DLH6PH|DLH|55.0058|9.99354|34021|405|A320|ENGM|Gardermoen|Oslo|Norway|19:30|-28 min|Despegado|EDDF|Frankfurt Main|Frankfurt|Germany|21:24|86 min|Aterrizado|
+|DLH716|DLH|49.8843|8.38417|3432|241|A332|EDDF|Frankfurt Main|Frankfurt|Germany|19:55|-3 min|Despegado|RJTT|Tokyo Intl|Tokyo|Japan|08:38|760 min|Aterrizado|
+|DLH760|DLH|31.4059|73.6433|39115|487|B744|EDDF|Frankfurt Main|Frankfurt|Germany|13:40|-378 min|Despegado|VIDP|Indira Gandhi Intl|Delhi|India|20:51|53 min|Aterrizado|
+|DLH772|DLH|50.0868|14.6065|33111|497|B744|EDDF|Frankfurt Main|Frankfurt|Germany|19:20|-38 min|Despegado|VTBS|Suvarnabhumi Intl|Bangkok|Thailand|00:20|262 min|Aterrizado|
+|DLH982|DLH|46.9312|17.8782|34658|434|A320|EDDF|Frankfurt Main|Frankfurt|Germany|18:42|-76 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|19:57|-1 min|Demorado|
+|DSM3475|DSM|-22.4292|-68.9409|33878|385|A320|SABE|Aeroparque Jorge Newbery|Buenos Aires|Argentina|17:40|-138 min|Despegado|SPJC|Jorge Chávez Intl|Lima-Callao|Peru|21:55|117 min|Demorado|
+|DSY1002|DSY|-9.12557|-35.4938|22536|454|A320|SBRF|Guararapes Gilberto Freyre Intl|Recife|Brazil|19:50|-8 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|22:41|163 min|Demorado|
+|DSY1016|DSY|3.04182|-56.2555|39021|511|B77L|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|18:10|-108 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|23:56|238 min|Demorado|
+|DTA502|DTA|8.45355|-13.9014|33130|498|B737|FPST|Sao Tome Intl|Sao Tome|Sao Tome and Principe|18:30|-88 min|Despegado|GVNP|Praia International Airport|Praia, Santiago Island|Cape Verde|21:10|72 min|Demorado|
+|DTA511|DTA|-2.31628|8.61767|32970|434|B737|FNLU|Luanda 4 De Fevereiro|Luanda|Angola|19:26|-32 min|Despegado|FPST|Sao Tome Intl|Sao Tome|Sao Tome and Principe|21:16|78 min|Demorado|
+|DTA6970|DTA|-21.0912|-28.496|36296|414|B77W|FNLU|Luanda 4 De Fevereiro|Luanda|Angola|14:20|-338 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|22:05|127 min|Demorado|
+|EAS008|EAS|45.3061|-93.7291|38016|408|A320|KMDW|Chicago Midway Intl|Chicago|United States|19:25|-33 min|Despegado|KGFK|Grand Forks Intl|Grand Forks|United States|20:55|57 min|Demorado|
+|ECLJM|privado|37.4217|-5.90318|115|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|ECTPM|privado|40.8634|2.85839|16021|207|C208|LEBL|Barcelona-El Prat|Barcelona|Spain|19:40|-18 min|Despegado|LEMH|Menorca|Menorca|Spain|21:10|72 min|Aterrizado|
+|EDF4754|EDF|7.93135|-76.9929|17644|389|B748|SKRG|Jose Maria Cordova|Rio Negro|Colombia|17:44|-134 min|Despegado|MPTO|Tocumen Intl|Panama City|Panama|18:24|-94 min|Demorado|
+|EEP152|EEP|69.31|87.3306|582|0|MD82|USDD|Salekhard Airport|Salekhard|Russia|18:45|-73 min|Despegado|UOOO|Alykel|Norilsk|Russia|20:00|2 min|Aterrizado|
+|EFI0867|EFI|40.6298|16.9842|29020|505|B738|LIRF|Fiumicino|Rome|Italy|19:25|-33 min|Despegado|LGSK|Alexandros Papadiamantis|Skiathos|Greece|20:45|47 min|Aterrizado|
+|EIN585|EIN|36.6763|-4.49553|68|2|A333|LEMG|Malaga|Malaga|Spain|20:15|17 min|Despegado|EIDW|Dublin|Dublin|Ireland|22:55|177 min|Aterrizado|
+|ELY777|ELY|3.39946|-76.4063|6154|189|B744|SETU|Teniente Coronel Luis A Mantilla|Tulcan|Ecuador|19:30|-28 min|Despegado|SKCL|Alfonso Bonilla Aragon Intl|Cali|Colombia|20:30|32 min|Aterrizado|
+|ETD421|ETD|14.279|117.927|35807|530|B77L|RPLL|Ninoy Aquino Intl|Manila|Philippines|19:25|-33 min|Despegado|OMAA|Abu Dhabi Intl|Abu Dhabi|United Arab Emirates|03:04|426 min|Aterrizado|
+|ETD604|ETD|13.2498|45.1868|39793|496|A332|OMAA|Abu Dhabi Intl|Abu Dhabi|United Arab Emirates|18:40|-78 min|Despegado|FAOR|O.R. Tambo Intl|Johannesburg|South Africa|02:14|376 min|Aterrizado|
+|ETR188|ETR|30.8611|-99.2183|37619|478|B788|KLAX|Los Angeles Intl|Los Angeles|United States|17:45|-133 min|Despegado|KMCO|Orlando Intl|Orlando|United States|23:18|200 min|Aterrizado|
+|EVA658|EVA|43.2473|-91.74|38643|530|B744|PANC|Ted Stevens Anchorage Intl|Anchorage|United States|15:20|-278 min|Despegado|KORD|Chicago Ohare Intl|Chicago|United States|20:29|31 min|Aterrizado|
+|EWG170|EWG|45.9025|10.2002|36010|416|A320|LOWW|Schwechat|Vienna|Austria|18:52|-66 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|21:04|66 min|Aterrizado|
+|EWG2412|EWG|45.379|9.50683|33996|434|A320|LOWW|Schwechat|Vienna|Austria|18:48|-70 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|21:00|62 min|Aterrizado|
+|EXS1813|EXS|45.141|4.26708|38821|538|B738|LFQQ|Lesquin|Lille|France|19:10|-48 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:29|31 min|Aterrizado|
+|EXU976A|EXU|48.7083|1.70012|17945|325|C25A|LEZG|Zaragoza Ab|Zaragoza|Spain|18:10|-108 min|Despegado|LFPB|Le Bourget|Paris|France|20:20|22 min|Aterrizado|
+|EZS82UJ|EZS|51.4249|5.35234|27887|431|A319|EHAM|Schiphol|Amsterdam|Netherlands|19:25|-33 min|Despegado|LSGG|Geneve Cointrin|Geneva|Switzerland|20:29|31 min|Aterrizado|
+|EZY15|EZY|45.0033|-0.78429|18231|427|A320|LFMT|Mediterranee|Montpellier|France|19:02|-56 min|Despegado|LFRS|Nantes Atlantique|Nantes|France|19:37|-21 min|Demorado|
+|EZY210|EZY|44.2324|5.60589|18787|432|A320|LFQQ|Lesquin|Lille|France|19:10|-48 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:25|27 min|Demorado|
+|EZY35CL|EZY|38.2847|-0.552889|157|2|A320|LEAL|Alicante|Alicante|Spain|20:25|27 min|Despegado|EGPF|Glasgow|Glasgow|United Kingdom|22:55|177 min|Demorado|
+|EZY45WD|EZY|38.9649|1.29594|3998|236|A319|EGSS|Stansted|London|United Kingdom|17:25|-153 min|Despegado|LEIB|Ibiza|Ibiza|Spain|19:29|-29 min|Demorado|
+|EZY73FT|EZY|50.1291|-1.68052|19301|320|A320|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|18:17|-101 min|Despegado|EGKK|Gatwick|London|United Kingdom|18:52|-66 min|Demorado|
+|EZY79VG|EZY|51.0234|-0.0434431|3900|230|B737|LEIB|Ibiza|Ibiza|Spain|17:39|-139 min|Despegado|EGKK|Gatwick|London|United Kingdom|18:14|-104 min|Demorado|
+|EZY821|EZY|49.3194|3.34148|28495|490|A319|LFQQ|Lesquin|Lille|France|18:20|-98 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|19:33|-25 min|Demorado|
+|EZY86XR|EZY|41.2909|2.08217|27|0|A320|LEBL|Barcelona-El Prat|Barcelona|Spain|19:51|-7 min|Demorado|LFPG|Charles De Gaulle|Paris|France|07:33|695 min|Demorado|
+|EZY94WA|EZY|38.8759|1.36999|35|0|A320|EGSS|Stansted|London|United Kingdom|16:55|-183 min|Despegado|LEIB|Ibiza|Ibiza|Spain|19:00|-58 min|Aterrizado|
+|EZY95KA|EZY|38.7802|1.14804|3442|172|A319|EGSS|Stansted|London|United Kingdom|17:42|-136 min|Despegado|LEIB|Ibiza|Ibiza|Spain|19:52|-6 min|Demorado|
+|EZY98MS|EZY|45.7812|3.15501|1105|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|FAF012|FAF|52.468|9.66258|655|227|MIR2|EDDV|Hannover|Hannover|Germany|18:45|-73 min|Despegado|ETNW|Wunstorf|Wunstorf|Germany|19:19|-39 min|Demorado|
+|FAF480|FAF|64.7168|10.9418|2470|118|DA42|ENVA|Vaernes|Trondheim|Norway|19:12|-46 min|Despegado|ENRM|Ryum Airport|RÃ¸rvik|Norway|20:28|30 min|Demorado|
+|FAF611|FAF|44.1341|1.27396|1422|584|F18/|LFBM|Mont De Marsan|Mont-de-marsan|France|19:30|-28 min|Despegado|LFTW|Garons|Nimes|France|21:00|62 min|Demorado|
+|FAG192|FAG|-29.3862|-62.4981|45341|1256|MIRA|SANT|Benjamin Matienzo|Tucuman|Argentina|19:36|-22 min|Despegado|SADP|El Palomar|El Palomar|Argentina|21:36|98 min|Demorado|
+|FAG221|FAG|-29.566|-62.3379|45075|917|MIRA|SANT|Benjamin Matienzo|Tucuman|Argentina|18:50|-68 min|Despegado|SADP|El Palomar|El Palomar|Argentina|20:50|52 min|Demorado|
+|FAG246|FAG|-28.8292|-63.1575|41914|536|MIRA|SANT|Benjamin Matienzo|Tucuman|Argentina|19:39|-19 min|Despegado|SADP|El Palomar|El Palomar|Argentina|20:39|41 min|Demorado|
+|FDB10G|FDB|||||||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|FDX109|FDX|11.6657|-68.3267|25131|374|MD11|SVMI|Simon Bolivar Intl|Caracas|Venezuela|19:45|-13 min|Despegado|TNCA|Reina Beatrix Intl|Oranjestad|Aruba|20:25|27 min|Aterrizado|
+|FDX183|FDX|5.61335|-0.163844|186|21|B77L|DGAA|Kotoka Intl|Accra|Ghana|19:55|-3 min|Demorado|FZAA|Ndjili Intl|Kinshasa|Congo (Kinshasa)|20:30|32 min|Aterrizado|
+|FDX256L|FDX|46.0182|3.77218|35022|458|B738|LFQQ|Lesquin|Lille|France|19:15|-43 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|19:15|-43 min|Demorado|
+|FDX485|FDX|37.4273|-106.309|34610|462|B77L|KMEM|Memphis Intl|Memphis|United States|19:32|-26 min|Despegado|KSFO|San Francisco Intl|San Francisco|United States|22:59|181 min|Demorado|
+|FFX9009|FFX|-23.4291|-46.4807|2473|0|B772|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|19:26|-32 min|Despegado|KMIA|Miami Intl|Miami|United States|03:12|434 min|Demorado|
+|FGMDE|privado|48.6105|6.56262|1590|78|C172|LFQC|Croismare|Luneville|France|20:05|7 min|Despegado|LFQB|Barberey|Troyes|France|20:35|37 min|Demorado|
+|FGXYZ|privado|41.9228|8.8|22|0|DR40|LFKJ|Campo Dell Oro|Ajaccio|France|19:51|-7 min|Demorado|LFKF|Sud Corse|Figari|France|20:26|28 min|Aterrizado|
+|FHCHV|privado|45.5999|5.65676|4547|177|COL4|LFLJ|Courchevel Airport|Courcheval|France|19:50|-8 min|Despegado|LFLL|Saint Exupery|Lyon|France|20:20|22 min|Aterrizado|
+|FHJ33|FHJ|43.5721|3.98139|21|3|B60T|LFMT|Mediterranee|Montpellier|France|19:52|-6 min|Demorado|LFLC|Auvergne|Clermont-Ferrand|France|20:52|54 min|Aterrizado|
+|FHN94|FHN|43.5721|3.98129|19|0|M20T|LFMT|Mediterranee|Montpellier|France|19:55|-3 min|Demorado|LFLC|Auvergne|Clermont-Ferrand|France|20:50|52 min|Aterrizado|
+|FIMAV|privado|49.5001|2.13486|2501|160|BE58|LFOB|Tille|Beauvais|France|19:36|-22 min|Despegado|LFQQ|Lesquin|Lille|France|20:16|18 min|Aterrizado|
+|FPMRY|privado|45.8539|1.4227|5406|192|LEG2|LFBL|Bellegarde|Limoges|France|19:10|-48 min|Despegado|LFBL|Bellegarde|Limoges|France|19:50|-8 min|Demorado|
+|FPO228H|FPO|36.9327|24.5223|27134|443|B733|LGSR|Santorini|Thira|Greece|19:40|-18 min|Despegado|LFLL|Saint Exupery|Lyon|France|22:30|152 min|Demorado|
+|FSA2437|FSA|-37.938|-57.4807|3045|251|E190|SAZM|Mar Del Plata|Mar Del Plata|Argentina|19:57|-1 min|Despegado|SABE|Aeroparque Jorge Newbery|Buenos Aires|Argentina|20:57|59 min|Demorado|
+|FWA389F|FWA|-9.88956|147.282|34053|502|B77W|YSSY|Sydney Intl|Sydney|Australia|16:35|-203 min|Despegado|RJTT|Tokyo Intl|Tokyo|Japan|01:45|347 min|Demorado|
+|FWS716|FWS|16.2689|-61.5268|50|0|B77W|TFFR|Le Raizet|Pointe-a-pitre|Guadeloupe|20:25|27 min|Despegado|LFPO|Orly|Paris|France|03:55|477 min|Demorado|
+|GAL1223|GAL|47.5713|-5.78155|25251|366|B773|TJSJ|Luis Munoz Marin Intl|San Juan|Puerto Rico|14:24|-334 min|Despegado|LOWW|Schwechat|Vienna|Austria|00:24|266 min|Demorado|
+|GCB0059|GCB|-23.0366|-45.5137|1875|0|AS32|SBTA||||19:13|-45 min|Despegado|SBGW|Guaratingueta|Guaratingueta|Brazil|19:48|-10 min|Aterrizado|
+|GEC140|GEC|4.69054|-74.1367|8373|0|MD11|SKBO|Eldorado Intl|Bogota|Colombia|20:45|47 min|Embarcando|SEQM|Mariscal Sucre Intl|Quito|Ecuador|21:45|107 min|Aterrizado|
+|GEC3396|GEC|-7.32225|-63.791|33957|506|B77L|SVMI|Simon Bolivar Intl|Caracas|Venezuela|17:20|-158 min|Despegado|SAEZ|Ezeiza Intl Ministro Pistarini|Buenos Aires|Argentina|17:55|-123 min|Demorado|
+|GEC8271|GEC|51.2146|12.8625|11815|304|B77L|EDDM|Franz Josef Strauss|Munich|Germany|19:25|-33 min|Despegado|EDDP|Leipzig Halle|Leipzig|Germany|20:06|8 min|Demorado|
+|GLD273|GLD|-23.1392|-44.8999|21339|293|BE20|SBCT|Afonso Pena|Curitiba|Brazil|18:55|-63 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|20:40|42 min|Demorado|
+|GLO1046|GLO|-11.7338|-37.5584|24382|406|B738|SBSP|Congonhas|Sao Paulo|Brazil|17:20|-158 min|Despegado|SBAR|Santa Maria|Aracaju|Brazil|19:24|-34 min|Demorado|
+|GLO1205|GLO|-1.38993|-48.479|62|0|B737|SBBE|Val De Cans Intl|Belem|Brazil|20:10|12 min|Despegado|SBFZ|Pinto Martins Intl|Fortaleza|Brazil|21:47|109 min|Demorado|
+|GLO1507|GLO|-22.9134|-43.1651|19|0|B738|SBRJ|Santos Dumont|Rio De Janeiro|Brazil|20:15|17 min|Despegado|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|22:04|126 min|Demorado|
+|GLO1600|GLO|-22.9121|-43.1658|19|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|GLO1655|GLO|-29.7079|-53.6947|295|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|GLO1818|GLO|-8.13564|-34.918|44|0|B738|SBRF|Guararapes Gilberto Freyre Intl|Recife|Brazil|20:04|6 min|Despegado|SBFZ|Pinto Martins Intl|Fortaleza|Brazil|21:04|66 min|Aterrizado|
+|GLO2000|GLO|-20.7142|-44.3117|39451|500|B738|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|19:25|-33 min|Despegado|SBKG|Presidente Joao Suassuna|Campina Grande|Brazil|22:05|127 min|Aterrizado|
+|GLO4195|GLO|-13.8362|-55.8689|37038|461|B737|SBRB|PlÃ¡cido de Castro|Rio Branco|Brazil|18:22|-96 min|Despegado|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|21:03|65 min|Aterrizado|
+|GLO4807|GLO|-13.1669|-38.3454|15714|305|B738|SBSV|Deputado Luis Eduardo Magalhaes|Salvador|Brazil|19:55|-3 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|21:33|95 min|Aterrizado|
+|GLO4853|GLO|-4.84508|-37.6575|32312|464|B738|SBRF|Guararapes Gilberto Freyre Intl|Recife|Brazil|10:20|-578 min|Despegado|SBFZ|Pinto Martins Intl|Fortaleza|Brazil|11:20|-518 min|Demorado|
+|GLO4923|GLO|-23.4282|-46.4835|2467|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|GLO5307|GLO|-10.1406|-48.4305|38083|439|B737|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|18:30|-88 min|Despegado|SBCJ|Carajas Airport|Parauapebas|Brazil|20:38|40 min|Aterrizado|
+|GLO5326|GLO|-5.06294|-42.822|227|0|B737|SBTE|Senador Petronio Portella|Teresina|Brazil|20:10|12 min|Despegado|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|22:05|127 min|Aterrizado|
+|GLO5355|GLO|-8.97249|-69.8561|32042|456|B738|SBRB|PlÃ¡cido de Castro|Rio Branco|Brazil|19:25|-33 min|Despegado|SBCZ|Cruzeiro do Sul|Cruzeiro do Sul|Brazil|20:25|27 min|Aterrizado|
+|GLO5363|GLO|-2.4242|-54.7862|206|0|B738|SBEG|Eduardo Gomes Intl|Manaus|Brazil|17:31|-147 min|Despegado|SBSN|Santarem|Santarem|Brazil|18:41|-77 min|Aterrizado|
+|GLO5423|GLO|-23.6223|-46.6595|2642|74|B737|SBSP|Congonhas|Sao Paulo|Brazil|20:00|2 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|20:50|52 min|Aterrizado|
+|GLO5443|GLO|-27.6655|-48.5451|27|0|B737|SBFL|Hercilio Luz|Florianopolis|Brazil|14:57|-301 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|15:52|-246 min|Aterrizado|
+|GLO5447|GLO|-23.6251|-46.6591|2639|0|B738|SBSP|Congonhas|Sao Paulo|Brazil|20:20|22 min|Despegado|SBPA|Salgado Filho|Porto Alegre|Brazil|21:35|97 min|Aterrizado|
+|GLO5599|GLO|29.8502|-14.0866|35765|480|B738|GCLP|Gran Canaria|Gran Canaria|Spain|13:30|-388 min|Despegado|LPFR|Faro|Faro|Portugal|16:05|-233 min|Demorado|
+|GLO5622|GLO|-12.4181|-44.132|37066|433|B738|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|18:30|-88 min|Despegado|SBSL|Marechal Cunha Machado Intl|Sao Luis|Brazil|21:45|107 min|Demorado|
+|GLO5624|GLO|-20.4582|-54.6687|1842|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|GLO5655|GLO|-27.5768|-48.3353|38350|411|B738|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|19:11|-47 min|Despegado|SBPA|Salgado Filho|Porto Alegre|Brazil|20:56|58 min|Aterrizado|
+|GLO5809|GLO|-4.68387|-57.805|37946|440|B738|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|16:25|-213 min|Despegado|SBEG|Eduardo Gomes Intl|Manaus|Brazil|20:20|22 min|Aterrizado|
+|GLO5814|GLO|-14.7929|-41.7741|36260|431|B738|SBFZ|Pinto Martins Intl|Fortaleza|Brazil|18:10|-108 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|21:05|67 min|Aterrizado|
+|GLO5836|GLO|-20.7494|-44.3382|37387|488|B737|SBSP|Congonhas|Sao Paulo|Brazil|19:40|-18 min|Despegado|SBSV|Deputado Luis Eduardo Magalhaes|Salvador|Brazil|21:40|102 min|Aterrizado|
+|GLO5887|GLO|-15.4258|-38.5298|36237|411|B738|SBAR|Santa Maria|Aracaju|Brazil|19:18|-40 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|21:19|81 min|Aterrizado|
+|GLO6545|GLO|-3.77786|-38.54|90|0|B738|SBFZ|Pinto Martins Intl|Fortaleza|Brazil|20:10|12 min|Despegado|SBSV|Deputado Luis Eduardo Magalhaes|Salvador|Brazil|22:00|122 min|Aterrizado|
+|GLO6618|GLO|-19.6363|-43.9638|2723|8|B738|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|19:10|-48 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|20:15|17 min|Aterrizado|
+|GLO6620|GLO|-19.6342|-43.9625|2723|1|B738|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|18:35|-83 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|20:05|7 min|Aterrizado|
+|GLO6630|GLO|4.34758|-73.5604|23759|429|B736|SKBO|Eldorado Intl|Bogota|Colombia|17:14|-164 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|23:14|196 min|Aterrizado|
+|GLO6652|GLO|-16.4405|-39.0811|176|0|B737|SBPS|Aeroporto de Porto Seguro|Porto Seguro|Brazil|20:30|32 min|Embarcando|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|22:15|137 min|Aterrizado|
+|GLO6673|GLO|-7.4079|-35.4005|10748|239|B737|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|17:18|-160 min|Despegado|SBJP|Presidente Castro Pinto|Joao Pessoa|Brazil|20:09|11 min|Aterrizado|
+|GLO6756|GLO|-22.5954|-46.3534|25397|475|B738|SBFZ|Pinto Martins Intl|Fortaleza|Brazil|17:15|-163 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|20:29|31 min|Aterrizado|
+|GLO6809|GLO|-26.5308|-48.4574|37378|483|B737|SBPA|Salgado Filho|Porto Alegre|Brazil|19:29|-29 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|19:41|-17 min|Demorado|
+|GLO6841|GLO|-13.4614|-37.9235|37183|481|B737|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|18:30|-88 min|Despegado|SBRF|Guararapes Gilberto Freyre Intl|Recife|Brazil|20:56|58 min|Demorado|
+|GLO6862|GLO|-25.5285|-48.5309|18270|391|B737|SBCT|Afonso Pena|Curitiba|Brazil|19:50|-8 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|20:55|57 min|Demorado|
+|GLO7566|GLO|-32.8461|-70.3995|16259|269|B737|SBCT|Afonso Pena|Curitiba|Brazil|16:53|-185 min|Despegado|SCEL|Arturo Merino Benitez Intl|Santiago|Chile|19:53|-5 min|Demorado|
+|GLO7685|GLO|-25.3474|-47.3946|39375|495|B738|SABE|Aeroparque Jorge Newbery|Buenos Aires|Argentina|17:50|-128 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|20:12|14 min|Demorado|
+|GLO7687|GLO|-25.3694|-47.4168|41414|478|B738|SABE|Aeroparque Jorge Newbery|Buenos Aires|Argentina|18:04|-114 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|20:24|26 min|Demorado|
+|GMI1017|GMI|47.7972|9.13155|37402|483|B737|LFBO|Blagnac|Toulouse|France|16:36|-202 min|Despegado|EDHI|Hamburg Finkenwerder|Hamburg|Germany|17:11|-167 min|Demorado|
+|GRZLY90|GRZ|35.5562|-114.656|1051|167|H47/|KIFP||||19:55|-3 min|Despegado|KLAS|Mc Carran Intl|Las Vegas|United States|20:25|27 min|Demorado|
+|GSBAE|privado|52.8869|-1.99269|563|142|B190|EGPF|Glasgow|Glasgow|United Kingdom|19:25|-33 min|Despegado|EGNS|Isle Of Man|Isle Of Man|Isle of Man|20:00|2 min|Demorado|
+|GTI58|GTI|12.9441|-79.408|37941|496|B744|SEQM|Mariscal Sucre Intl|Quito|Ecuador|18:05|-113 min|Despegado|KMIA|Miami Intl|Miami|United States|21:29|91 min|Demorado|
+|GTM225|GTM|15.7726|-96.2594|472|9|B735|MMMX|Licenciado Benito Juarez Intl|Mexico City|Mexico|19:00|-58 min|Despegado|MMBT|Bahias De Huatulco Intl|Huatulco|Mexico|19:55|-3 min|Aterrizado|
+|GVT409|GVT|22.9969|-82.4058|220|0|A388|MMMX|Licenciado Benito Juarez Intl|Mexico City|Mexico|17:29|-149 min|Despegado|MUHA|Jose Marti Intl|Havana|Cuba|21:17|79 min|Aterrizado|
+|GVT417|GVT|-17.5482|178.88|39979|561|B741|YSSY|Sydney Intl|Sydney|Australia|16:40|-198 min|Despegado|MPTO|Tocumen Intl|Panama City|Panama|17:40|-138 min|Demorado|
+|GVT421|GVT|47.4458|-122.301|441|0|B738|KSEA|Seattle Tacoma Intl|Seattle|United States|19:58|0 min|Despegado|KSAN|San Diego Intl|San Diego|United States|22:33|155 min|Demorado|
+|GWI79|GWI|51.4189|12.2217|480|0|A319|EDDP|Leipzig Halle|Leipzig|Germany|17:25|-153 min|Despegado|EDDK|Koln Bonn|Cologne|Germany|18:05|-113 min|Aterrizado|
+|GXL221|GXL|43.4404|5.22104|83|0|B738|LFML|Provence|Marseille|France|19:58|0 min|Despegado|LFMT|Mediterranee|Montpellier|France|19:58|0 min|Aterrizado|
+|HAM011|HAM|53.6821|9.21186|19266|425|A320|EGKK|Gatwick|London|United Kingdom|18:50|-68 min|Despegado|EDDH|Hamburg|Hamburg|Germany|20:30|32 min|Aterrizado|
+|HBMES|privado|32.1085|34.7783|45|0|C172|LLSD|Sde Dov|Tel-aviv|Israel|12:10|-468 min|Despegado|LLSD|Sde Dov|Tel-aviv|Israel|00:40|282 min|Aterrizado|
+|HDA483|HDA|22.3121|113.926|43|0|A320|RCTP|Taoyuan Intl|Taipei|Taiwan|16:22|-216 min|Despegado|VHHH|Hong Kong Intl|Hong Kong|Hong Kong|16:57|-181 min|Aterrizado|
+|HES038|HES|47.1649|-122.172|24359|453|B744|KSEA|Seattle Tacoma Intl|Seattle|United States|19:47|-11 min|Despegado|KLAS|Mc Carran Intl|Las Vegas|United States|21:37|99 min|Aterrizado|
+|HES087|HES|12.7855|44.7836|2987|224|B738|HADR|Dire Dawa Intl|Dire Dawa|Ethiopia|19:20|-38 min|Despegado|OYAA|Aden Intl|Aden|Yemen|20:20|22 min|Aterrizado|
+|HF2504|HF2|51.9092|-0.0327032|2496|161|A319|EBBR|Brussels Natl|Brussels|Belgium|20:50|52 min|Embarcando|EGLL|Heathrow|London|United Kingdom|21:25|87 min|Aterrizado|
+|HK1571G|HK1|5.31409|-75.3008|14878|225|BE20|SKMZ|La Nubia|Manizales|Colombia|14:55|-303 min|Despegado|SKBO|Eldorado Intl|Bogota|Colombia|15:55|-243 min|Demorado|
+|HK2073G|HK2|4.19981|-76.1676|14977|228|PA34|SKCL|Alfonso Bonilla Aragon Intl|Cali|Colombia|19:34|-24 min|Despegado|SKRG|Jose Maria Cordova|Rio Negro|Colombia|20:34|36 min|Demorado|
+|HK2269|HK2|3.5393|-76.3872|3173|0|B738|SKCL|Alfonso Bonilla Aragon Intl|Cali|Colombia|20:05|7 min|Despegado|SKPS|Antonio Narino|Pasto|Colombia|20:40|42 min|Demorado|
+|HK5133|HK5|18.0426|-63.1117|8|0|B736|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|18:18|-100 min|Despegado|TBPB|Grantley Adams Intl|Bridgetown|Barbados|18:53|-65 min|Aterrizado|
+|HK623|HK6|18.0421|-63.1101|4|0|E145|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|20:03|5 min|Despegado|TBPB|Grantley Adams Intl|Bridgetown|Barbados|21:23|85 min|Aterrizado|
+|HOP4203|HOP|46.9681|3.46282|37227|469|A319|LFQQ|Lesquin|Lille|France|19:25|-33 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:36|38 min|Aterrizado|
+|HOP43KQ|HOP|43.6525|7.21046|27|0|A319|LFMN|Cote D\\'Azur|Nice|France|19:48|-10 min|Demorado|LFLL|Saint Exupery|Lyon|France|20:24|26 min|Aterrizado|
+|HSG320|HSG|47.4344|19.2615|502|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|HSG610|HSG|47.3791|19.5852|2274|230|T154|EDDM|Franz Josef Strauss|Munich|Germany|20:00|2 min|Despegado|LHBP|Ferihegy|Budapest|Hungary|21:00|62 min|Aterrizado|
+|HVN1993|HVN|22.2164|121.091|34954|493|A320|VVTS|Tansonnhat Intl|Ho Chi Minh City|Vietnam|16:41|-197 min|Despegado|RKSI|Incheon Intl|Seoul|South Korea|21:41|103 min|Aterrizado|
+|I1304|I13|45.526|12.365|1374|101|C172|LIPZ|Venezia Tessera|Venice|Italy|20:10|12 min|Despegado|LIPZ|Venezia Tessera|Venice|Italy|21:10|72 min|Aterrizado|
+|IAW315|IAW|43.3416|5.51201|21594|425|A320|LEPA|Son Sant Joan|Palma de Mallorca|Spain|19:05|-53 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:55|57 min|Aterrizado|
+|IBB920|IBB|-11.3542|137.852|16006|298|C130|AYPY|Port Moresby Jacksons Intl|Port Moresby|Papua New Guinea|21:20|82 min|Embarcando|YPDN|Darwin Intl|Darwin|Australia|21:45|-1333 min|Demorado|
+|IBE105|IBE|-33.6843|121.829|475|13|PC12|YMMI||||16:04|-234 min|Despegado|YESP|Esperance Airport|Esperance|Australia|17:26|-152 min|Aterrizado|
+|IBE1409|IBE|-29.5958|-63.6524|38078|423|A343|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|11:24|-514 min|Despegado|SCEL|Arturo Merino Benitez Intl|Santiago|Chile|02:16|378 min|Aterrizado|
+|IBK5462|IBK|56.5605|12.8993|34874|447|B738|ENGM|Gardermoen|Oslo|Norway|19:25|-33 min|Despegado|LGKR|Ioannis Kapodistrias Intl|Kerkyra/corfu|Greece|22:36|158 min|Aterrizado|
+|ICE222|ICE|23.317|85.3242|2163|0|A321|VEGT|Lokpriya Gopinath Bordoloi International Airport|Guwahati|India|18:57|-61 min|Despegado|VERC|Birsa Munda|Ranchi|India|18:57|-61 min|Aterrizado|
+|ICE444|ICE|23.3166|85.3249|2163|0|A321|VEGT|Lokpriya Gopinath Bordoloi International Airport|Guwahati|India|18:50|-68 min|Despegado|VERC|Birsa Munda|Ranchi|India|19:25|-33 min|Aterrizado|
+|IND738|IND|49.0166|2.83411|5053|168|B773|LFBO|Blagnac|Toulouse|France|19:06|-52 min|Despegado|LFPG|Charles De Gaulle|Paris|France|20:21|23 min|Aterrizado|
+|IPV446|IPV|41.6794|97.5049|39816|509|A343|ZBAA|Capital Intl|Beijing|China|17:50|-128 min|Despegado|OIIE|Imam Khomeini Intl|Abyek|Iran|00:50|292 min|Aterrizado|
+|IRA255|IRA|32.7923|51.8112|8916|251|A320|OIFM|Esfahan Shahid Beheshti Intl|Esfahan|Iran|20:00|2 min|Despegado|OIII|Mehrabad Intl|Teheran|Iran|20:45|47 min|Aterrizado|
+|IRM1034|IRM|35.6911|51.3182|3978|0|A306|OIMM|Mashhad|Mashhad|Iran|18:36|-82 min|Despegado|OIII|Mehrabad Intl|Teheran|Iran|19:32|-26 min|Aterrizado|
+|IYE920|IYE|29.2829|48.2344|1990|275|B738|OYAA|Aden Intl|Aden|Yemen|17:23|-155 min|Despegado|OKBK|Kuwait Intl|Kuwait|Kuwait|17:58|-120 min|Demorado|
+|JAF116|JAF|49.8454|8.26236|10525|327|B738|EBLG|Liege|Liege|Belgium|19:25|-33 min|Despegado|EDDF|Frankfurt Main|Frankfurt|Germany|20:10|12 min|Demorado|
+|JAF36K|JAF|44.4016|5.46376|29321|468|B738|LFQQ|Lesquin|Lille|France|18:35|-83 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|19:53|-5 min|Demorado|
+|JAL601|JAL|23.0113|161.372|15992|187|DC6/|PWAK|Wake Island Afld|Wake island|Wake Island|18:01|-117 min|Despegado|RJTT|Tokyo Intl|Tokyo|Japan|03:18|440 min|Demorado|
+|JAL706|JAL|35.76|140.385|148|0|B77W|RJAA|Narita Intl|Tokyo|Japan|20:20|22 min|Despegado|MMMX|Licenciado Benito Juarez Intl|Mexico City|Mexico|08:26|748 min|Demorado|
+|JFA23R|JFA|55.269|15.4319|23039|261|PC12|ENZV|Sola|Stavanger|Norway|18:20|-98 min|Despegado|UMKK|Khrabrovo|Kaliningrad|Russia|19:20|-38 min|Demorado|
+|JFU6587|JFU|31.8246|-8.07104|15861|326|B738|LFML|Provence|Marseille|France|17:50|-128 min|Despegado|GMMX|Menara|Marrakech|Morocco|20:35|37 min|Demorado|
+|JGO572|JGO|39.9182|2.64739|38319|407|B737|LGAV|Eleftherios Venizelos Intl|Athens|Greece|18:40|-78 min|Despegado|LPPR|Porto|Porto|Portugal|22:32|154 min|Demorado|
+|JST808|JST|-25.6988|138.806|38199|354|A320|YSTW|Tamworth|Tamworth|Australia|17:50|-128 min|Despegado|YBAS|Alice Springs|Alice Springs|Australia|21:14|76 min|Demorado|
+|KAR923|KAR|49.8743|19.5966|36101|452|B763|ULLI|Pulkovo|St. Petersburg|Russia|18:10|-108 min|Despegado|LIBD|Bari|Bari|Italy|21:30|92 min|Demorado|
+|KFY1090|KFY|6.71185|159.007|10914|287|CRJ7|PTPN|Pohnpei Intl|Pohnpei|Micronesia|19:55|-3 min|Despegado|PTSA|Kosrae|Kosrae|Micronesia|21:25|87 min|Demorado|
+|KKK616|KKK|36.9119|30.8006|192|0|A321|LTAI|Antalya|Antalya|Turkey|19:47|-11 min|Demorado|UBBB|Heydar Aliyev|Baku|Azerbaijan|20:22|24 min|Aterrizado|
+|KKW102Y|KKW|37.9168|-75.6947|40304|530|B744|CYUL|Pierre Elliott Trudeau Intl|Montreal|Canada|19:10|-48 min|Despegado|KMIA|Miami Intl|Miami|United States|22:15|137 min|Aterrizado|
+|KKW1LH|KKW|26.4931|81.894|32637|476|MD11|HECA|Cairo Intl|Cairo|Egypt|14:05|-353 min|Despegado|ZGGG|Baiyun Intl|Guangzhou|China|23:28|210 min|Aterrizado|
+|KLM049|KLM|41.716|2.75396|37170|459|B739|EHAM|Schiphol|Amsterdam|Netherlands|19:15|-43 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|20:40|42 min|Aterrizado|
+|KLM1416|KLM|46.2596|4.76238|18905|393|B737|LFLL|Saint Exupery|Lyon|France|19:35|-23 min|Despegado|EHAM|Schiphol|Amsterdam|Netherlands|20:47|49 min|Aterrizado|
+|KLM1818|KLM|53.5776|1.50605|32054|494|B77L|EDDT|Tegel|Berlin|Germany|01:50|-1088 min|Despegado|EGPH|Edinburgh|Edinburgh|United Kingdom|09:50|-608 min|Demorado|
+|KLM191|KLM|18.4189|-84.9382|32999|475|B738|MMOX|Xoxocotlan Intl|Oaxaca|Mexico|18:06|-112 min|Despegado|MWCR|Owen Roberts Intl|Georgetown|Cayman Islands|21:16|78 min|Demorado|
+|KLM1978|KLM|48.5733|104.028|33744|490|B738|ZMUB|Chinggis Khaan Intl|Ulan Bator|Mongolia|18:50|-68 min|Despegado|UNBB|Barnaul|Barnaul|Russia|21:50|112 min|Demorado|
+|KLM633|KLM|-33.9629|18.601|159|160|B738|FAOR|O.R. Tambo Intl|Johannesburg|South Africa|17:50|-128 min|Despegado|FACT|Cape Town Intl|Cape Town|South Africa|19:40|-18 min|Aterrizado|
+|KLM664|KLM|42.3902|-69.4145|35159|480|B772|KJFK|John F Kennedy Intl|New York|United States|19:15|-43 min|Despegado|EHAM|Schiphol|Amsterdam|Netherlands|19:50|-8 min|Demorado|
+|KLM68Z|KLM|42.6362|10.6675|33912|449|B738|LIRF|Fiumicino|Rome|Italy|19:55|-3 min|Despegado|EHAM|Schiphol|Amsterdam|Netherlands|21:49|111 min|Demorado|
+|KLM69M|KLM|52.3193|4.78038|3|7|B773|EHAM|Schiphol|Amsterdam|Netherlands|19:50|-8 min|Demorado|LIRF|Fiumicino|Rome|Italy|22:00|122 min|Demorado|
+|KLM761|KLM|0.339297|-78.2306|38369|458|MD11|EHAM|Schiphol|Amsterdam|Netherlands|08:35|-683 min|Despegado|SEGU|Jose Joaquin De Olmedo Intl|Guayaquil|Ecuador|20:07|9 min|Demorado|
+|KQA527|KQA|-0.308949|33.5934|35751|455|B737|FKYS|Yaounde Nsimalen|Yaounde|Cameroon|16:51|-187 min|Despegado|HKJK|Jomo Kenyatta International|Nairobi|Kenya|18:06|-112 min|Demorado|
+|KVL70DD|KVL|49.002|2.56673|407|0|A321|LFPG|Charles De Gaulle|Paris|France|20:05|7 min|Despegado|LFLL|Saint Exupery|Lyon|France|20:50|52 min|Demorado|
+|LAN1081|LAN|-26.7116|-113.417|36081|371|A320|SCIP|Mataveri Intl|Easter Island|Chile|19:30|-28 min|Despegado|NTGJ|Totegegie|Totegegie|French Polynesia|23:30|212 min|Demorado|
+|LAN276|LAN|38.075|15.6491|111|28|A320|LYTV|Tivat|Tivat|Montenegro|18:50|-68 min|Despegado|LICR|Reggio Calabria|Reggio Calabria|Italy|19:55|-3 min|Aterrizado|
+|LAN800|LAN|-42.9028|-96.8509|39141|515|B789|NZAA|Auckland Intl|Auckland|New Zealand|11:45|-493 min|Despegado|SCEL|Arturo Merino Benitez Intl|Santiago|Chile|23:40|222 min|Aterrizado|
+|LHA3218|LHA|54.3927|14.9787|40047|431|B737|EFHK|Helsinki Vantaa|Helsinki|Finland|18:50|-68 min|Despegado|EDDS|Stuttgart|Stuttgart|Germany|21:00|62 min|Aterrizado|
+|LHIK67W|LHI|45.5079|12.3452|22|0|A320|LIPZ|Venezia Tessera|Venice|Italy|19:55|-3 min|Demorado|LIRP|Pisa|Pisa|Italy|20:31|33 min|Aterrizado|
+|LID757|LID|17.3267|-79.0521|36147|545|B753|SVMI|Simon Bolivar Intl|Caracas|Venezuela|14:39|-319 min|Despegado|MMUN|Cancun Intl|Cancun|Mexico|15:24|-274 min|Demorado|
+|LIT059|LIT|43.4821|5.60445|9791|307|A319|LFML|Provence|Marseille|France|19:55|-3 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:45|47 min|Demorado|
+|LIT066|LIT|49.9163|3.09116|19483|418|B738|LFQQ|Lesquin|Lille|France|19:40|-18 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|21:01|63 min|Demorado|
+|LLM585|LLM|58.1252|66.4479|15787|277|AN24|USRO|Noyabrsk|Noyabrsk|Russia|17:10|-168 min|Despegado|USTR|Roschino|Tyumen|Russia|19:10|-48 min|Demorado|
+|LMV275|LMV|45.2005|7.64976|1125|56|C182|LIMF|Torino|Torino|Italy|20:06|8 min|Despegado|LIMF|Torino|Torino|Italy|20:41|43 min|Demorado|
+|LNI57|LNI|27.367|86.9388|27883|472|B739|VNKT|Tribhuvan Intl|Kathmandu|Nepal|09:45|-613 min|Despegado|VNKT|Tribhuvan Intl|Kathmandu|Nepal|10:39|-559 min|Demorado|
+|LNOLA|privado|-34.7157|-58.2378|12|0|ULAC|YBSG||||17:35|-143 min|Despegado|YLHR|Lockhart River Airport|Lockhart River|Australia|19:20|-38 min|Aterrizado|
+|LOT141|LOT|43.6566|7.20273|1|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|LPE2707|LPE|-5.01109|-69.7599|35957|445|B763|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|09:55|-603 min|Despegado|SPJC|Jorge Chávez Intl|Lima-Callao|Peru|21:37|99 min|Aterrizado|
+|LRC01CR|LRC|9.75364|-84.3437|8599|246|C750|MROC|Juan Santamaria Intl|San Jose|Costa Rica|19:45|-13 min|Despegado|MPTO|Tocumen Intl|Panama City|Panama|20:34|36 min|Aterrizado|
+|LRC1029|LRC|10.5629|-85.4625|2899|130|C208|MRLB|Daniel Oduber Quiros Intl|Liberia|Costa Rica|14:00|-358 min|Despegado|MROC|Juan Santamaria Intl|San Jose|Costa Rica|15:10|-288 min|Demorado|
+|LST198|LST|-25.8174|144.648|35007|548|B77W|YSSY|Sydney Intl|Sydney|Australia|18:40|-78 min|Despegado|VHHH|Hong Kong Intl|Hong Kong|Hong Kong|03:05|427 min|Demorado|
+|LST352|LST|39.1772|23.5021|18|0|B738|LGSK|Alexandros Papadiamantis|Skiathos|Greece|19:43|-15 min|Demorado|LPPR|Porto|Porto|Portugal|23:13|195 min|Demorado|
+|LVCBO|privado|-37.9314|-57.5787|76|9|BE58|SAZM|Mar Del Plata|Mar Del Plata|Argentina|20:05|7 min|Demorado|SADL|La Plata|La Plata|Argentina|21:55|117 min|Demorado|
+|LVDFL|privado|-34.2132|-60.4396|23794|457|B737|SCEL|Arturo Merino Benitez Intl|Santiago|Chile|19:44|-14 min|Despegado|SABE|Aeroparque Jorge Newbery|Buenos Aires|Argentina|20:19|21 min|Demorado|
+|LXA664|LXA|45.4607|9.28027|359|1|H25C|LIML|Linate|Milan|Italy|20:10|12 min|Despegado|ELLX|Luxembourg|Luxemburg|Luxembourg|21:15|77 min|Demorado|
+|LXMIK|privado|45.8936|1.21004|3120|241|L39/|LFBL|Bellegarde|Limoges|France|19:43|-15 min|Despegado|LFBL|Bellegarde|Limoges|France|20:23|25 min|Demorado|
+|MAS784|MAS|8.85394|109.375|37835|476|B738|RPLL|Ninoy Aquino Intl|Manila|Philippines|17:45|-133 min|Despegado|WMKK|Kuala Lumpur Intl|Kuala Lumpur|Malaysia|20:56|58 min|Demorado|
+|MAU289|MAU|-20.4663|57.7834|1532|206|A343|FMMI|Ivato|Antananarivo|Madagascar|18:47|-71 min|Despegado|FIMP|Sir Seewoosagur Ramgoolam Intl|Plaisance|Mauritius|19:42|-16 min|Demorado|
+|MBVF9|MBV|-19.7875|-38.2121|36897|579|F18/|CVN||||19:40|-18 min|Despegado|CVN||||21:40|102 min|Demorado|
+|MED1072|MED|44.9057|144.168|35781|443|B763|PANC|Ted Stevens Anchorage Intl|Anchorage|United States|14:10|-348 min|Despegado|RJAA|Narita Intl|Tokyo|Japan|21:40|102 min|Demorado|
+|MED1544|MED|12.12|-85.6786|6942|270|B763|SMJP|Johan A Pengel Intl|Zandery|Suriname|15:42|-256 min|Despegado|MNMG|Managua Intl|Managua|Nicaragua|20:40|42 min|Demorado|
+|MGA981|MGA|-29.627|-51.0251|10005|243|DHC7|SBCT|Afonso Pena|Curitiba|Brazil|18:55|-63 min|Despegado|SBPK|Pelotas|Pelotas|Brazil|23:25|207 min|Demorado|
+|MJT020|MJT|43.7232|-2.77213|35357|430|MD11|LXGB|Gibraltar|Gibraltar|Gibraltar|02:04|-1074 min|Despegado|ENVA|Vaernes|Trondheim|Norway|02:39|-1039 min|Demorado|
+|MLN208|MLN|56.9339|23.9729|42|11|B738|LIML|Linate|Milan|Italy|17:55|-123 min|Despegado|EVRA|Riga Intl|Riga|Latvia|20:35|37 min|Demorado|
+|MPE553|MPE|70.4831|-68.5179|95|0|B738|CYFB|Iqaluit|Iqaluit|Canada|18:29|-89 min|Despegado|CYCY|Clyde River|Clyde River|Canada|20:19|21 min|Aterrizado|
+|MSR1097|MSR|27.7067|42.9872|32862|519|B77W|HECA|Cairo Intl|Cairo|Egypt|18:35|-83 min|Despegado|ZGGG|Baiyun Intl|Guangzhou|China|04:11|493 min|Aterrizado|
+|MSR411|MSR|30.1386|31.4067|394|0|B744|HECA|Cairo Intl|Cairo|Egypt|19:57|-1 min|Demorado|OEJN|King Abdulaziz Intl|Jeddah|Saudi Arabia|21:57|119 min|Aterrizado|
+|MSR736|MSR|30.1089|31.4003|390|0|B738|LTBA|Ataturk|Istanbul|Turkey|16:07|-231 min|Despegado|HECA|Cairo Intl|Cairo|Egypt|18:17|-101 min|Aterrizado|
+|MSR804|MSR|20.8766|-20.4167|37053|492|B77W|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|14:02|-356 min|Despegado|LPPT|Lisboa|Lisbon|Portugal|00:32|274 min|Aterrizado|
+|MSX999|MSX|54.4001|160.305|32761|519|B744|ZGGG|Baiyun Intl|Guangzhou|China|14:10|-348 min|Despegado|CYVR|Vancouver Intl|Vancouver|Canada|04:00|482 min|Aterrizado|
+|MXA264|MXA|24.2678|-87.1563|32742|479|B737|MMMD|Licenciado Manuel Crescencio Rejon Int|Merida|Mexico|19:13|-45 min|Despegado|KTPA|Tampa Intl|Tampa|United States|19:48|-10 min|Demorado|
+|MXD178|MXD|27.4571|86.4734|24937|460|B738|VNKT|Tribhuvan Intl|Kathmandu|Nepal|19:24|-34 min|Despegado|VQPR|Paro|Thimphu|Bhutan|20:05|7 min|Demorado|
+|MYA032|MYA|43.0989|-2.92202|38363|442|A319|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|19:30|-28 min|Despegado|EGPF|Glasgow|Glasgow|United Kingdom|20:05|7 min|Demorado|
+|MYA28|MYA|44.1364|-2.68999|36319|473|L101|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|19:10|-48 min|Despegado|EGSS|Stansted|London|United Kingdom|21:10|72 min|Demorado|
+|N1207|N12|36.6399|-42.5453|13866|528|DC7/|LPAZ|Santa Maria|Santa Maria (island)|Portugal|16:30|-208 min|Despegado|TXKF|Bermuda Intl|Bermuda|Bermuda|17:55|-123 min|Demorado|
+|N145AJ|N14|40.4698|14.463|30057|245|LJ31|LIRI|Salerno Pontecagnano Airport|Salerno|Italy|19:50|-8 min|Despegado|LIRQ|Firenze|Florence|Italy|21:20|82 min|Demorado|
+|N153Y|N15|46.016|15.4065|30060|402|C525|LYBE|Beograd|Belgrade|Serbia|19:15|-43 min|Despegado|LSGG|Geneve Cointrin|Geneva|Switzerland|21:00|62 min|Demorado|
+|N19KR|N19|45.4448|9.39022|1646|148|DA40|LIML|Linate|Milan|Italy|19:50|-8 min|Despegado|LIML|Linate|Milan|Italy|21:55|117 min|Demorado|
+|N2428N|N24|48.6062|-125.193|9746|130|DA40|KFHR|Friday Harbor Airport|Friday Harbor|United States|19:12|-46 min|Despegado|KFHR|Friday Harbor Airport|Friday Harbor|United States|20:02|4 min|Demorado|
+|N29STGW|N29|59.7977|30.2927|83|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|N399CK|N39|10.2423|-67.6555|1431|0|C172|SVBS|Escuela Mariscal Sucre Airport|Maracay|Venezuela|15:44|-254 min|Despegado|SVBS|Escuela Mariscal Sucre Airport|Maracay|Venezuela|16:19|-219 min|Aterrizado|
+|N43XS|N43|-22.9109|-43.166|25|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|N658BL|N65|18.0407|-63.119|4|0|E55P|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|20:08|10 min|Despegado|TBPB|Grantley Adams Intl|Bridgetown|Barbados|21:08|70 min|Aterrizado|
+|N737T|N73|-6.97762|110.376|21|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|N820MH|N82|43.2143|7.87333|9547|233|BE60|LFKJ|Campo Dell Oro|Ajaccio|France|19:32|-26 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:12|14 min|Aterrizado|
+|N834HK|N83|-5.0634|-42.8217|223|0|E145|SBTE|Senador Petronio Portella|Teresina|Brazil|19:47|-11 min|Demorado|SBAR|Santa Maria|Aracaju|Brazil|21:22|84 min|Aterrizado|
+|NAX1674|NAX|51.8963|9.04017|37103|424|B738|ENBR|Flesland|Bergen|Norway|18:40|-78 min|Despegado|LGKR|Ioannis Kapodistrias Intl|Kerkyra/corfu|Greece|22:16|138 min|Aterrizado|
+|NAX201|NAX|63.4548|10.9164|25|0|B738|ENVA|Vaernes|Trondheim|Norway|21:20|82 min|Embarcando|LFMN|Cote D\\'Azur|Nice|France|00:10|-1188 min|Aterrizado|
+|NAX3160|NAX|57.1705|16.118|34962|477|B738|EKCH|Kastrup|Copenhagen|Denmark|19:30|-28 min|Despegado|EFHK|Helsinki Vantaa|Helsinki|Finland|20:43|45 min|Aterrizado|
+|NAX331D|NAX|69.2488|18.5542|10490|239|B738|EKCH|Kastrup|Copenhagen|Denmark|18:10|-108 min|Despegado|ENTC|Langnes|Tromso|Norway|20:23|25 min|Aterrizado|
+|NAX388|NAX|61.7043|11.4842|28793|430|B738|ENGM|Gardermoen|Oslo|Norway|20:00|2 min|Despegado|ENTC|Langnes|Tromso|Norway|21:27|89 min|Aterrizado|
+|NJE820M|NJE|53.1117|6.52125|23579|397|H25B|ENGM|Gardermoen|Oslo|Norway|16:45|-193 min|Despegado|EHRD|Rotterdam|Rotterdam|Netherlands|18:31|-87 min|Demorado|
+|NPV1435|NPV|47.4618|8.55493|1430|0|B744|LSZH|Zurich|Zurich|Switzerland|19:40|-18 min|Demorado|LIRF|Fiumicino|Rome|Italy|20:39|41 min|Demorado|
+|NVA4001|NVA|-14.587|-65.0657|35047|472|A320|SEQM|Mariscal Sucre Intl|Quito|Ecuador|17:07|-171 min|Despegado|SLVR|Viru Viru Intl|Santa Cruz|Bolivia|20:17|19 min|Demorado|
+|OAH583|OAH|52.7768|11.3661|38075|501|B736|LGAV|Eleftherios Venizelos Intl|Athens|Greece|17:40|-138 min|Despegado|BIKF|Keflavik International Airport|Keflavik|Iceland|23:35|217 min|Demorado|
+|OAH936|OAH|14.0717|-60.4934|18635|538|CONC|TBPB|Grantley Adams Intl|Bridgetown|Barbados|19:35|-23 min|Despegado|KJFK|John F Kennedy Intl|New York|United States|21:44|106 min|Demorado|
+|OEDLW|privado|47.2609|11.3822|2472|74|C172|LOWI|Innsbruck|Innsbruck|Austria|18:23|-95 min|Despegado|LOWI|Innsbruck|Innsbruck|Austria|20:54|56 min|Demorado|
+|OEDSW|privado|5.25181|36.7544|29253|498|C750|FLKK||||17:10|-168 min|Despegado|HAAB|Bole Intl|Addis Ababa|Ethiopia|23:34|216 min|Demorado|
+|OHK174|OHK|16.2119|120.635|36847|444|A320|VHHH|Hong Kong Intl|Hong Kong|Hong Kong|18:40|-78 min|Despegado|RPLL|Ninoy Aquino Intl|Manila|Philippines|20:25|27 min|Demorado|
+|OHK9TL|OHK|29.9954|-97.9688|802|0|B77L|CYYZ|Lester B Pearson Intl|Toronto|Canada|11:47|-491 min|Despegado|KAUS|Austin Bergstrom Intl|Austin|United States|14:31|-327 min|Aterrizado|
+|OKMMB|privado|50.1946|12.9918|3492|120|C182|LKKV|Karlovy Vary|Karlovy Vary|Czech Republic|19:35|-23 min|Despegado|LKKV|Karlovy Vary|Karlovy Vary|Czech Republic|20:35|37 min|Aterrizado|
+|OKTZB|privado|50.2138|12.8805|2705|72|C172|LKKV|Karlovy Vary|Karlovy Vary|Czech Republic|18:45|-73 min|Despegado|LKKV|Karlovy Vary|Karlovy Vary|Czech Republic|19:45|-13 min|Demorado|
+|ONE6007|ONE|-22.9501|-43.1414|2712|181|A319|SBRJ|Santos Dumont|Rio De Janeiro|Brazil|19:56|-2 min|Despegado|SBSP|Congonhas|Sao Paulo|Brazil|20:23|25 min|Demorado|
+|ONE6155|ONE|-2.5841|-44.2358|189|0|A318|SBBE|Val De Cans Intl|Belem|Brazil|18:25|-93 min|Despegado|SBSL|Marechal Cunha Machado Intl|Sao Luis|Brazil|19:15|-43 min|Aterrizado|
+|ONE6189|ONE|-21.6076|-46.4261|37428|454|A320|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|19:20|-38 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|20:37|39 min|Aterrizado|
+|OSE112|OSE|36.9775|8.87701|234|0|B60T|DTKA|7 Novembre|Tabarka|Tunisia|20:09|11 min|Despegado|LIEO|Olbia Costa Smeralda|Olbia|Italy|21:29|91 min|Aterrizado|
+|OSE230|OSE|45.2347|9.85729|37896|460|A320|LIRP|Pisa|Pisa|Italy|19:40|-18 min|Despegado|EKBI|Billund|Billund|Denmark|21:23|85 min|Aterrizado|
+|OSE288|OSE|45.7691|9.29379|35917|473|B738|LIRP|Pisa|Pisa|Italy|19:20|-38 min|Despegado|EKBI|Billund|Billund|Denmark|21:10|72 min|Aterrizado|
+|OSE443|OSE|22.0144|95.2032|33786|496|A320|VLLB|Luang Phabang Intl|Luang Prabang|Laos|19:20|-38 min|Despegado|VGEG|Shah Amanat Intl|Chittagong|Bangladesh|20:48|50 min|Aterrizado|
+|OTM001|OTM|39.0145|40.2411|36007|427|B738|OTHH|Hamad Intl|Doha|Qatar|17:25|-153 min|Despegado|EDDF|Frankfurt Main|Frankfurt|Germany|00:20|262 min|Aterrizado|
+|P4FLO|P4F|12.338|-69.463|4462|281|B350|TNCB|Flamingo|Kralendijk|Netherlands Antilles|19:50|-8 min|Despegado|TNCA|Reina Beatrix Intl|Oranjestad|Aruba|20:35|37 min|Aterrizado|
+|PAA0075|PAA|39.7517|-69.3984|33151|567|B744|KAUS|Austin Bergstrom Intl|Austin|United States|17:35|-143 min|Despegado|LEJR|Jerez|Jerez|Spain|02:53|415 min|Aterrizado|
+|PAC717|PAC|55.1977|-131.861|36395|485|B744|KSEA|Seattle Tacoma Intl|Seattle|United States|18:40|-78 min|Despegado|PANC|Ted Stevens Anchorage Intl|Anchorage|United States|21:45|107 min|Aterrizado|
+|PCH97F|PCH|12.6184|-16.7142|15380|293|PC12|GOOY|Leopold Sedar Senghor Intl|Dakar|Senegal|18:05|-113 min|Despegado|GOGS|Cap Skiring|Cap Skiring|Senegal|18:50|-68 min|Demorado|
+|PDA1302|PDA|45.6638|8.71973|38901|474|B748|EDDF|Frankfurt Main|Frankfurt|Germany|18:40|-78 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|21:14|76 min|Demorado|
+|PGT4PM|PGT|51.5155|5.89459|38113|442|B738|LTFJ|Sabiha Gokcen|Istanbul|Turkey|17:25|-153 min|Despegado|EGSS|Stansted|London|United Kingdom|18:00|-118 min|Demorado|
+|PGT806|PGT|38.1931|25.284|28910|492|B738|LGAV|Eleftherios Venizelos Intl|Athens|Greece|11:38|-500 min|Despegado|LTBJ|Adnan Menderes|Izmir|Turkey|12:51|-427 min|Demorado|
+|PKDPA|privado|-7.50848|110.79|1733|100|C172|WARQ|Adi Sumarmo Wiryokusumo|Solo City|Indonesia|19:09|-49 min|Despegado|WARQ|Adi Sumarmo Wiryokusumo|Solo City|Indonesia|00:09|251 min|Demorado|
+|PPMIC|privado|41.8577|-87.6079|591|101|B737|CYYZ|Lester B Pearson Intl|Toronto|Canada|18:40|-78 min|Despegado|KCGX|Meigs Field|Chicago|United States|20:00|2 min|Aterrizado|
+|PRABZ|privado|-20.8067|-51.2646|5019|166|PA34|SBUP|Urubupunga|Castilho|Brazil|13:35|-383 min|Despegado|SBRP|Leite Lopes|Ribeirao Preto|Brazil|15:15|-283 min|Demorado|
+|PRBHB|privado|-27.2875|-48.6215|16907|206|C208|SBKP|Viracopos|Campinas|Brazil|16:57|-181 min|Despegado|SBFL|Hercilio Luz|Florianopolis|Brazil|19:49|-9 min|Demorado|
+|PRBOB|privado|-17.3968|-43.8741|18669|377|E170|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|19:25|-33 min|Despegado|SBMK|Mario Ribeiro|Montes Claros|Brazil|20:00|2 min|Demorado|
+|PREBJ|privado|-24.793|-47.7956|35740|385|B738|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|16:40|-198 min|Despegado|SBPA|Salgado Filho|Porto Alegre|Brazil|19:10|-48 min|Demorado|
+|PRFDL|privado|-23.431|-51.8931|8312|199|C550|SBBU|Bauru|Bauru|Brazil|19:45|-13 min|Despegado|SBMG|Regional De Maringa Silvio Name Junior|Maringa|Brazil|20:15|17 min|Demorado|
+|PRLDE|privado|-19.6337|-43.9633|2723|0|B737|SBRF|Guararapes Gilberto Freyre Intl|Recife|Brazil|18:30|-88 min|Despegado|SBFN|Fernando De Noronha|Fernando Do Noronha|Brazil|19:24|-34 min|Aterrizado|
+|PRMPE|privado|-19.6431|-43.9556|2718|0|P28A|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|20:03|5 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|20:53|55 min|Aterrizado|
+|PRREM|privado|-22.9894|-43.0501|1429|176|PC12|SBRJ|Santos Dumont|Rio De Janeiro|Brazil|20:00|2 min|Despegado|SBCB|Cabo Frio International Airport|Cabo Frio|Brazil|20:25|27 min|Aterrizado|
+|PRYGO|privado|-22.0595|-41.5271|20358|296|AT76|SBSV|Deputado Luis Eduardo Magalhaes|Salvador|Brazil|18:00|-118 min|Despegado|SBRJ|Santos Dumont|Rio De Janeiro|Brazil|20:25|27 min|Aterrizado|
+|PSG753|PSG|60.9813|33.7365|33342|473|B744|OIMM|Mashhad|Mashhad|Iran|15:36|-262 min|Despegado|ESGG|Landvetter|Gothenborg|Sweden|20:36|38 min|Aterrizado|
+|PTAFJ|privado|47.0762|-114.289|33276|511|LJ45|KSEA|Seattle Tacoma Intl|Seattle|United States|19:20|-38 min|Despegado|KMSP|Minneapolis St Paul Intl|Minneapolis|United States|21:50|112 min|Aterrizado|
+|PTBBB|privado|41.7385|8.61677|3733|203|B200|LFKJ|Campo Dell Oro|Ajaccio|France|22:10|132 min|Embarcando|LPMA|Madeira|Funchal|Portugal|02:00|-1078 min|Demorado|
+|PTBKA|privado|-3.88534|-32.4284|3197|252|E145|SBFN|Fernando De Noronha|Fernando Do Noronha|Brazil|19:46|-12 min|Despegado|SBRF|Guararapes Gilberto Freyre Intl|Recife|Brazil|20:52|54 min|Demorado|
+|PTDVJ|privado|-24.3578|-50.2012|8385|158|BE35|SBBI|Bacacheri|Curitiba|Brazil|19:19|-39 min|Despegado|SBLO|Londrina|Londrina|Brazil|20:39|41 min|Demorado|
+|PTERF|privado|-27.8288|127.12|4145|173|B60/|YFRT|Forrest|Forrest|Australia|19:10|-48 min|Despegado|YWBR|Warburton|Warburton Community|Australia|20:30|32 min|Demorado|
+|PTFJT|privado|-20.2414|-43.8138|7519|161|SR22|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|19:18|-40 min|Despegado|SNKF||||21:18|80 min|Demorado|
+|PTJUD|privado|-27.9041|127.097|4469|253|BE20|YFRT|Forrest|Forrest|Australia|19:15|-43 min|Despegado|YWBR|Warburton|Warburton Community|Australia|20:27|29 min|Demorado|
+|PTKCN|privado|-23.136|-45.1564|10970|102|C210|SDUB||||19:56|-2 min|Despegado|SWFR||||22:26|148 min|Demorado|
+|PTKEL|privado|-16.4432|-55.3071|4914|170|C208|SBCY|Marechal Rondon|Cuiaba|Brazil|19:35|-23 min|Despegado|SWRD|Rondonopolis Airport|Rondonopolis|Brazil|20:28|30 min|Demorado|
+|PTLUC|privado|-22.6615|-43.2198|4959|246|B737|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|21:52|114 min|Embarcando|SBKP|Viracopos|Campinas|Brazil|22:17|-1301 min|Demorado|
+|PTMHR|privado|-19.6276|-43.9709|2719|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|PTRBR|privado|-17.1413|-49.1451|8496|152|PA34|SBGO|Santa Genoveva|Goiania|Brazil|19:55|-3 min|Despegado|SNBA||||21:16|78 min|Aterrizado|
+|PTSCH|privado|-27.2395|-51.3382|6501|127|C172|SBLJ|Lages|Lajes|Brazil|19:30|-28 min|Despegado|SBFI|Cataratas Intl|Foz Do Iguacu|Brazil|21:30|92 min|Aterrizado|
+|PTVLE|privado|-5.91809|-35.2413|3220|171|C402|SBRF|Guararapes Gilberto Freyre Intl|Recife|Brazil|19:09|-49 min|Despegado|SBNT|Augusto Severo|Natal|Brazil|19:54|-4 min|Demorado|
+|PUG119|PUG|51.4742|-0.45874|91|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|PVA1887|PVA|58.2147|25.5962|38902|471|B737|ENGM|Gardermoen|Oslo|Norway|08:05|-713 min|Despegado|UUEE|Sheremetyevo|Moscow|Russia|10:35|-563 min|Demorado|
+|PVA3644|PVA|29.5059|12.9449|2052|57|B190|HL81||||14:52|-306 min|Despegado|DTTG|Gabes|Gabes|Tunisia|15:27|-271 min|Aterrizado|
+|PWD761|PWD|35.0343|-72.4166|36945|458|B738|KJFK|John F Kennedy Intl|New York|United States|18:50|-68 min|Despegado|MDSD|Las Americas Intl|Santo Domingo|Dominican Republic|22:05|127 min|Aterrizado|
+|QFA202|QFA|49.7403|13.3856|35192|449|B738|EDDT|Tegel|Berlin|Germany|20:10|12 min|Despegado|LIRF|Fiumicino|Rome|Italy|23:40|222 min|Aterrizado|
+|RAM240|RAM|30.5621|-9.14855|34048|498|B738|GOOY|Leopold Sedar Senghor Intl|Dakar|Senegal|17:41|-137 min|Despegado|GMMN|Mohammed V Intl|Casablanca|Morocco|20:41|43 min|Aterrizado|
+|RCH975|RCH|32.5967|38.2084|30833|432|C27J|LPPT|Lisboa|Lisbon|Portugal|14:10|-348 min|Despegado|OEDF|King Fahd Intl|Dammam|Saudi Arabia|20:40|42 min|Aterrizado|
+|REU971|REU|44.1101|10.8643|35949|540|B77W|FMEE|St Denis Gillot|St.-denis|Reunion|10:45|-553 min|Despegado|LFPG|Charles De Gaulle|Paris|France|11:20|-518 min|Demorado|
+|RIO2502|RIO|-20.0419|-44.2979|21288|352|B722|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|19:17|-41 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|20:22|24 min|Demorado|
+|ROI803|ROI|10.1029|-64.6826|31|0|B732|SVBC|General Jose Antonio Anzoategui Intl|Barcelona|Venezuela|19:54|-4 min|Demorado|SVPR|General Manuel Carlos Piar|Guayana|Venezuela|20:34|36 min|Demorado|
+|RVX103B|RVX|41.2863|2.07505|20|0|DH8D|LEPA|Son Sant Joan|Palma de Mallorca|Spain|18:35|-83 min|Despegado|LEBL|Barcelona-El Prat|Barcelona|Spain|19:15|-43 min|Aterrizado|
+|RXR75CA|RXR|42.3322|-2.90912|34348|417|B738|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|19:25|-33 min|Despegado|LFPG|Charles De Gaulle|Paris|France|21:10|72 min|Aterrizado|
+|RYR1414|RYR|38.1866|13.1084|41|0|B738|LICJ|Palermo|Palermo|Italy|20:35|37 min|Embarcando|LFML|Provence|Marseille|France|22:07|129 min|Aterrizado|
+|RYR143M|RYR|38.7635|1.10213|4037|173|B738|EGSS|Stansted|London|United Kingdom|17:10|-168 min|Despegado|LEIB|Ibiza|Ibiza|Spain|18:58|-60 min|Demorado|
+|RYR1641|RYR|39.5554|2.73558|32|10|B738|LFKJ|Campo Dell Oro|Ajaccio|France|18:58|-60 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|20:01|3 min|Aterrizado|
+|RYR21AN|RYR|46.7305|3.02991|31170|523|B738|LFQQ|Lesquin|Lille|France|19:10|-48 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|15:40|1182 min|Aterrizado|
+|RYR24FV|RYR|50.7592|-3.30573|37084|481|B738|EGNM|Leeds Bradford|Leeds|United Kingdom|19:40|-18 min|Despegado|GCRR|Lanzarote|Las Palmas|Spain|23:40|222 min|Aterrizado|
+|RYR27LX|RYR|52.7394|2.9447|22276|329|B738|EIDW|Dublin|Dublin|Ireland|19:20|-38 min|Despegado|EHAM|Schiphol|Amsterdam|Netherlands|20:50|52 min|Aterrizado|
+|RYR311|RYR|44.4705|5.21176|28391|466|B738|LFQQ|Lesquin|Lille|France|19:10|-48 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:29|31 min|Aterrizado|
+|RYR3ED|RYR|38.7577|1.03339|1933|178|B738|EGSS|Stansted|London|United Kingdom|17:20|-158 min|Despegado|LEIB|Ibiza|Ibiza|Spain|19:28|-30 min|Demorado|
+|RYR401|RYR|50.7289|4.57245|37145|479|B738|EGKK|Gatwick|London|United Kingdom|19:30|-28 min|Despegado|LRSM|Satu Mare|Satu Mare|Romania|21:49|111 min|Demorado|
+|RYR5486|RYR|37.7176|-7.79066|16415|371|B738|LPPR|Porto|Porto|Portugal|19:25|-33 min|Despegado|LPFR|Faro|Faro|Portugal|20:25|27 min|Demorado|
+|RYR55GU|RYR|51.8938|0.255236|356|23|B738|EGSS|Stansted|London|United Kingdom|20:06|8 min|Despegado|LOWS|Salzburg|Salzburg|Austria|21:35|97 min|Demorado|
+|RYR56RR|RYR|28.0472|-16.5763|217|0|B738|GCTS|Tenerife Sur|Tenerife|Spain|20:15|17 min|Despegado|LEVC|Valencia|Valencia|Spain|22:47|169 min|Demorado|
+|RYR65B|RYR|43.4178|7.21991|39942|477|B738|LEPA|Son Sant Joan|Palma de Mallorca|Spain|19:10|-48 min|Despegado|LOWI|Innsbruck|Innsbruck|Austria|21:10|72 min|Demorado|
+|RYR68|RYR|-10.2939|-48.3514|782|0|B738|SBBV|Boa Vista|Boa Vista|Brazil|17:00|-178 min|Despegado|SBPJ|Palmas|Palmas|Brazil|20:00|2 min|Aterrizado|
+|RYR7060|RYR|40.9618|6.44588|39097|403|B738|LIRF|Fiumicino|Rome|Italy|19:05|-53 min|Despegado|LEBL|Barcelona-El Prat|Barcelona|Spain|20:50|52 min|Aterrizado|
+|RYR70HZ|RYR|50.4579|4.45335|622|0|B738|EBCI|Brussels South|Charleroi|Belgium|20:05|7 min|Despegado|EGCC|Manchester|Manchester|United Kingdom|21:02|64 min|Aterrizado|
+|RYR888T|RYR|38.8062|1.21217|1711|111|B738|EGSS|Stansted|London|United Kingdom|17:41|-137 min|Despegado|LEIB|Ibiza|Ibiza|Spain|20:01|3 min|Aterrizado|
+|S5DTZ|S5D|33.5963|-7.46408|318|0|BE58|GMMT||||19:55|-3 min|Demorado|GMMT||||22:25|147 min|Aterrizado|
+|SAR5037|SAR|64.4878|14.6464|37915|430|B738|ENTC|Langnes|Tromso|Norway|19:40|-18 min|Despegado|EKCH|Kastrup|Copenhagen|Denmark|22:00|122 min|Aterrizado|
+|SAS1012|SAS|59.909|15.8856|21818|394|A320|ENGM|Gardermoen|Oslo|Norway|19:40|-18 min|Despegado|ESSA|Arlanda|Stockholm|Sweden|20:40|42 min|Aterrizado|
+|SAS681|SAS|68.1143|23.1837|34105|387|B733|EFOU|Oulu|Oulu|Finland|19:20|-38 min|Despegado|ENTC|Langnes|Tromso|Norway|20:30|32 min|Aterrizado|
+|SAV108|SAV|6.69302|-73.8184|36016|494|B752|AKBO||||11:40|-498 min|Despegado|MKJP|Norman Manley Intl|Kingston|Jamaica|14:10|-348 min|Demorado|
+|SBI169|SBI|53.7121|15.5221|37427|469|B738|ULLI|Pulkovo|St. Petersburg|Russia|18:40|-78 min|Despegado|LSZH|Zurich|Zurich|Switzerland|21:40|102 min|Demorado|
+|SBI170|SBI|56.7448|60.8209|779|10|A320|USSS|Koltsovo|Yekaterinburg|Russia|20:10|12 min|Despegado|UNOO|Omsk|Omsk|Russia|22:10|132 min|Demorado|
+|SBI1827|SBI|59.7999|30.2607|90|0|B763|ENGM|Gardermoen|Oslo|Norway|18:00|-118 min|Despegado|ULLI|Pulkovo|St. Petersburg|Russia|19:40|-18 min|Aterrizado|
+|SCT119|SCT|-28.8096|134.417|36257|436|B77L|NZQN|Queenstown|Queenstown International|New Zealand|15:48|-250 min|Despegado|VTBD|Don Muang Intl|Bangkok|Thailand|04:58|540 min|Aterrizado|
+|SDM109|SDM|42.313|34.5185|34897|515|B738|LATI|Tirana Rinas|Tirana|Albania|18:35|-83 min|Despegado|URMO|Beslan Airport|Beslan|Russia|21:13|75 min|Aterrizado|
+|SDM1896|SDM|59.7978|30.267|94|0|A320|ULLI|Pulkovo|St. Petersburg|Russia|20:10|12 min|Despegado|LFPG|Charles De Gaulle|Paris|France|22:55|177 min|Aterrizado|
+|SDM190|SDM|59.8078|30.1526|845|169|B735|EHAM|Schiphol|Amsterdam|Netherlands|17:35|-143 min|Despegado|ULLI|Pulkovo|St. Petersburg|Russia|19:55|-3 min|Demorado|
+|SEV869|SEV|28.6203|-17.7544|111|0|B190|GCLA|La Palma|Santa Cruz De La Palma|Spain|21:10|72 min|Embarcando|GCLP|Gran Canaria|Gran Canaria|Spain|22:00|-1318 min|Aterrizado|
+|SHT12Q|SHT|55.0367|-1.70778|281|0|A319|EGLL|Heathrow|London|United Kingdom|18:55|-63 min|Despegado|EGNT|Newcastle|Newcastle|United Kingdom|20:10|12 min|Aterrizado|
+|SIA062|SIA|29.9888|-95.3355|111|0|B773|UUDD|Domododevo|Moscow|Russia|08:10|-708 min|Despegado|KIAH|George Bush Intercontinental|Houston|United States|19:30|-28 min|Aterrizado|
+|SIA333|SIA|-1.31679|110.434|37904|495|B77W|YSSY|Sydney Intl|Sydney|Australia|13:15|-403 min|Despegado|VTBS|Suvarnabhumi Intl|Bangkok|Thailand|23:04|186 min|Aterrizado|
+|SJA789|SJA|50.5477|14.1306|18691|437|B737|LKPR|Ruzyne|Prague|Czech Republic|19:55|-3 min|Despegado|ENZV|Sola|Stavanger|Norway|20:30|32 min|Aterrizado|
+|SJV108|SJV|13.9187|-69.6506|26330|519|B738|KMIA|Miami Intl|Miami|United States|10:40|-558 min|Despegado|SVMI|Simon Bolivar Intl|Caracas|Venezuela|12:15|-463 min|Demorado|
+|SJV109|SJV|10.7836|95.6453|35928|477|B744|WSSS|Changi Intl|Singapore|Singapore|18:10|-108 min|Despegado|VABB|Chhatrapati Shivaji Intl|Mumbai|India|22:10|132 min|Demorado|
+|SKA098|SKA|43.6662|7.22907|558|78|C172|LFMN|Cote D\\'Azur|Nice|France|18:13|-105 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|18:48|-70 min|Demorado|
+|SLI317|SLI|16.7622|-99.7541|20|0|E145|MMMX|Licenciado Benito Juarez Intl|Mexico City|Mexico|19:00|-58 min|Despegado|MMAA|General Juan N Alvarez Intl|Acapulco|Mexico|19:36|-22 min|Aterrizado|
+|SOO170|SOO|51.2967|13.0057|8108|262|B77L|EDDM|Franz Josef Strauss|Munich|Germany|19:20|-38 min|Despegado|EDDP|Leipzig Halle|Leipzig|Germany|20:03|5 min|Aterrizado|
+|SUD1057|SUD|36.8339|7.90613|32068|426|A320|DTTA|Carthage|Tunis|Tunisia|19:20|-38 min|Despegado|GMMN|Mohammed V Intl|Casablanca|Morocco|20:35|37 min|Aterrizado|
+|SUD123|SUD|19.1299|36.8517|6788|294|B737|HSSS|Khartoum|Khartoum|Sudan|19:03|-55 min|Despegado|HSPN|Port Sudan New International Airport|Port Sudan|Sudan|19:38|-20 min|Demorado|
+|SUD777|SUD|39.8545|-104.676|5444|0|MD11|KDEN|Denver Intl|Denver|United States|20:30|32 min|Embarcando|CYWG|Winnipeg Intl|Winnipeg|Canada|22:06|128 min|Demorado|
+|SUR043|SUR|41.7245|64.3524|35727|520|A320|UAII|Shymkent|Chimkent|Kazakhstan|19:15|-43 min|Despegado|UBBB|Heydar Aliyev|Baku|Azerbaijan|21:31|93 min|Demorado|
+|SUR4304|SUR|-30.6738|-96.4403|34120|454|B737|SCTE|El Tepual Intl|Puerto Montt|Chile|15:53|-245 min|Despegado|SCIP|Mataveri Intl|Easter Island|Chile|21:23|85 min|Demorado|
+|SVA1291|SVA|26.2785|49.8103|1693|165|A320|OEGT|Guriat|Guriat|Saudi Arabia|18:10|-108 min|Despegado|OEDF|King Fahd Intl|Dammam|Saudi Arabia|20:30|32 min|Demorado|
+|SVA1942|SVA|20.0693|41.2152|31093|486|A320|OEJN|King Abdulaziz Intl|Jeddah|Saudi Arabia|19:29|-29 min|Despegado|OEAB|Abha|Abha|Saudi Arabia|20:29|31 min|Demorado|
+|SVA264|SVA|27.379|35.7723|35780|491|B772|OERK|King Khaled Intl|Riyadh|Saudi Arabia|18:40|-78 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|22:06|128 min|Demorado|
+|SVA777|SVA|24.2071|39.8714|5486|266|B77W|OEJN|King Abdulaziz Intl|Jeddah|Saudi Arabia|19:27|-31 min|Despegado|OEMA|Prince Mohammad Bin Abdulaziz|Madinah|Saudi Arabia|20:07|9 min|Demorado|
+|SVA814|SVA|3.7583|86.8531|36876|457|B77W|OEMA|Prince Mohammad Bin Abdulaziz|Madinah|Saudi Arabia|13:35|-383 min|Despegado|WIII|Soekarno Hatta Intl|Jakarta|Indonesia|23:10|192 min|Demorado|
+|SWA1631|SWA|20.8338|-73.6061|38062|442|B737|TNCA|Reina Beatrix Intl|Oranjestad|Aruba|18:15|-103 min|Despegado|KMCO|Orlando Intl|Orlando|United States|21:06|68 min|Demorado|
+|SWA303|SWA|41.2338|-120.979|36220|424|B733|KRNO|Reno Tahoe Intl|Reno|United States|19:40|-18 min|Despegado|KPDX|Portland Intl|Portland|United States|22:10|132 min|Demorado|
+|SWI289|SWI|-9.41064|-78.3942|18003|305|LEG2|SPHO|Coronel Fap Alfredo Mendivil Duarte|Ayacucho|Peru|17:49|-129 min|Despegado|SPRU|Capitan Carlos Martinez De Pinillos|Trujillo|Peru|20:49|51 min|Demorado|
+|SWI5456|SWI|-11.4728|46.7869|33075|454|B738|FQBR|Beira|Beira|Mozambique|18:25|-93 min|Despegado|FSIA|Seychelles Intl|Mahe|Seychelles|22:00|122 min|Demorado|
+|SWR117T|SWR|47.8759|9.46272|22199|448|B77W|LSZH|Zurich|Zurich|Switzerland|19:40|-18 min|Despegado|EDDF|Frankfurt Main|Frankfurt|Germany|20:17|19 min|Demorado|
+|SWR188|SWR|45.1785|24.4019|33029|486|B77W|LSZH|Zurich|Zurich|Switzerland|18:25|-93 min|Despegado|ZSPD|Pudong|Shanghai|China|05:40|582 min|Demorado|
+|SWR3611|SWR|45.7141|9.07024|15618|270|B738|LIMC|Malpensa|Milano|Italy|19:40|-18 min|Despegado|LSZH|Zurich|Zurich|Switzerland|20:20|22 min|Demorado|
+|SWR395E|SWR|46.7063|12.65|33273|522|A343|LSZH|Zurich|Zurich|Switzerland|19:25|-33 min|Despegado|OMDB|Dubai Intl|Dubai|United Arab Emirates|20:00|2 min|Demorado|
+|SWR623|SWR|28.824|88.6126|33999|428|DC10|ZULS|Lhasa-Gonggar|Lhasa|China|18:43|-75 min|Despegado|LSZH|Zurich|Zurich|Switzerland|04:43|525 min|Demorado|
+|SXFE|privado|62.3105|-167.741|32085|475|B748|KLAS|Mc Carran Intl|Las Vegas|United States|14:20|-338 min|Despegado|RKSI|Incheon Intl|Seoul|South Korea|00:20|262 min|Demorado|
+|SXPTC|privado|41.024|140.725|2500|223|C441|RJSC|Yamagata|Yamagata|Japan|19:20|-38 min|Despegado|RJCH|Hakodate|Hakodate|Japan|21:30|92 min|Demorado|
+|T7TBZ|T7T|45.0883|9.87469|24888|288|BE60|LIML|Linate|Milan|Italy|19:50|-8 min|Despegado|LIRQ|Firenze|Florence|Italy|20:33|35 min|Demorado|
+|TAI0342|TAI|13.4468|-89.0384|995|153|A320|MSLP|El Salvador Intl|San Salvador|El Salvador|19:33|-25 min|Despegado|MGGT|La Aurora|Guatemala City|Guatemala|20:33|35 min|Demorado|
+|TAI1007|TAI|27.3453|-97.5679|33079|503|B77L|MSSS|Ilopango Intl|San Salvador|El Salvador|18:10|-108 min|Despegado|PANC|Ted Stevens Anchorage Intl|Anchorage|United States|18:45|-73 min|Demorado|
+|TAI1009|TAI|7.55221|-59.5799|8092|524|B764|SYCJ|Cheddi Jagan Intl|Georgetown|Guyana|19:22|-36 min|Despegado|MSLP|El Salvador Intl|San Salvador|El Salvador|00:57|299 min|Demorado|
+|TAM1456|TAM|-16.0469|-55.3824|37058|458|B77W|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|17:46|-132 min|Despegado|SKBO|Eldorado Intl|Bogota|Colombia|01:46|348 min|Demorado|
+|TAM3128|TAM|-20.7896|-40.6601|21894|446|A320|SBSP|Congonhas|Sao Paulo|Brazil|18:43|-75 min|Despegado|SBVT|Goiabeiras|Vitoria|Brazil|22:13|135 min|Demorado|
+|TAM3196|TAM|-25.5356|-49.1723|3003|0|A320|SBCT|Afonso Pena|Curitiba|Brazil|20:10|12 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|21:10|72 min|Demorado|
+|TAM3360|TAM|-23.4282|-46.4824|2474|0|A321|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|20:25|27 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|21:07|69 min|Demorado|
+|TAM3367|TAM|-17.8407|-41.0664|38320|408|A320|SBSV|Deputado Luis Eduardo Magalhaes|Salvador|Brazil|16:20|-218 min|Despegado|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|17:46|-132 min|Demorado|
+|TAM3558|TAM|-15.6533|-41.6649|35074|451|A320|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|14:55|-303 min|Despegado|SBJP|Presidente Castro Pinto|Joao Pessoa|Brazil|18:00|-118 min|Demorado|
+|TAM3750|TAM|-2.97898|-60.1956|2000|197|A321|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|16:10|-228 min|Despegado|SBEG|Eduardo Gomes Intl|Manaus|Brazil|19:40|-18 min|Demorado|
+|TAM3767|TAM|-19.6242|-43.9776|2730|0|A319|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|19:35|-23 min|Demorado|SBRJ|Santos Dumont|Rio De Janeiro|Brazil|20:30|32 min|Demorado|
+|TAM3773|TAM|-10.7974|-43.6929|33999|451|A320|SBFZ|Pinto Martins Intl|Fortaleza|Brazil|17:30|-148 min|Despegado|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|21:00|62 min|Demorado|
+|TAM3823|TAM|-15.7806|-48.1143|10230|240|A320|SBTE|Senador Petronio Portella|Teresina|Brazil|17:49|-129 min|Despegado|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|19:45|-13 min|Demorado|
+|TAM4729|TAM|-14.3334|-43.0108|36185|424|A319|SBIL|Ilheus|Ilheus|Brazil|19:12|-46 min|Despegado|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|20:46|48 min|Demorado|
+|TAM9367|TAM|-7.89815|-14.4802|10076|377|B77W|FHAW|Ascension Aux Af|Wide Awake|Saint Helena|20:00|2 min|Despegado|GOOY|Leopold Sedar Senghor Intl|Dakar|Senegal|23:00|182 min|Demorado|
+|TAM9401|TAM|-7.67061|-14.778|16693|420|B77W|FHAW|Ascension Aux Af|Wide Awake|Saint Helena|19:30|-28 min|Despegado|GOOY|Leopold Sedar Senghor Intl|Dakar|Senegal|22:42|164 min|Demorado|
+|TAM9813|TAM|13.1162|-63.2785|36010|452|B77W|LPPT|Lisboa|Lisbon|Portugal|12:35|-443 min|Despegado|SVMI|Simon Bolivar Intl|Caracas|Venezuela|20:19|21 min|Demorado|
+|TAO342|TAO|19.4273|-99.0779|7324|0|AT45|MMMX|Licenciado Benito Juarez Intl|Mexico City|Mexico|20:25|27 min|Despegado|MMSP|Ponciano Arriaga Intl|San Luis Potosi|Mexico|21:50|112 min|Demorado|
+|TAP1040|TAP|39.3399|-7.28953|34456|444|A319|LPPT|Lisboa|Lisbon|Portugal|19:32|-26 min|Despegado|LEBL|Barcelona-El Prat|Barcelona|Spain|20:57|59 min|Demorado|
+|TAP1048|TAP|41.3773|1.65798|13152|342|A319|LPPT|Lisboa|Lisbon|Portugal|13:45|-373 min|Despegado|LEBL|Barcelona-El Prat|Barcelona|Spain|15:11|-287 min|Demorado|
+|TAP146|TAP|38.9507|-7.89906|21764|413|A343|LEBL|Barcelona-El Prat|Barcelona|Spain|18:50|-68 min|Despegado|LPPT|Lisboa|Lisbon|Portugal|20:25|27 min|Demorado|
+|TAP1688|TAP|32.6931|-16.7773|179|0|A320|LPMA|Madeira|Funchal|Portugal|20:10|12 min|Despegado|LPPT|Lisboa|Lisbon|Portugal|21:32|94 min|Demorado|
+|TAP173|TAP|29.5928|-40.9133|38022|494|A332|LPPT|Lisboa|Lisbon|Portugal|16:26|-212 min|Despegado|SVMI|Simon Bolivar Intl|Caracas|Venezuela|00:26|268 min|Demorado|
+|TAP1984|TAP|41.2417|-8.67568|239|14|A319|LPPT|Lisboa|Lisbon|Portugal|18:51|-67 min|Despegado|LPPR|Porto|Porto|Portugal|19:31|-27 min|Aterrizado|
+|TAP289|TAP|38.7761|-9.1332|388|0|A343|LPPT|Lisboa|Lisbon|Portugal|20:10|12 min|Despegado|FNLU|Luanda 4 De Fevereiro|Luanda|Angola|02:59|421 min|Aterrizado|
+|TAP367|TAP|51.4122|-0.87929|5987|259|A319|EGLL|Heathrow|London|United Kingdom|19:00|-58 min|Despegado|LPPT|Lisboa|Lisbon|Portugal|21:34|96 min|Aterrizado|
+|TAP70|TAP|-22.4188|-43.0009|16149|415|A332|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|19:50|-8 min|Despegado|LPPT|Lisboa|Lisbon|Portugal|05:07|549 min|Aterrizado|
+|TAP842|TAP|40.3891|-4.42561|35133|432|A320|LPPT|Lisboa|Lisbon|Portugal|19:01|-57 min|Despegado|LIRF|Fiumicino|Rome|Italy|21:36|98 min|Aterrizado|
+|TAP911|TAP|-7.07833|-18.5759|38022|485|A332|OMDB|Dubai Intl|Dubai|United Arab Emirates|09:40|-618 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|23:35|217 min|Aterrizado|
+|TAR216|TAR|39.3876|19.6531|35937|478|A320|DTTA|Carthage|Tunis|Tunisia|18:55|-63 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|21:02|64 min|Aterrizado|
+|TAY144|TAY|-20.625|139.358|2216|185|A35/|YTNK|Tennant Creek Airport|Tennant Creek|Australia|18:10|-108 min|Despegado|YBMA|Mount Isa|Mount Isa|Australia|20:25|27 min|Aterrizado|
+|TAY2020|TAY|18.4138|-66.3709|29709|451|B744|KJFK|John F Kennedy Intl|New York|United States|16:50|-188 min|Despegado|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|20:25|27 min|Aterrizado|
+|TBN6376|TBN|42.5334|32.4992|38963|462|A319|LBWN|Varna|Varna|Bulgaria|19:40|-18 min|Despegado|VTBS|Suvarnabhumi Intl|Bangkok|Thailand|04:40|522 min|Aterrizado|
+|TCX1994|TCX|51.1597|-0.1799|192|0|A320|EGKK|Gatwick|London|United Kingdom|12:10|-468 min|Despegado|LIPZ|Venezia Tessera|Venice|Italy|12:40|-438 min|Aterrizado|
+|TEF130B|TEF|56.6001|4.82065|30802|445|B738|EDDP|Leipzig Halle|Leipzig|Germany|20:55|57 min|Embarcando|BIKF|Keflavik International Airport|Keflavik|Iceland|21:30|92 min|Aterrizado|
+|TFF462|TFF|23.2205|85.4486|3082|172|B773|VEGT|Lokpriya Gopinath Bordoloi International Airport|Guwahati|India|19:15|-43 min|Despegado|VERC|Birsa Munda|Ranchi|India|20:24|26 min|Aterrizado|
+|TFL902|TFL|58.558|7.491|37865|437|B738|ENTC|Langnes|Tromso|Norway|18:15|-103 min|Despegado|EHAM|Schiphol|Amsterdam|Netherlands|21:05|67 min|Aterrizado|
+|THA431|THA|22.3376|117.5|39904|525|B772|RJBB|Kansai|Osaka|Japan|17:40|-138 min|Despegado|VTBD|Don Muang Intl|Bangkok|Thailand|23:30|212 min|Aterrizado|
+|THT008|THT|-30.437|-169.498|34998|540|B772|NZAA|Auckland Intl|Auckland|New Zealand|18:30|-88 min|Despegado|NTAA|Faa\\'a International|Papeete|French Polynesia|00:30|272 min|Aterrizado|
+|THT010|THT|-29.5467|-167.793|39150|529|B77W|NZAA|Auckland Intl|Auckland|New Zealand|18:30|-88 min|Despegado|NTAA|Faa\\'a International|Papeete|French Polynesia|23:15|197 min|Aterrizado|
+|THY034|THY|34.2944|-12.3606|37017|439|B77W|GCTS|Tenerife Sur|Tenerife|Spain|18:55|-63 min|Despegado|LPPT|Lisboa|Lisbon|Portugal|20:55|57 min|Aterrizado|
+|THY077|THY|38.5969|31.8441|26005|481|A321|LTAI|Antalya|Antalya|Turkey|19:25|-33 min|Despegado|LTAC|Esenboga|Ankara|Turkey|20:15|17 min|Aterrizado|
+|THY126|THY|40.9759|28.8151|178|0|A320|LTBJ|Adnan Menderes|Izmir|Turkey|18:40|-78 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|19:25|-33 min|Aterrizado|
+|THY192T|THY|36.8179|30.0476|17905|401|B738|LTAI|Antalya|Antalya|Turkey|19:55|-3 min|Despegado|LTFE|Bodrum - Milas|Bodrum|Turkey|20:37|39 min|Aterrizado|
+|THY2823|THY|41.8227|34.2674|33693|502|B738|LTCG|Trabzon|Trabzon|Turkey|19:19|-39 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|20:40|42 min|Aterrizado|
+|THY2DJ|THY|40.9254|28.7229|1678|148|A321|LTFE|Bodrum - Milas|Bodrum|Turkey|19:04|-54 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|19:54|-4 min|Demorado|
+|THY3QU|THY|41.8892|26.5331|34936|443|B738|EDDM|Franz Josef Strauss|Munich|Germany|18:15|-103 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|20:35|37 min|Demorado|
+|THY44DE|THY|45.1897|4.77658|37158|504|B77W|LFQQ|Lesquin|Lille|France|18:34|-84 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:24|26 min|Demorado|
+|THY45|THY|33.986|30.9159|34037|461|B77W|FACT|Cape Town Intl|Cape Town|South Africa|11:05|-533 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|21:33|95 min|Demorado|
+|THY54|THY|27.8378|71.4969|32568|512|B77W|LTBA|Ataturk|Istanbul|Turkey|15:53|-245 min|Despegado|WSSS|Changi Intl|Singapore|Singapore|02:10|372 min|Demorado|
+|THY678|THY|41.4033|30.2379|6289|244|B737|LTCG|Trabzon|Trabzon|Turkey|18:29|-89 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|19:04|-54 min|Demorado|
+|THY8141|THY|41.5196|28.6382|16832|403|A321|EPWA|Okecie|Warsaw|Poland|18:10|-108 min|Despegado|LTBA|Ataturk|Istanbul|Turkey|20:09|11 min|Demorado|
+|THY8XH|THY|40.9527|29.4872|30471|440|A320|LTBA|Ataturk|Istanbul|Turkey|19:45|-13 min|Despegado|LTFG|Gazipasa Airport|Alanya|Turkey|20:55|57 min|Demorado|
+|TKW041T|TKW|40.9816|28.8162|176|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|TLC7161|TLC|46.5346|-110.853|32245|483|B738|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|13:15|-403 min|Despegado|CYYC|Calgary Intl|Calgary|Canada|21:14|76 min|Aterrizado|
+|TMC540|TMC|48.0652|3.25677|36985|455|A319|LFQQ|Lesquin|Lille|France|18:55|-63 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|20:09|11 min|Aterrizado|
+|TRA5587|TRA|43.6642|7.21226|20|0|B737|LFMN|Cote D\\'Azur|Nice|France|20:01|3 min|Despegado|EHAM|Schiphol|Amsterdam|Netherlands|21:32|94 min|Aterrizado|
+|TRA865|TRA|51.458|5.38985|82|0|B737|EHEH|Eindhoven|Eindhoven|Netherlands|22:15|137 min|Embarcando|EGKK|Gatwick|London|United Kingdom|23:15|-1243 min|Aterrizado|
+|TRI080|TRI|41.2745|20.6125|35059|464|A319|LDDU|Dubrovnik|Dubrovnik|Croatia|19:55|-3 min|Despegado|LGSK|Alexandros Papadiamantis|Skiathos|Greece|20:50|52 min|Aterrizado|
+|TRI102|TRI|41.3754|2.49436|38048|505|B744|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|19:44|-14 min|Despegado|LIRF|Fiumicino|Rome|Italy|21:26|88 min|Aterrizado|
+|TRI127|TRI|43.6976|10.3991|14|0|B738|LIRP|Pisa|Pisa|Italy|19:50|-8 min|Demorado|LICR|Reggio Calabria|Reggio Calabria|Italy|21:04|66 min|Aterrizado|
+|TRI158|TRI|43.6976|10.4009|14|0|MD82|LIRP|Pisa|Pisa|Italy|20:01|3 min|Demorado|LICR|Reggio Calabria|Reggio Calabria|Italy|21:15|77 min|Aterrizado|
+|TSC310|TSC|42.2969|136.649|36869|493|B77W|LFPG|Charles De Gaulle|Paris|France|11:05|-533 min|Despegado|RJAA|Narita Intl|Tokyo|Japan|22:04|126 min|Aterrizado|
+|TSO169|TSO|55.4151|37.9097|601|0|B773|UUDD|Domododevo|Moscow|Russia|20:40|42 min|Embarcando|EGKK|Gatwick|London|United Kingdom|00:10|252 min|Aterrizado|
+|TSO454|TSO|36.9647|-5.95258|2580|169|B773|KAUS|Austin Bergstrom Intl|Austin|United States|19:23|-35 min|Despegado|LEJR|Jerez|Jerez|Spain|05:33|575 min|Aterrizado|
+|TUI513R|TUI|63.7811|-22.2389|3910|261|B738|ENVA|Vaernes|Trondheim|Norway|17:25|-153 min|Despegado|BIKF|Keflavik International Airport|Keflavik|Iceland|20:15|17 min|Aterrizado|
+|TUI86P|TUI|37.0176|-7.97018|32|0|B738|EDDS|Stuttgart|Stuttgart|Germany|17:11|-167 min|Despegado|LPFR|Faro|Faro|Portugal|20:21|23 min|Aterrizado|
+|TVF3753|TVF|47.3809|4.01137|26860|453|B738|LMML|Luqa|Malta|Malta|19:52|-6 min|Despegado|LFPO|Orly|Paris|France|22:15|137 min|Aterrizado|
+|TVF8326|TVF|48.5934|3.26887|35196|514|B738|LFQQ|Lesquin|Lille|France|19:15|-43 min|Despegado|LFMN|Cote D\\'Azur|Nice|France|21:01|63 min|Aterrizado|
+|TVS1582|TVS|48.1696|17.2021|444|2|B738|LZIB|M R Stefanik|Bratislava|Slovakia|20:25|27 min|Despegado|LBBG|Burgas|Bourgas|Bulgaria|21:56|118 min|Aterrizado|
+|TVS1PJ|TVS|49.95|14.1628|11000|299|B738|LKPR|Ruzyne|Prague|Czech Republic|20:00|2 min|Despegado|LDDU|Dubrovnik|Dubrovnik|Croatia|21:20|82 min|Aterrizado|
+|TVS64J|TVS|49.565|10.5687|43165|480|C680|EDMO|Oberpfaffenhofen|Oberpfaffenhofen|Germany|19:45|-13 min|Despegado|LFQQ|Lesquin|Lille|France|20:46|48 min|Aterrizado|
+|TYR268|TYR|47.2143|14.7937|2995|234|DH8D|LOXZ|Zeltweg|Zeltweg|Austria|20:00|2 min|Despegado|LOWW|Schwechat|Vienna|Austria|20:30|32 min|Aterrizado|
+|TYS013|TYS|39.4914|-0.476218|197|0|B738|LEVC|Valencia|Valencia|Spain|20:10|12 min|Despegado|LEMG|Malaga|Malaga|Spain|21:10|72 min|Aterrizado|
+|UAE1658|UAE|27.4904|-142.597|38102|446|B77L|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|05:55|-843 min|Despegado|PHNL|Honolulu Intl|Honolulu|United States|01:25|327 min|Aterrizado|
+|UAE185|UAE|-13.0305|37.1828|37773|483|B772|OMDB|Dubai Intl|Dubai|United Arab Emirates|18:25|-93 min|Despegado|FAOR|O.R. Tambo Intl|Johannesburg|South Africa|02:01|363 min|Aterrizado|
+|UAE186|UAE|31.0686|33.8347|34905|510|B77W|LEBL|Barcelona-El Prat|Barcelona|Spain|19:49|-9 min|Despegado|OMDB|Dubai Intl|Dubai|United Arab Emirates|02:14|376 min|Aterrizado|
+|UAE261|UAE|-16.648|-33.7217|38024|488|B773|OMDB|Dubai Intl|Dubai|United Arab Emirates|06:32|-806 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|22:42|164 min|Aterrizado|
+|UAE60|UAE|25.2479|55.3714|48|0|B77W|EDDH|Hamburg|Hamburg|Germany|13:55|-363 min|Despegado|OMDB|Dubai Intl|Dubai|United Arab Emirates|19:55|-3 min|Aterrizado|
+|UAE801|UAE|22.3421|45.2974|39772|491|B773|OMDB|Dubai Intl|Dubai|United Arab Emirates|18:35|-83 min|Despegado|OEJN|King Abdulaziz Intl|Jeddah|Saudi Arabia|20:54|56 min|Aterrizado|
+|UAE84|UAE|46.2338|6.1105|1425|0|B77L|LSGG|Geneve Cointrin|Geneva|Switzerland|19:55|-3 min|Demorado|OMDB|Dubai Intl|Dubai|United Arab Emirates|01:55|357 min|Aterrizado|
+|UAL045|UAL|39.8646|-104.685|5445|11|B772|KSFO|San Francisco Intl|San Francisco|United States|18:10|-108 min|Despegado|KDEN|Denver Intl|Denver|United States|20:30|32 min|Aterrizado|
+|UAL107|UAL|20.9696|-102.71|25169|401|E145|MMGL|Don Miguel Hidalgo Y Costilla Intl|Guadalajara|Mexico|18:58|-60 min|Despegado|MMMY|General Mariano Escobedo Intl|Monterrey|Mexico|20:28|30 min|Aterrizado|
+|UAL123|UAL|18.7538|-99.5475|31338|492|B739|MMZO|Playa De Oro Intl|Manzanillo|Mexico|19:06|-52 min|Despegado|MMCM|Chetumal Intl|Chetumal|Mexico|20:36|38 min|Aterrizado|
+|UAL302|UAL|40.6408|-73.7763|28|2|A320|KJFK|John F Kennedy Intl|New York|United States|20:05|7 min|Despegado|KORD|Chicago Ohare Intl|Chicago|United States|21:35|97 min|Aterrizado|
+|UKV59N|UKV|52.6751|-1.04488|26050|378|B738|EGLL|Heathrow|London|United Kingdom|19:16|-42 min|Despegado|EGNT|Newcastle|Newcastle|United Kingdom|19:51|-7 min|Demorado|
+|ULA248|ULA|-21.0082|116.603|5391|181|BE58|YBWX|Barrow Island Airport|Barrow Island|Australia|19:42|-16 min|Despegado|YCNF||||21:37|99 min|Demorado|
+|UPS099|UPS|39.3279|-86.3081|33034|493|MD11|PANC|Ted Stevens Anchorage Intl|Anchorage|United States|10:28|-570 min|Despegado|KSDF|Louisville International Airport|Louisville|United States|18:58|-60 min|Demorado|
+|V3150|V31|42.1419|8.70148|3624|146|EC55|LFKC|Saint Catherine|Calvi|France|19:55|-3 min|Despegado|LFKJ|Campo Dell Oro|Ajaccio|France|20:35|37 min|Demorado|
+|VAA618|VAA|50.5577|-99.2813|35859|412|A320|CYWG|Winnipeg Intl|Winnipeg|Canada|19:50|-8 min|Despegado|CYEG|Edmonton Intl|Edmonton|Canada|22:20|142 min|Demorado|
+|VAR003|VAR|11.9429|-85.8872|37912|461|B738|MPTO|Tocumen Intl|Panama City|Panama|19:02|-56 min|Despegado|MHTG|Toncontin Intl|Tegucigalpa|Honduras|20:52|54 min|Demorado|
+|VAS1380|VAS|-26.5325|-48.4832|28670|471|ZZZZ|SBPA|Salgado Filho|Porto Alegre|Brazil|18:55|-63 min|Despegado|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|20:21|23 min|Demorado|
+|VBV043|VBV|-41.8012|174.243|2203|158|G21T|NZWB|Woodbourne|Woodbourne|New Zealand|19:55|-3 min|Despegado|NZTU|Timaru|Timaru|New Zealand|20:55|57 min|Demorado|
+|VBV086|VBV|25.1779|89.1992|33660|451|F70/|VGEG|Shah Amanat Intl|Chittagong|Bangladesh|18:29|-89 min|Despegado|VQPR|Paro|Thimphu|Bhutan|19:18|-40 min|Demorado|
+|VBV183|VBV|52.5522|4.57046|3083|236|B77L|EHGG|Eelde|Groningen|Netherlands|19:37|-21 min|Despegado|EHAM|Schiphol|Amsterdam|Netherlands|20:07|9 min|Demorado|
+|VBV339|VBV|20.2148|-69.2136|37025|465|B738|MBPV|Providenciales|Providenciales|Turks and Caicos Islands|19:35|-23 min|Despegado|TNCM|Princess Juliana Intl|Philipsburg|Netherlands Antilles|21:15|77 min|Demorado|
+|VIP470|VIP|-39.8784|143.882|136|16|BE58|YMTG|Mount Gambier Airport|Mount Gambier|Australia|18:45|-73 min|Despegado|YKII|King Island Airport|King Island|Australia|20:15|17 min|Aterrizado|
+|VIP593|VIP|44.4953|26.0835|303|0|H25B|LRBS|Aurel Vlaicu|Bucharest|Romania|19:55|-3 min|Demorado|LIRA|Ciampino|Rome|Italy|21:25|87 min|Aterrizado|
+|VLG1031|VLG|40.4238|-3.51792|3009|159|A320|LEBL|Barcelona-El Prat|Barcelona|Spain|18:20|-98 min|Despegado|LEMD|Adolfo Suárez Madrid-Barajas|Madrid|Spain|19:10|-48 min|Demorado|
+|VLG1571|VLG|43.5602|-6.0276|431|14|A320|LEBL|Barcelona-El Prat|Barcelona|Spain|18:35|-83 min|Despegado|LEAS|Asturias|Aviles|Spain|19:40|-18 min|Aterrizado|
+|VLG2006|VLG|39.5469|2.73395|39|0|A319|LEPA|Son Sant Joan|Palma de Mallorca|Spain|20:09|11 min|Despegado|LEBL|Barcelona-El Prat|Barcelona|Spain|21:09|71 min|Aterrizado|
+|VLG217|VLG|48.7298|2.35789|306|0|A320|LFPO|Orly|Paris|France|20:25|27 min|Despegado|LEPA|Son Sant Joan|Palma de Mallorca|Spain|21:55|117 min|Aterrizado|
+|VLG2432|VLG|37.9687|-2.63436|36097|476|A320|LEZL|Sevilla|Sevilla|Spain|20:30|32 min|Embarcando|LEMH|Menorca|Menorca|Spain|21:45|107 min|Aterrizado|
+|VLG8735|VLG|48.9336|0.377357|37228|513|A320|EGCC|Manchester|Manchester|United Kingdom|19:25|-33 min|Despegado|LEBL|Barcelona-El Prat|Barcelona|Spain|21:07|69 min|Aterrizado|
+|VLO7430|VLO|-33.6684|-75.3032|32013|479|MD11|SCEL|Arturo Merino Benitez Intl|Santiago|Chile|19:35|-23 min|Despegado|SCIP|Mataveri Intl|Easter Island|Chile|01:15|317 min|Aterrizado|
+|VNS013|VNS|28.4892|-16.3613|4431|234|B77W|GCXO|Tenerife Norte|Tenerife|Spain|19:45|-13 min|Despegado|GCXO|Tenerife Norte|Tenerife|Spain|20:45|47 min|Aterrizado|
+|VRG1623|VRG|-31.3767|145.125|36107|398|B738|YSTW|Tamworth|Tamworth|Australia|18:55|-63 min|Despegado|YBAS|Alice Springs|Alice Springs|Australia|22:05|127 min|Aterrizado|
+|VRG1975|VRG|28.4904|-139.999|40143|436|B744|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|13:10|-408 min|Despegado|PHNL|Honolulu Intl|Honolulu|United States|06:40|642 min|Aterrizado|
+|VRG2422|VRG|12.5034|-70.01|70|0|B738|TNCA|Reina Beatrix Intl|Oranjestad|Aruba|19:55|-3 min|Demorado|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|00:15|257 min|Aterrizado|
+|VRG2545|VRG|-20.1047|-44.3905|22160|322|B737|SBCF|Tancredo Neves Intl|Belo Horizonte|Brazil|17:22|-156 min|Despegado|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|18:52|-66 min|Demorado|
+|VRG2548|VRG|-23.4288|-46.4846|2465|0|AT72|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|20:00|2 min|Despegado|SBRP|Leite Lopes|Ribeirao Preto|Brazil|20:50|52 min|Demorado|
+|VRG2601|VRG|-23.4284|-46.4772|2465|0|B738|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|20:20|22 min|Despegado|SBGO|Santa Genoveva|Goiania|Brazil|20:42|44 min|Demorado|
+|VRG2656|VRG|50.1401|51.6182|33971|428|B738|UBBB|Heydar Aliyev|Baku|Azerbaijan|00:10|-1188 min|Despegado|UWWW|Kurumoch|Samara|Russia|02:55|-1023 min|Demorado|
+|VRG5054|VRG|18.0406|-20.6549|36011|511|B772|LPPT|Lisboa|Lisbon|Portugal|17:10|-168 min|Despegado|SBRF|Guararapes Gilberto Freyre Intl|Recife|Brazil|01:15|317 min|Demorado|
+|VRG7660|VRG|-25.1286|-49.2706|40438|405|B738|SBGR|Guarulhos-Gov Andre Franco Mo.|Sao Paulo|Brazil|19:30|-28 min|Despegado|SCEL|Arturo Merino Benitez Intl|Santiago|Chile|23:19|201 min|Demorado|
+|VSP100|VSP|-19.28|-47.6501|34250|451|A319|SBKP|Viracopos|Campinas|Brazil|16:12|-226 min|Despegado|SBBR|Presidente Juscelino Kubitschek|Brasilia|Brazil|17:32|-146 min|Demorado|
+|VTN210|VTN|36.4752|33.6483|5388|53|ULAC|LTAF|Adana|Adana|Turkey|18:05|-113 min|Despegado|LTFG|Gazipasa Airport|Alanya|Turkey|20:05|7 min|Demorado|
+|WAL123|WAL|37.1261|-9.43514|19964|361|A320|LPPD|Ponta Delgada|Ponta Delgada|Portugal|17:19|-159 min|Despegado|LPFR|Faro|Faro|Portugal|17:54|-124 min|Demorado|
+|WDA299|WDA|43.6589|7.20676|20|0|B738|LFMN|Cote D\\'Azur|Nice|France|20:10|12 min|Despegado|LFBD|Merignac|Bordeaux|France|20:50|52 min|Demorado|
+|WDA887|WDA|43.6595|7.20691|27|0|A320|LFMN|Cote D\\'Azur|Nice|France|20:57|59 min|Embarcando|LFBD|Merignac|Bordeaux|France|21:37|99 min|Demorado|
+|WFX264|WFX|48.7277|2.3755|299|0|B736|LFPO|Orly|Paris|France|20:10|12 min|Embarcando|LFQQ|Lesquin|Lille|France|20:50|52 min|Demorado|
+|WIF649|WIF|69.6774|18.9088|39|2|DH8D|ENTC|Langnes|Tromso|Norway|20:05|7 min|Embarcando|ENAT|Alta|Alta|Norway|20:32|34 min|Demorado|
+|WJA268|WJA|43.6642|7.21224|18|0|B732|LFMN|Cote D\\'Azur|Nice|France|20:10|12 min|Embarcando|EDDM|Franz Josef Strauss|Munich|Germany|20:10|12 min|Aterrizado|
+|WTG987|WTG|62.9739|-49.9948|35266|494|B752|CYQX|Gander Intl|Gander|Canada|18:10|-108 min|Despegado|BGTL|Thule Air Base|Thule|Greenland|22:40|162 min|Aterrizado|
+|WZZ7006|WZZ|53.5885|19.8057|12046|350|A320|EGGW|Luton|London|United Kingdom|18:10|-108 min|Despegado|EPSY||||20:15|17 min|Aterrizado|
+|XACPG|privado|26.7829|-16.8317|5244|173|C208|GCGM|La Gomera Airport|La Gomera|Spain|19:33|-25 min|Despegado|GMMH|Dakhla Airport|Dakhla|Western Sahara|21:43|105 min|Aterrizado|
+|XAS342|XAS|20.5508|-20.5808|36904|525|A346|SBGL|Galeao Antonio Carlos Jobim|Rio De Janeiro|Brazil|14:00|-358 min|Despegado|LPPT|Lisboa|Lisbon|Portugal|23:00|182 min|Aterrizado|
+|XAS744|XAS|36.6688|-4.48164|56|0|||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Despegado||Mtemere Airstrip|Selous|Tanzania|00:10|-1188 min|Aterrizado|
+|XLF034|XLF|41.9215|8.79679|26|0|B738|LFKJ|Campo Dell Oro|Ajaccio|France|19:26|-32 min|Despegado|LFQQ|Lesquin|Lille|France|20:01|3 min|Aterrizado|
+|XNL424|XNL|43.4401|5.22024|83|0|A320|LFML|Provence|Marseille|France|19:55|-3 min|Demorado|LFRS|Nantes Atlantique|Nantes|France|21:05|67 min|Aterrizado|
+|XRW264|XRW|16.8052|-87.2345|37018|448|T154|MMOX|Xoxocotlan Intl|Oaxaca|Mexico|18:25|-93 min|Despegado|MWCR|Owen Roberts Intl|Georgetown|Cayman Islands|21:15|77 min|Aterrizado|
+|XRW776|XRW|55.9628|37.4007|636|0|B733|EDDT|Tegel|Berlin|Germany|17:00|-178 min|Despegado|UUEE|Sheremetyevo|Moscow|Russia|19:00|-58 min|Aterrizado|
+|XRW945|XRW|34.3037|33.8769|36859|435|B733|UKOO|Odesa Intl|Odessa|Ukraine|18:00|-118 min|Despegado|LLBG|Ben Gurion|Tel-aviv|Israel|20:20|22 min|Aterrizado|
+|XRW947|XRW|6.4725|99.6528|37860|463|A332|VIDP|Indira Gandhi Intl|Delhi|India|15:47|-251 min|Despegado|WSSS|Changi Intl|Singapore|Singapore|21:54|116 min|Aterrizado|
+|YHJFU|privado|-39.8794|143.882|136|0|BE60|YMTG|Mount Gambier Airport|Mount Gambier|Australia|19:44|-14 min|Demorado|YKII|King Island Airport|King Island|Australia|20:49|51 min|Aterrizado|
+|YV123E|YV1|9.42226|-67.219|5478|115|C172|SVCL|Calabozo|Calabozo|Venezuela|20:13|15 min|Despegado|SVCS|Oscar Machado Zuloaga|Caracas|Venezuela|21:13|75 min|Aterrizado|
+|YV1504|YV1|25.7838|-80.4349|2424|149|E135|SVMI|Simon Bolivar Intl|Caracas|Venezuela|16:25|-213 min|Despegado|KMIA|Miami Intl|Miami|United States|19:15|-43 min|Demorado|
+|YV1608|YV1|12.1176|-68.4667|2033|161|C208|SVRS|Gran Roque Airport|Los Roques|Venezuela|19:47|-11 min|Despegado|TNCB|Flamingo|Kralendijk|Netherlands Antilles|21:17|79 min|Demorado|
+|YV201|YV2|10.2903|-66.8059|2149|1|B350|SVMI|Simon Bolivar Intl|Caracas|Venezuela|19:04|-54 min|Despegado|SVCS|Oscar Machado Zuloaga|Caracas|Venezuela|19:19|-39 min|Aterrizado|
+|YV2477|YV2|7.40071|-73.907|31827|504|B752|SKBQ|Ernesto Cortissoz|Barranquilla|Colombia|19:47|-11 min|Despegado|SKBO|Eldorado Intl|Bogota|Colombia|20:22|24 min|Aterrizado|
+|YV2924|YV2|7.80882|-72.2004|3285|0|BE20|SVPM|Paramillo|San Cristobal|Venezuela|20:10|12 min|Despegado|SVMI|Simon Bolivar Intl|Caracas|Venezuela|21:40|102 min|Aterrizado|
+|ZAV92|ZAV|-29.1454|19.4133|3242|0|C210|FAKZ|Kleinsee|Kleinsee|South Africa|19:03|-55 min|Despegado|FAPD||||20:23|25 min|Aterrizado|
+|ZP71S|ZP7|44.2098|43.1258|1813|165|ZZZZ|URMM|Mineralnyye Vody|Mineralnye Vody|Russia|20:40|42 min|Embarcando|URMM|Mineralnyye Vody|Mineralnye Vody|Russia|21:15|77 min|Aterrizado|

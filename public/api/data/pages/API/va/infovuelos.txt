@@ -1,0 +1,26 @@
+====== Infovuelos API ======
+===== Introduccíon =====
+El objetivo de esta API, es facilitar a todas las VA y desarrolladores externos asociados a la división una herramienta que permita con facilidad una integración del panel infovuelos en sus proyectos.
+
+===== Uso =====
+==== Información ====
+=== Formato ===
+<Callsign>|<Airline>|<Aircraft>|<Dep. ICAO>|<Dep. Name>|<Dep. City>|<Dep. Country>|<ETOD>|<Time to Dep.>|<Dep. Status>|<Arr. ICAO>|<Arr. Name>|<Arr. City>|<Arr. Country>|<ETA>|<Time to Arr.>|<Arr. Status>|
+== Example ==
+GLD273|GLD|A333|SARI|Cataratas Del Iguazu|Iguazu Falls|Argentina|12:35|35 min|Embarcando|SAME|El Plumerillo|Mendoza|Argentina|14:10|130 min|Aterrizado|
+
+===== Para Aerolineas =====
+
+Este sistema se encuentra en fase de pruebas, por eso rogamos que reporten cualquier problema a web@ivao.com.ar
+
+La herramienta consiste en una tabla de estado de vuelo para aerolíneas, la misma se puede agregar a cualquier pagina mediante medio include (PHP) o iframe (HTML). La aerolinea que se mostrara debe ser determinada con la variable GET "cs" siendo igual a callsign de tres letras de la aerolínea.
+
+Ejemplo:
+
+http://api.ivao.com.ar/infovuelos/airline.php?cs=ARG -> Muestra vuelos de ARG (Aerolíneas Argentinas).
+
+http://api.ivao.com.ar/infovuelos/airline.php?cs=GLO -> Muestra vuelos de GLO (GOL Lineas Aéreas).
+
+----
+
+Si su aerolínea posee un logotipo diferente, o desea una tabla con mas información que la tabla modelo, contactar con el departamento de desarrollo web.

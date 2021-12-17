@@ -1,0 +1,78 @@
+==== Introducción ====
+
+En esta página podrá encontrar toda la información referente a la API (Application Program Interface) para VA (Virtual Airlines) registradas en Argentina.
+
+
+==== Funciones ====
+  * Agregar miembros a la VA.
+  * Eliminar miembros de la VA.
+  * Cambiar callsign de miembros de la VA.
+  * Listar los miembros de la VA.
+
+
+==== API Miembros ====
+
+^ Variable ^ Formato    ^ Descripción                    ^
+|   op     |   - add    | Add new member.                |
+|  :::     |   - del    | Delete member.                 |
+|  :::     |   - chng   | Change callsign.               |
+|  :::     |   - list   | List all VA members.           |
+|  key     |   string   | VA unique secret key.          |
+|  vid     |   integer  | Member IVAO VID.               |
+|  va      |   integer  | VA AR system ID.               |
+|  cs      |   integer  | Callsign to add or delete.     |
+|  ocs     |   integer  | Current callsign to be changed.|
+|  ncs     |   integer  | New callsign to be assigned.   |
+
+==== Requisitos para operaciones ====
+
+^ Operación ^  key  ^  vid  ^  va  ^  cs  ^  ocs  ^  ncs  ^
+^ Add       |  X  |  X  |  X  |  X  |     |     |
+^ Delete    |  X  |  X  |  X  |  X  |     |     |
+^ Change    |  X  |  X  |  X  |     |  X  |  X  |
+^ List      |  X  |     |  X  |     |     |     |
+
+==== Respuestas ====
+
+^ Operación ^  Éxito  ^  Error  ^
+^ Add       |  OK     |  Detalle de error  |
+^ Delete    |  OK     |  Detalle de error  |
+^ Change    |  OK     |  Detalle de error  |
+^ List      |  Array  |  Detalle de error  |
+
+==== URL ====
+
+^ Protocolo    ^ URL                                     ^
+| HTTP         | http://api.ivao.com.arva/member.php     |
+| HTTPS        | https://ivao.com.ar/api/va/member.php   |
+
+==== Como Usar ====
+
+
+La manera de acceder a la API es utilizando las variables en un HTTP GET.
+
+=== Ejemplo: ===
+== Agregar miembro: ==
+
+
+  * https://ivao.com.ar/api/va/member.php?op=add&key=<Key>&vid=<VID>&va=<VA Id>&cs=<Callsign>
+  * https://ivao.com.ar/api/va/member.php?op=add&key=XXXXXX&vid=100000&va=0&cs=1001
+
+== Eliminar miembro: ==
+
+  * https://ivao.com.ar/api/va/member.php?op=del&key=<Key>&vid=<VID>&va=<VA Id>&cs=<Callsign>
+  * https://ivao.com.ar/api/va/member.php?op=del&key=XXXXXX&vid=100000&va=0&cs=1001
+
+== Cambiar VID: ==
+
+  * https://ivao.com.ar/api/va/member.php?op=chng&key=<Key>&vid=<VID>&va=<VA Id>&ocs=<Old Callsign>&ocs=<New Callsign>
+  * https://ivao.com.ar/api/va/member.php?op=chng&key=XXXXXX&vid=100000&va=0&ocs=1001&ncs=1002
+
+== Listar mimebros: ==
+
+  * https://ivao.com.ar/api/va/member.php?op=del&key=<Key>&va=<VA Id>
+  * https://ivao.com.ar/api/va/member.php?op=del&key=XXXXXX&va=0
+
+==== Ejemplos en PHP ====
+
+Proximamente.

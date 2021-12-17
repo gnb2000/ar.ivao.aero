@@ -1,0 +1,54 @@
+<?php
+
+include('../conexion.php');
+
+$countryicao = 'SA';  
+$staffcountry = 'AR';
+$validcontrollers = array('DEL','GND','TWR','DEP','APP','CTR','FSS');
+$filecontents = file_get_contents('http://ivao.com.ar/elements/whazzup.txt'); //Testing file
+$rows = explode("\n", $filecontents);
+$filepart = '';
+$pilots = array();
+$pilotcount = 0;
+$controllers = array();
+$staff = array();
+$controllercount = 0;
+$generaldata = array();
+
+foreach ($rows as $row) {
+    if (substr($row,0,1) == '!') {
+        $filepart = substr($row,1);
+    } else {
+        switch ($filepart) {
+            case 'CLIENTS':
+                $fields = explode(":", $row);
+                if ($fields[3] == 'ATC') {
+                    $controllercount++;
+                    if (in_array(substr($fields[0],-3), $validcontrollers) && substr($fields[0],0,strlen($countryicao)) == $countryicao){
+						array_push($controllers, $fields); 
+						}
+						//if(mysqli_num_rows(mysqli_query($con,"SELECT vid FROM staff_members WHERE vid = $fields[1]")) != 0){
+							if (substr($fields[0],0,3) == $staffcountry . '-') { 
+								array_push($staff, $fields); 
+							//}
+						}                        
+                } else {
+                    $pilotcount++;
+                    if (substr($fields[11],0,strlen($countryicao)) == $countryicao || substr($fields[13],0,strlen($countryicao)) == $countryicao) {
+							array_push($pilots, $fields);
+                    }
+					//if(mysqli_num_rows(mysqli_query($con,"SELECT vid FROM staff_members WHERE vid = $fields[1]")) != 0){
+							//if (substr($fields[0],0,3) == $staffcountry . '-') { 
+								//array_push($staff, $fields); 
+							//}
+					//}
+                }
+                break;
+            case 'GENERAL':
+                list($key, $value) = explode('=', $row);
+                $generaldata[trim($key)] = trim($value);
+                break;
+        }
+    }
+}
+?>

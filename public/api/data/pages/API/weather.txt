@@ -1,0 +1,75 @@
+====== AR/BR Weather Information API ======
+
+==== Introducción ====
+
+En esta página podrá encontrar toda la información referente a la API de Meteorología creada por Andrés Robinson en 2014 para uso exclusivo de IVAO y publicada para terceros en 2015.
+
+Esta API hace posible la consulta de información METAR y TAF en cualquier estación activa de Argentina, Uruguay y/o Brasil.
+
+Actualmente esta API es utilizada por IVAO para generar la meteorología de la red en Argentina, Uruguay y Brasil. Como esta se hizo pública recientemente aun se encuentra en fase de desarrollo y puede recibir actualizaciones constantes, por eso es recomendable visitar esta pagina para recibir información.
+
+==== Funciones ====
+
+  * Consulta de METAR en AR, UY y/o BR.
+  * Consulta de MTAF en AR, UY y/o BR.
+
+==== API Weather ====
+
+^ Variable ^ Formato    ^ Descripción                     ^
+|   info   |    M       | Retrive METAR.                  |
+|  :::     |    T       | Retrive TAF.                    |
+|  :::     |  <del>  A  </del>     | <del>Retrive METAR and TAF.</del>*   |
+|  icao    |   string   | ICAO del aeródromo.             |
+|   out (optional)    |    xml     | Output results in XML.          |
+|  :::     |    plain   | Output results in plain text.        |
+|  :::     |    html    | Output results in HTML. (default)|
+**
+* Not available at the moment.**
+
+**Al momento la API solo soporta un ICAO por consulta.**
+
+
+==== Respuestas ====
+
+^ Información ^  Éxito  ^  Error  ^
+^ METAR       |  Array  |  Detalle de error  |
+^ TAF         |  Array  |  Detalle de error  |
+^ METAR and TAF      |  Array  |  Detalle de error  |
+
+==== URL ====
+
+^ Protocolo    ^ URL                                     ^
+| HTTP         | http://weather.ivao.com.ar/api.php      |
+| HTTPS        | https://weather.ivao.com.ar/api.php     |
+
+==== Como Usar ====
+
+La manera de acceder a la API es utilizando las variables en un HTTP GET.
+
+=== Ejemplo: ===
+
+  * https://weather.ivao.com.ar/api.php?info=<info>&icao=<ICAO>
+  * https://weather.ivao.com.ar/api.php?info=M&icao=SAEZ (METAR de SAEZ)
+  * https://weather.ivao.com.ar/api.php?info=T&icao=SAEZ (TAF de SAEZ)
+  * https://weather.ivao.com.ar/api.php?info=A&icao=SAEZ (METAR y TAF de SAEZ)
+
+
+==== Información Extendida ====
+
+La información a continuación no hace parte de la API pero también se encuentra disponible de manera pública y puede ser utilizada por cualquiera. La misma se encuentra disponible en 2 formatos, HTML y TXT para facilitar el acceso.
+
+=== Sources ===
+
+^ Formato ^  Informacion  ^  Protocolo  ^  URL  ^
+^ TXT     |  METAR  |  HTTP   |  http://weather.ivao.com.ar/source/metar.txt   |
+^ :::     |   :::   |  HTTPS  |  https://weather.ivao.com.ar/source/metar.txt  |
+^ :::     |   TAF   |  HTTP   |  http://weather.ivao.com.ar/source/taf.txt     |
+^ :::     |   :::   |  HTTPS  |  https://weather.ivao.com.ar/source/taf.txt    |
+^ HTML    |  METAR  |  HTTP   |  http://weather.ivao.com.ar/metar.php          |
+^ :::     |   :::   |  HTTPS  |  https://weather.ivao.com.ar/metar.php         |
+^ :::     |   TAF   |  HTTP   |  http://weather.ivao.com.ar/taf.php            |
+^ :::     |   :::   |  HTTPS  |  https://weather.ivao.com.ar/taf.php           |
+
+==== Ejemplos en PHP ====
+
+Proximamente.

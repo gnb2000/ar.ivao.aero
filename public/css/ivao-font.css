@@ -1,0 +1,139 @@
+@font-face {
+  font-family: 'ivao-font';
+  src: url('./font/ivao-font.eot?55767731');
+  src: url('./font/ivao-font.eot?55767731#iefix') format('embedded-opentype'),
+       url('./font/ivao-font.woff?55767731') format('woff'),
+       url('./font/ivao-font.ttf?55767731') format('truetype'),
+       url('./font/ivao-font.svg?55767731#ivao-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'ivao-font';
+    src: url('../font/ivao-font.svg?55767731#ivao-font') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-ivao1"]:before, [class*=" icon-ivao1"]:before {
+  font-family: "ivao-font";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-ivao1ts3:before { content: '\e800'; } /* '' */
+.icon-ivao1webeye:before { content: '\e801'; } /* '' */
+.icon-ivao1teamspeak:before { content: '\e802'; } /* '' */
+.icon-ivao1layout:before { content: '\e803'; } /* '' */
+.icon-ivao1menu:before { content: '\e804'; } /* '' */
+.icon-ivao1lock:before { content: '\e805'; } /* '' */
+.icon-ivao1lock-open:before { content: '\e806'; } /* '' */
+.icon-ivao1feather:before { content: '\e807'; } /* '' */
+.icon-ivao1pencil:before { content: '\e808'; } /* '' */
+.icon-ivao1vcard:before { content: '\e809'; } /* '' */
+.icon-ivao1flight:before { content: '\e80a'; } /* '' */
+.icon-ivao1paper-plane:before { content: '\e80b'; } /* '' */
+.icon-ivao1user:before { content: '\e80c'; } /* '' */
+.icon-ivao1user-add:before { content: '\e80d'; } /* '' */
+.icon-ivao1home:before { content: '\e80e'; } /* '' */
+.icon-ivao1plane-outline:before { content: '\e80f'; } /* '' */
+.icon-ivao1plane:before { content: '\e810'; } /* '' */
+.icon-ivao1user-1:before { content: '\e811'; } /* '' */
+.icon-ivao1windy-rain-inv:before { content: '\e812'; } /* '' */
+.icon-ivao1snow-inv:before { content: '\e813'; } /* '' */
+.icon-ivao1snow-heavy-inv:before { content: '\e814'; } /* '' */
+.icon-ivao1hail-inv:before { content: '\e815'; } /* '' */
+.icon-ivao1clouds-inv:before { content: '\e816'; } /* '' */
+.icon-ivao1clouds-flash-inv:before { content: '\e817'; } /* '' */
+.icon-ivao1temperature:before { content: '\e818'; } /* '' */
+.icon-ivao1compass:before { content: '\e819'; } /* '' */
+.icon-ivao1na:before { content: '\e81a'; } /* '' */
+.icon-ivao1celcius:before { content: '\e81b'; } /* '' */
+.icon-ivao1fahrenheit:before { content: '\e81c'; } /* '' */
+.icon-ivao1clouds-flash-alt:before { content: '\e81d'; } /* '' */
+.icon-ivao1sun-inv:before { content: '\e81e'; } /* '' */
+.icon-ivao1moon-inv:before { content: '\e81f'; } /* '' */
+.icon-ivao1cloud-sun-inv:before { content: '\e820'; } /* '' */
+.icon-ivao1cloud-moon-inv:before { content: '\e821'; } /* '' */
+.icon-ivao1cloud-inv:before { content: '\e822'; } /* '' */
+.icon-ivao1cloud-flash-inv:before { content: '\e823'; } /* '' */
+.icon-ivao1drizzle-inv:before { content: '\e824'; } /* '' */
+.icon-ivao1rain-inv:before { content: '\e825'; } /* '' */
+.icon-ivao1windy:before { content: '\e826'; } /* '' */
+.icon-ivao1rain:before { content: '\e827'; } /* '' */
+.icon-ivao1drizzle:before { content: '\e828'; } /* '' */
+.icon-ivao1cloud-flash-alt:before { content: '\e829'; } /* '' */
+.icon-ivao1cloud-flash:before { content: '\e82a'; } /* '' */
+.icon-ivao1cloud:before { content: '\e82b'; } /* '' */
+.icon-ivao1fog:before { content: '\e82c'; } /* '' */
+.icon-ivao1fog-cloud:before { content: '\e82d'; } /* '' */
+.icon-ivao1fog-moon:before { content: '\e82e'; } /* '' */
+.icon-ivao1fog-sun:before { content: '\e82f'; } /* '' */
+.icon-ivao1cloud-moon:before { content: '\e830'; } /* '' */
+.icon-ivao1cloud-sun:before { content: '\e831'; } /* '' */
+.icon-ivao1snowflake:before { content: '\e832'; } /* '' */
+.icon-ivao1wind:before { content: '\e833'; } /* '' */
+.icon-ivao1mist:before { content: '\e834'; } /* '' */
+.icon-ivao1eclipse:before { content: '\e835'; } /* '' */
+.icon-ivao1moon:before { content: '\e836'; } /* '' */
+.icon-ivao1sun:before { content: '\e837'; } /* '' */
+.icon-ivao1sunrise:before { content: '\e838'; } /* '' */
+.icon-ivao1windy-inv:before { content: '\e839'; } /* '' */
+.icon-ivao1windy-rain:before { content: '\e83a'; } /* '' */
+.icon-ivao1snow:before { content: '\e83b'; } /* '' */
+.icon-ivao1snow-alt:before { content: '\e83c'; } /* '' */
+.icon-ivao1snow-heavy:before { content: '\e83d'; } /* '' */
+.icon-ivao1hail:before { content: '\e83e'; } /* '' */
+.icon-ivao1clouds:before { content: '\e83f'; } /* '' */
+.icon-ivao1clouds-flash:before { content: '\e840'; } /* '' */
+.icon-ivao1user-2:before { content: '\e841'; } /* '' */
+.icon-ivao1users:before { content: '\e842'; } /* '' */
+.icon-ivao1mail:before { content: '\e843'; } /* '' */
+.icon-ivao1search:before { content: '\e844'; } /* '' */
+.icon-ivao1camera:before { content: '\e845'; } /* '' */
+.icon-ivao1th-thumb:before { content: '\e846'; } /* '' */
+.icon-ivao1th-list:before { content: '\e847'; } /* '' */
+.icon-ivao1lock-alt:before { content: '\e848'; } /* '' */
+.icon-ivao1lock-1:before { content: '\e849'; } /* '' */
+.icon-ivao1lock-open-1:before { content: '\e84a'; } /* '' */
+.icon-ivao1lock-open-alt:before { content: '\e84b'; } /* '' */
+.icon-ivao1home-1:before { content: '\e84c'; } /* '' */
+.icon-ivao1comment:before { content: '\e84d'; } /* '' */
+.icon-ivao1cog:before { content: '\e84e'; } /* '' */
+.icon-ivao1airfield:before { content: '\e84f'; } /* '' */
+.icon-ivao1airport:before { content: '\e850'; } /* '' */
+.icon-ivao1lock-2:before { content: '\e851'; } /* '' */
+.icon-ivao1ivaoaero-1:before { content: '\e852'; } /* '' */

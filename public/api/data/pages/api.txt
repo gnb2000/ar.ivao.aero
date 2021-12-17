@@ -1,0 +1,28 @@
+====== Central de API de IVAO Argentina ======
+
+===== ¿Que es? =====
+
+Una página con toda la información referente a las APIs desarrolladas por el equipo web de IVAO Argentina con la colaboración de VAs, IVAO HQ y otros desarrolladores.
+
+===== ¿Para que sirve? =====
+
+Cada API que dejamos disponible fue cuidadosamente pensada y programada por un equipo para garantizar la seguridad y privacidad de datos de todos los miembros.
+
+Cada una (de las API) tiene una función especifica y cumple un importante rol en el desarrollo de contenido asociado a la red y a la division.
+
+===== APIs Disponibles =====
+
+Las siguientes APIs ya fueron probadas y publicadas:
+  * [[api:va|VA]] / [[api:va:miembros|Miembros]]
+  * [[api:weather|Meteorologia]]
+
+===== APIs en Desarrollo =====
+
+Las siguientes APIs están siendo desarrolladas y probadas:
+  * [[api:va|VA]] / [[api:va:tours|Tours]]
+  * [[api:va|VA]] / [[api:va:infovuelos|Infovuelos]]
+
+===== Documentación =====
+
+La documentación sobre uso de cada una de las API se encuentra disponible en la pagina de la misma.
+

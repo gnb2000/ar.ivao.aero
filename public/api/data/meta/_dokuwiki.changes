@@ -1,0 +1,20 @@
+1454441339	201.68.17.144	e	api_va_miembros	andresrobinson	Check function added	
+1454442067	201.68.17.144	C	api:va	andresrobinson	created	
+1454442191	201.68.17.144	C	api:va:miembros	andresrobinson	created	
+1454442233	201.68.17.144	E	api:va	andresrobinson		
+1454442333	201.68.17.144	D	api_va_miembros	andresrobinson	removed	
+1454442357	201.68.17.144	D	vas	andresrobinson	removed	
+1454442759	201.68.17.144	C	api	andresrobinson	created	
+1454443747	201.68.17.144	C	api:weather	andresrobinson	created	
+1454444355	201.68.17.144	E	api:weather	andresrobinson		
+1454444780	201.68.17.144	E	api:va:miembros	andresrobinson		
+1454451046	201.68.17.144	E	api:weather	andresrobinson		
+1454455271	201.68.17.144	E	api:weather	andresrobinson		
+1454456555	201.68.17.144	E	api	andresrobinson		
+1454456637	201.68.17.144	E	api	andresrobinson	[APIs en Desarrollo] 	
+1454513765	201.68.17.144	E	api:weather	andresrobinson		
+1454515323	201.68.17.144	E	api:va:miembros	andresrobinson		
+1458822077	179.228.213.228	C	api:va:infovuelos	andresrobinson	created	
+1462914565	191.205.43.236	E	api:va:miembros	andresrobinson	[API Miembros] 	
+1466871200	201.68.247.46	e	api:va:infovuelos	andresrobinson	Added example	
+1466871237	201.68.247.46	E	api:va:infovuelos	andresrobinson	[Para Aerolineas] 	

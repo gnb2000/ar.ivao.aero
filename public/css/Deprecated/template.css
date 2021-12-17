@@ -1,0 +1,426 @@
+@charset "utf-8";
+/* CSS Template - Version 2 of custom.css - IVAO Argentina Bootstrap Template */
+/* IVAO Argentina. Copyright 2016. All rights reserved. template.css
+   Created by International Virtual Aviation Organisation - Argentina Division
+   By Josep Vargas AR-AWM - VID 421451 
+*/
+
+/* IVAO-AR Top Logo */
+ 
+#ivao_logo {
+    background: url("https://ivao.com.ar/images/logo/logo_new.png") no-repeat 0 0;
+    display: block;
+    float: left;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    width: 35%;
+}
+/* Navigation Bar Top - Users */
+#NavUsers {
+    /*position: absolute;*/
+    position: relative;
+	z-index: 2000;
+    top: 32%;
+    /*right: 20px;*/
+	float: right;
+    max-width: 80%;
+	margin-top: -4.5px;
+}
+
+#NavSites {
+    position: relative;
+    z-index: 201;
+    display: block;
+    /*margin: 0px 0px 15px;*/
+	margin: 6px 0px 0px;
+    float: right;
+}
+
+#NavLanguage {
+	position: relative;
+    z-index: 202;
+    display: block;
+    /*margin: 0px 0px 15px;*/
+	margin: 5px 0px 0px;
+    float: right;
+}
+
+#NavSites_Left {
+    position: relative;
+    z-index: 201;
+    display: block;
+	margin: 6px 0px 0px;
+    float: left;
+}
+
+#NavSites > ul > li:first-child {
+    border: 0px none;
+}
+
+#NavSites > ul > li {
+    position: relative;
+    float: left;
+    margin: 0px 0px 4px;
+    padding: 0px 8px;
+    border-left: 1px dotted #999;
+    vertical-align: top;
+	/*font-size: 13px;*/
+	font-size: 0.8em;
+	list-style: outside none none;
+	text-transform: uppercase;
+}
+
+.NavInfo {
+    float: right;
+    position: relative;
+    width: auto;
+	/*font-size: 13px;*/
+	font-size: 14px;
+}
+
+#NavInfo_time {
+    border-radius: 15px;
+    display: inline;
+    background-color: #FFF;
+    border: 2px solid #FFF;
+    float: left;
+    margin-right: 12px;
+    /*padding: 4px;*/
+	padding: 4px 6px 4px 6px;
+}
+
+#NavInfo_register {
+    border-radius: 15px;
+    display: inline;
+    background-color: #FFF;
+    border: 2px solid #5BA4D5;
+    float: left;
+    margin-right: 12px;
+    /*padding: 4px;*/
+	padding: 4px 6px 4px 6px;
+}
+
+#NavInfo_infovuelos {
+    border-radius: 15px;
+    display: inline;
+    background-color: #FFF;
+    border: 2px solid #5BA4D5;
+    float: left;
+    margin-right: 12px;
+    /*padding: 4px;*/
+	padding: 4px 6px 4px 6px;
+}
+
+#NavInfo_preguntanos {
+    border-radius: 15px;
+    display: inline;
+    background-color: #FFF;
+    border: 2px solid #5BA4D5;
+    float: left;
+    margin-right: 12px;
+    /*padding: 4px;*/
+	padding: 4px 6px 4px 6px;
+}
+
+#NavInfo_aulavirtual {
+    border-radius: 15px;
+    display: inline;
+    background-color: #FFF;
+    border: 2px solid #5BA4D5;
+    float: left;
+    margin-right: 12px;
+    /*padding: 4px;*/
+	padding: 4px 6px 4px 6px;
+}
+
+.NavInfo_pareaDiv, #NavInfo_askUs, .login {
+    display: inline;
+    border-radius: 10px;
+}
+
+#NavInfo_login {
+    background-color: #FFF;
+	background: #FFF url("https://ivao.com.ar/images/static/loginmiembros.png") no-repeat scroll;
+	border-radius: 15px;
+    border: 2px solid #F0BA4D;
+    float: left;
+    /*padding: 4px;*/
+	padding: 4px 6px 4px 6px;
+    /*margin-right: 12px;*/
+    min-height: 19px;
+}
+
+.NavInfo_login {
+    background-color: #FFF;
+	background: transparent url("https://ivao.com.ar/images/static/loginmiembros.png") no-repeat scroll;
+	border-radius: 15px;
+    border: 2px solid #DDD;
+    float: left;
+    position: relative;
+	padding: 4px 6px 4px 6px;
+    min-height: 19px;
+}
+
+.header_top > ul {
+    list-style: outside none none;
+	color: #FFF;
+	text-decoration: none;
+	font-family: Verdana,Geneva,sans-serif;
+    font-size: 10px;
+	height: 30px;
+	position: relative;
+}
+
+.header_top > li:first-child {
+	border: 0px none;
+}
+
+.header_top > li {
+    float: left;
+	list-style: outside none none;
+	text-decoration: none;
+	font-size: 10px;
+	font-family: Verdana,Geneva,sans-serif;
+    margin: 0px 0px 0px;
+    padding: 0px 0px;
+    border-left: 1px solid #999;
+    vertical-align: top;
+	height: 30px;
+	position: relative;
+}
+
+/* ERROR ACCESS PAGES */
+
+.error-page > .headline {
+    float: left;
+    font-size: 100px;
+    font-weight: 300;
+}
+
+.error-page {
+    width: 800px;
+    margin: 20px auto 0px;
+}
+
+.error-page > .error-content {
+    margin-left: 190px;
+    display: block;
+}
+
+/* preguntanos styles */
+
+.preguntanos_faq {
+	border-bottom: 1px solid #F7F7F7;
+	padding: 10px 0px 12px;
+	font-size: 12px;
+	color: #2A6496;
+}
+
+/* TABLES CONTENT */
+
+.table_green {
+    position: relative;
+    z-index: 0;
+    box-shadow: 0px 0px 0px 0px #E4E4E4;
+    border-width: 3px 1px 1px;
+    border-style: solid;
+    border-color: #00B28C #D9D9D9 #D9D9D9;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    transition: box-shadow 500ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+    transform: translateZ(0px);
+    padding: 15px;
+}
+
+.table_blue {
+    position: relative;
+    z-index: 0;
+    box-shadow: 0px 0px 0px 0px #E4E4E4;
+    border-width: 3px 1px 1px;
+    border-style: solid;
+    border-color: #0255A5  #D9D9D9 #D9D9D9;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    transition: box-shadow 500ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+    transform: translateZ(0px);
+    padding: 15px;
+}
+
+.table_yellow {
+    position: relative;
+    z-index: 0;
+    box-shadow: 0px 0px 0px 0px #E4E4E4;
+    border-width: 3px 1px 1px;
+    border-style: solid;
+    border-color: #EAAF0F #D9D9D9 #D9D9D9;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    transition: box-shadow 500ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+    transform: translateZ(0px);
+    padding: 15px;
+}
+
+.table_yellow_agenda {
+    position: relative;
+    z-index: 0;
+    box-shadow: 0px 0px 0px 0px #E4E4E4;
+    border-width: 3px 1px 1px;
+    border-style: solid;
+    border-color: #EAAF0F #D9D9D9 #D9D9D9;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    transition: box-shadow 500ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+    transform: translateZ(0px);
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.table_blue_agenda {
+    position: relative;
+    z-index: 0;
+    box-shadow: 0px 0px 0px 0px #E4E4E4;
+    border-width: 3px 1px 1px;
+    border-style: solid;
+    border-color: #0255A5 #D9D9D9 #D9D9D9;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    transition: box-shadow 500ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+    transform: translateZ(0px);
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.table_inicio {
+    position: relative;
+    z-index: 0;
+    box-shadow: 0px 0px 0px 0px #E4E4E4;
+    border-width: 3px 1px 1px;
+    border-style: solid;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    transition: box-shadow 500ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+    transform: translateZ(0px);
+    padding: 15px;
+}
+
+.table_danger {
+    border-color: #A94442  #D9D9D9 #D9D9D9;
+}
+
+.table_warning {
+    border-color: rgb(138, 109, 59) rgb(217, 217, 217) rgb(217, 217, 217);
+}
+
+/* NAV PILLS (SIGN IN) */
+.nav-justified-sign {
+    width: 100%;
+}
+.nav-sign {
+    padding-left: 0px;
+    margin-bottom: 0px;
+    list-style: outside none none;
+}
+.step-list-group-item {
+	font-size: 18px;
+	font-family: Arial;
+	font-weight: 500;
+}
+
+/* PREGUNTES FREQUENTS - ESTILS DE TEXT */
+.faq_style {
+	line-height: 1.1;
+	font-size: 16px;
+	color: #222;
+}
+
+/* TABLE SEARCH */
+.results tr[visible='false'],
+.no-result{
+  display:none;
+}
+
+.results tr[visible='true']{
+  display:table-row;
+}
+
+.counter-sch {
+  /*padding:8px; */
+  color:#ccc;
+}
+
+/* última hora */
+.ultima_hora {
+    display: block;
+    background-image: url("https://ivao.com.ar/images/ultimaHora.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    overflow: hidden;
+}
+
+/* ACTIVIDAD */
+.activity_20px {
+	font-size:20px;
+	text-align:center;
+}
+
+/*TABLA CONTINGUT */
+.tabla_content {
+    position: relative;
+    z-index: 0;
+    box-shadow: 0px 0px 0px 0px #E4E4E4;
+    border-width: 2px 1px 1px;
+    border-style: solid;
+    border-color: #0255A5 #D9D9D9 #D9D9D9;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    transition: box-shadow 500ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+    transform: translateZ(0px);
+    padding: 15px;
+}
+/*STAFF*/
+.staff_name {
+	font-size: 16px;
+	font-weight: 400;
+	font-size: 36px;
+	color: #2A4982;
+}
+.size_impartido {
+	font-size: 13px;
+}
+.administrador {
+	background-image: url("../images/cogs.png");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 11%;
+}
+.staff {
+	background-image: url("../images/user.png");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 11%;
+}
+/*SECRETARÍA*/

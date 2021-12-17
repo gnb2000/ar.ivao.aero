@@ -1,0 +1,21 @@
+====== API de VAs ======
+
+===== ¿Que es? =====
+
+API es un sistema creado por la división Argentina de IVAO para permitir que las VAs puedan acceder a recursos de la división de una manera ordenada y segura, garantizando tanto la seguridad y privacidad de los datos de los miembros como la accesibilidad de datos por parte de la división y las VAs.
+
+Dentro de cada API creada usted podrá encontrar información acerca de su uso y en algunos casos ejemplos en php.
+
+===== APIs Disponibles =====
+
+Como parte de nuestro compromiso con las VAs y en una política de fomento a la actividad de las mismas, nos encontramos constantemente trabajando en nuevas APIs y funciones.
+
+Las siguientes APIs se encuentran actualmente activas:
+  * [[api:va:miembros|Miembros]]
+
+Caso las APIs disponibles no cubran sus necesidades por favor no dude en contactarnos.
+
+===== Documentación =====
+
+A continuación se encuentra la documentación correspondiente a las API activas.
+  * [[api:va:miembros|Miembros]]
